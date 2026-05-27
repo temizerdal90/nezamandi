@@ -9,3 +9,35 @@ function syncSearch(source){const big=document.getElementById("bigSearchInput"),
 function fillYears(){const sel=document.getElementById("yearFilter");if(!sel||!window.NZ_DATA)return;[...new Set(window.NZ_DATA.map(r=>r.year))].sort((a,b)=>b-a).forEach(y=>{if(![...sel.options].map(o=>o.value).includes(String(y))){const o=document.createElement("option");o.value=y;o.textContent=y;sel.appendChild(o)}})}
 function renderTodayBox(){const labelEl=document.getElementById("todayLabel"),titleEl=document.getElementById("todayTitle"),textEl=document.getElementById("todayText");if(!labelEl||!titleEl||!textEl||!window.NZ_TODAY)return;const now=new Date();const key=String(now.getMonth()+1).padStart(2,"0")+"-"+String(now.getDate()).padStart(2,"0");let items=window.NZ_TODAY.filter(x=>x.date===key);if(items.length===0)items=[{label:now.toLocaleDateString("tr-TR",{day:"numeric",month:"long"}),title:"Bugünün arşivi hazırlanıyor",year:"",text:"Bu tarih için kayıt eklendikçe burada otomatik görünür."}];labelEl.textContent=items[0].label;titleEl.textContent="Tarihte bugün ne oldu?";textEl.innerHTML=items.slice(0,4).map(it=>`<span class="today-mini-event"><b>${it.year?it.year+" • ":""}${it.title}</b><small>${it.text}</small></span>`).join("")}
 document.addEventListener("DOMContentLoaded",()=>{fillYears();renderArchive();renderTodayBox();document.getElementById("bigSearchInput")?.addEventListener("input",()=>syncSearch("big"));document.getElementById("sideSearchInput")?.addEventListener("input",()=>syncSearch("side"));["typeFilter","yearFilter"].forEach(id=>document.getElementById(id)?.addEventListener("input",renderArchive))});
+
+
+async function renderTodayBoxLive(){
+  const labelEl = document.getElementById("todayLabel");
+  const titleEl = document.getElementById("todayTitle");
+  const textEl = document.getElementById("todayText");
+  if(!labelEl || !titleEl || !textEl) return;
+
+  try {
+    const res = await fetch("/api/tarihte-bugun", { cache: "no-store" });
+    const data = await res.json();
+
+    if(!res.ok || !data.items || !data.items.length){
+      if(typeof renderTodayBox === "function") renderTodayBox();
+      return;
+    }
+
+    labelEl.textContent = data.label || "Bugün";
+    titleEl.textContent = "Tarihte bugün ne oldu?";
+    textEl.innerHTML = data.items.slice(0,3).map(it => {
+      const title = (it.year ? it.year + " • " : "") + (it.title || "");
+      const text = it.text || "";
+      return `<span class="today-mini-event"><b>${title}</b><small>${text}</small></span>`;
+    }).join("");
+  } catch(e) {
+    if(typeof renderTodayBox === "function") renderTodayBox();
+  }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  setTimeout(renderTodayBoxLive, 350);
+});
