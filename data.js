@@ -7911,6 +7911,14 @@ window.NZ_TODAY = [
   {
     "date": "01-01",
     "label": "1 Ocak",
+    "title": "1 Ocak tarihte bugün",
+    "year": "",
+    "text": "1 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "01-01",
+    "label": "1 Ocak",
     "title": "Yeni yıl ve harf devrimi dönemi",
     "year": "1929",
     "text": "Türkiye'de yeni Türk harflerinin kullanımı 1929 başından itibaren resmî yaşamda yaygınlaştı.",
@@ -7919,65 +7927,65 @@ window.NZ_TODAY = [
   {
     "date": "01-02",
     "label": "2 Ocak",
-    "title": "2 Ocak arşiv kaydı",
+    "title": "2 Ocak tarihte bugün",
     "year": "",
-    "text": "2 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-03",
     "label": "3 Ocak",
-    "title": "3 Ocak arşiv kaydı",
+    "title": "3 Ocak tarihte bugün",
     "year": "",
-    "text": "3 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-04",
     "label": "4 Ocak",
-    "title": "4 Ocak arşiv kaydı",
+    "title": "4 Ocak tarihte bugün",
     "year": "",
-    "text": "4 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-05",
     "label": "5 Ocak",
-    "title": "5 Ocak arşiv kaydı",
+    "title": "5 Ocak tarihte bugün",
     "year": "",
-    "text": "5 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-06",
     "label": "6 Ocak",
-    "title": "6 Ocak arşiv kaydı",
+    "title": "6 Ocak tarihte bugün",
     "year": "",
-    "text": "6 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-07",
     "label": "7 Ocak",
-    "title": "7 Ocak arşiv kaydı",
+    "title": "7 Ocak tarihte bugün",
     "year": "",
-    "text": "7 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-08",
     "label": "8 Ocak",
-    "title": "8 Ocak arşiv kaydı",
+    "title": "8 Ocak tarihte bugün",
     "year": "",
-    "text": "8 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-09",
     "label": "9 Ocak",
-    "title": "9 Ocak arşiv kaydı",
+    "title": "9 Ocak tarihte bugün",
     "year": "",
-    "text": "9 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -7991,105 +7999,113 @@ window.NZ_TODAY = [
   {
     "date": "01-11",
     "label": "11 Ocak",
-    "title": "11 Ocak arşiv kaydı",
+    "title": "11 Ocak tarihte bugün",
     "year": "",
-    "text": "11 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-12",
     "label": "12 Ocak",
-    "title": "12 Ocak arşiv kaydı",
+    "title": "12 Ocak tarihte bugün",
     "year": "",
-    "text": "12 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-13",
     "label": "13 Ocak",
-    "title": "13 Ocak arşiv kaydı",
+    "title": "13 Ocak tarihte bugün",
     "year": "",
-    "text": "13 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-14",
     "label": "14 Ocak",
-    "title": "14 Ocak arşiv kaydı",
+    "title": "14 Ocak tarihte bugün",
     "year": "",
-    "text": "14 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-15",
     "label": "15 Ocak",
-    "title": "15 Ocak arşiv kaydı",
+    "title": "15 Ocak tarihte bugün",
     "year": "",
-    "text": "15 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-16",
     "label": "16 Ocak",
-    "title": "16 Ocak arşiv kaydı",
+    "title": "16 Ocak tarihte bugün",
     "year": "",
-    "text": "16 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-17",
     "label": "17 Ocak",
-    "title": "17 Ocak arşiv kaydı",
+    "title": "17 Ocak tarihte bugün",
     "year": "",
-    "text": "17 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-18",
     "label": "18 Ocak",
-    "title": "18 Ocak arşiv kaydı",
+    "title": "18 Ocak tarihte bugün",
     "year": "",
-    "text": "18 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-19",
     "label": "19 Ocak",
-    "title": "19 Ocak arşiv kaydı",
+    "title": "19 Ocak tarihte bugün",
     "year": "",
-    "text": "19 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-20",
     "label": "20 Ocak",
-    "title": "20 Ocak arşiv kaydı",
+    "title": "20 Ocak tarihte bugün",
     "year": "",
-    "text": "20 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-21",
     "label": "21 Ocak",
-    "title": "21 Ocak arşiv kaydı",
+    "title": "21 Ocak tarihte bugün",
     "year": "",
-    "text": "21 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-22",
     "label": "22 Ocak",
-    "title": "22 Ocak arşiv kaydı",
+    "title": "22 Ocak tarihte bugün",
     "year": "",
-    "text": "22 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-23",
     "label": "23 Ocak",
-    "title": "23 Ocak arşiv kaydı",
+    "title": "23 Ocak tarihte bugün",
     "year": "",
-    "text": "23 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "01-24",
+    "label": "24 Ocak",
+    "title": "24 Ocak tarihte bugün",
+    "year": "",
+    "text": "24 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8103,161 +8119,169 @@ window.NZ_TODAY = [
   {
     "date": "01-25",
     "label": "25 Ocak",
-    "title": "25 Ocak arşiv kaydı",
+    "title": "25 Ocak tarihte bugün",
     "year": "",
-    "text": "25 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-26",
     "label": "26 Ocak",
-    "title": "26 Ocak arşiv kaydı",
+    "title": "26 Ocak tarihte bugün",
     "year": "",
-    "text": "26 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-27",
     "label": "27 Ocak",
-    "title": "27 Ocak arşiv kaydı",
+    "title": "27 Ocak tarihte bugün",
     "year": "",
-    "text": "27 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-28",
     "label": "28 Ocak",
-    "title": "28 Ocak arşiv kaydı",
+    "title": "28 Ocak tarihte bugün",
     "year": "",
-    "text": "28 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-29",
     "label": "29 Ocak",
-    "title": "29 Ocak arşiv kaydı",
+    "title": "29 Ocak tarihte bugün",
     "year": "",
-    "text": "29 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-30",
     "label": "30 Ocak",
-    "title": "30 Ocak arşiv kaydı",
+    "title": "30 Ocak tarihte bugün",
     "year": "",
-    "text": "30 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "01-31",
     "label": "31 Ocak",
-    "title": "31 Ocak arşiv kaydı",
+    "title": "31 Ocak tarihte bugün",
     "year": "",
-    "text": "31 Ocak için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "31 Ocak gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-01",
     "label": "1 Şubat",
-    "title": "1 Şubat arşiv kaydı",
+    "title": "1 Şubat tarihte bugün",
     "year": "",
-    "text": "1 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-02",
     "label": "2 Şubat",
-    "title": "2 Şubat arşiv kaydı",
+    "title": "2 Şubat tarihte bugün",
     "year": "",
-    "text": "2 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-03",
     "label": "3 Şubat",
-    "title": "3 Şubat arşiv kaydı",
+    "title": "3 Şubat tarihte bugün",
     "year": "",
-    "text": "3 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-04",
     "label": "4 Şubat",
-    "title": "4 Şubat arşiv kaydı",
+    "title": "4 Şubat tarihte bugün",
     "year": "",
-    "text": "4 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-05",
     "label": "5 Şubat",
-    "title": "5 Şubat arşiv kaydı",
+    "title": "5 Şubat tarihte bugün",
     "year": "",
-    "text": "5 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-06",
     "label": "6 Şubat",
-    "title": "6 Şubat arşiv kaydı",
+    "title": "6 Şubat tarihte bugün",
     "year": "",
-    "text": "6 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-07",
     "label": "7 Şubat",
-    "title": "7 Şubat arşiv kaydı",
+    "title": "7 Şubat tarihte bugün",
     "year": "",
-    "text": "7 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-08",
     "label": "8 Şubat",
-    "title": "8 Şubat arşiv kaydı",
+    "title": "8 Şubat tarihte bugün",
     "year": "",
-    "text": "8 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-09",
     "label": "9 Şubat",
-    "title": "9 Şubat arşiv kaydı",
+    "title": "9 Şubat tarihte bugün",
     "year": "",
-    "text": "9 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-10",
     "label": "10 Şubat",
-    "title": "10 Şubat arşiv kaydı",
+    "title": "10 Şubat tarihte bugün",
     "year": "",
-    "text": "10 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-11",
     "label": "11 Şubat",
-    "title": "11 Şubat arşiv kaydı",
+    "title": "11 Şubat tarihte bugün",
     "year": "",
-    "text": "11 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-12",
     "label": "12 Şubat",
-    "title": "12 Şubat arşiv kaydı",
+    "title": "12 Şubat tarihte bugün",
     "year": "",
-    "text": "12 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-13",
     "label": "13 Şubat",
-    "title": "13 Şubat arşiv kaydı",
+    "title": "13 Şubat tarihte bugün",
     "year": "",
-    "text": "13 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "02-14",
+    "label": "14 Şubat",
+    "title": "14 Şubat tarihte bugün",
+    "year": "",
+    "text": "14 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8271,177 +8295,185 @@ window.NZ_TODAY = [
   {
     "date": "02-15",
     "label": "15 Şubat",
-    "title": "15 Şubat arşiv kaydı",
+    "title": "15 Şubat tarihte bugün",
     "year": "",
-    "text": "15 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-16",
     "label": "16 Şubat",
-    "title": "16 Şubat arşiv kaydı",
+    "title": "16 Şubat tarihte bugün",
     "year": "",
-    "text": "16 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-17",
     "label": "17 Şubat",
-    "title": "17 Şubat arşiv kaydı",
+    "title": "17 Şubat tarihte bugün",
     "year": "",
-    "text": "17 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-18",
     "label": "18 Şubat",
-    "title": "18 Şubat arşiv kaydı",
+    "title": "18 Şubat tarihte bugün",
     "year": "",
-    "text": "18 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-19",
     "label": "19 Şubat",
-    "title": "19 Şubat arşiv kaydı",
+    "title": "19 Şubat tarihte bugün",
     "year": "",
-    "text": "19 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-20",
     "label": "20 Şubat",
-    "title": "20 Şubat arşiv kaydı",
+    "title": "20 Şubat tarihte bugün",
     "year": "",
-    "text": "20 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-21",
     "label": "21 Şubat",
-    "title": "21 Şubat arşiv kaydı",
+    "title": "21 Şubat tarihte bugün",
     "year": "",
-    "text": "21 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-22",
     "label": "22 Şubat",
-    "title": "22 Şubat arşiv kaydı",
+    "title": "22 Şubat tarihte bugün",
     "year": "",
-    "text": "22 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-23",
     "label": "23 Şubat",
-    "title": "23 Şubat arşiv kaydı",
+    "title": "23 Şubat tarihte bugün",
     "year": "",
-    "text": "23 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-24",
     "label": "24 Şubat",
-    "title": "24 Şubat arşiv kaydı",
+    "title": "24 Şubat tarihte bugün",
     "year": "",
-    "text": "24 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-25",
     "label": "25 Şubat",
-    "title": "25 Şubat arşiv kaydı",
+    "title": "25 Şubat tarihte bugün",
     "year": "",
-    "text": "25 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-26",
     "label": "26 Şubat",
-    "title": "26 Şubat arşiv kaydı",
+    "title": "26 Şubat tarihte bugün",
     "year": "",
-    "text": "26 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-27",
     "label": "27 Şubat",
-    "title": "27 Şubat arşiv kaydı",
+    "title": "27 Şubat tarihte bugün",
     "year": "",
-    "text": "27 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-28",
     "label": "28 Şubat",
-    "title": "28 Şubat arşiv kaydı",
+    "title": "28 Şubat tarihte bugün",
     "year": "",
-    "text": "28 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "02-29",
     "label": "29 Şubat",
-    "title": "29 Şubat arşiv kaydı",
+    "title": "29 Şubat tarihte bugün",
     "year": "",
-    "text": "29 Şubat için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Şubat gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-01",
     "label": "1 Mart",
-    "title": "1 Mart arşiv kaydı",
+    "title": "1 Mart tarihte bugün",
     "year": "",
-    "text": "1 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-02",
     "label": "2 Mart",
-    "title": "2 Mart arşiv kaydı",
+    "title": "2 Mart tarihte bugün",
     "year": "",
-    "text": "2 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-03",
     "label": "3 Mart",
-    "title": "3 Mart arşiv kaydı",
+    "title": "3 Mart tarihte bugün",
     "year": "",
-    "text": "3 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-04",
     "label": "4 Mart",
-    "title": "4 Mart arşiv kaydı",
+    "title": "4 Mart tarihte bugün",
     "year": "",
-    "text": "4 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-05",
     "label": "5 Mart",
-    "title": "5 Mart arşiv kaydı",
+    "title": "5 Mart tarihte bugün",
     "year": "",
-    "text": "5 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-06",
     "label": "6 Mart",
-    "title": "6 Mart arşiv kaydı",
+    "title": "6 Mart tarihte bugün",
     "year": "",
-    "text": "6 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-07",
     "label": "7 Mart",
-    "title": "7 Mart arşiv kaydı",
+    "title": "7 Mart tarihte bugün",
     "year": "",
-    "text": "7 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "03-08",
+    "label": "8 Mart",
+    "title": "8 Mart tarihte bugün",
+    "year": "",
+    "text": "8 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8455,25 +8487,25 @@ window.NZ_TODAY = [
   {
     "date": "03-09",
     "label": "9 Mart",
-    "title": "9 Mart arşiv kaydı",
+    "title": "9 Mart tarihte bugün",
     "year": "",
-    "text": "9 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-10",
     "label": "10 Mart",
-    "title": "10 Mart arşiv kaydı",
+    "title": "10 Mart tarihte bugün",
     "year": "",
-    "text": "10 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-11",
     "label": "11 Mart",
-    "title": "11 Mart arşiv kaydı",
+    "title": "11 Mart tarihte bugün",
     "year": "",
-    "text": "11 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8487,41 +8519,41 @@ window.NZ_TODAY = [
   {
     "date": "03-13",
     "label": "13 Mart",
-    "title": "13 Mart arşiv kaydı",
+    "title": "13 Mart tarihte bugün",
     "year": "",
-    "text": "13 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-14",
     "label": "14 Mart",
-    "title": "14 Mart arşiv kaydı",
+    "title": "14 Mart tarihte bugün",
     "year": "",
-    "text": "14 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-15",
     "label": "15 Mart",
-    "title": "15 Mart arşiv kaydı",
+    "title": "15 Mart tarihte bugün",
     "year": "",
-    "text": "15 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-16",
     "label": "16 Mart",
-    "title": "16 Mart arşiv kaydı",
+    "title": "16 Mart tarihte bugün",
     "year": "",
-    "text": "16 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-17",
     "label": "17 Mart",
-    "title": "17 Mart arşiv kaydı",
+    "title": "17 Mart tarihte bugün",
     "year": "",
-    "text": "17 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8535,281 +8567,281 @@ window.NZ_TODAY = [
   {
     "date": "03-19",
     "label": "19 Mart",
-    "title": "19 Mart arşiv kaydı",
+    "title": "19 Mart tarihte bugün",
     "year": "",
-    "text": "19 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-20",
     "label": "20 Mart",
-    "title": "20 Mart arşiv kaydı",
+    "title": "20 Mart tarihte bugün",
     "year": "",
-    "text": "20 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-21",
     "label": "21 Mart",
-    "title": "21 Mart arşiv kaydı",
+    "title": "21 Mart tarihte bugün",
     "year": "",
-    "text": "21 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-22",
     "label": "22 Mart",
-    "title": "22 Mart arşiv kaydı",
+    "title": "22 Mart tarihte bugün",
     "year": "",
-    "text": "22 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-23",
     "label": "23 Mart",
-    "title": "23 Mart arşiv kaydı",
+    "title": "23 Mart tarihte bugün",
     "year": "",
-    "text": "23 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-24",
     "label": "24 Mart",
-    "title": "24 Mart arşiv kaydı",
+    "title": "24 Mart tarihte bugün",
     "year": "",
-    "text": "24 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-25",
     "label": "25 Mart",
-    "title": "25 Mart arşiv kaydı",
+    "title": "25 Mart tarihte bugün",
     "year": "",
-    "text": "25 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-26",
     "label": "26 Mart",
-    "title": "26 Mart arşiv kaydı",
+    "title": "26 Mart tarihte bugün",
     "year": "",
-    "text": "26 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-27",
     "label": "27 Mart",
-    "title": "27 Mart arşiv kaydı",
+    "title": "27 Mart tarihte bugün",
     "year": "",
-    "text": "27 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-28",
     "label": "28 Mart",
-    "title": "28 Mart arşiv kaydı",
+    "title": "28 Mart tarihte bugün",
     "year": "",
-    "text": "28 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-29",
     "label": "29 Mart",
-    "title": "29 Mart arşiv kaydı",
+    "title": "29 Mart tarihte bugün",
     "year": "",
-    "text": "29 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-30",
     "label": "30 Mart",
-    "title": "30 Mart arşiv kaydı",
+    "title": "30 Mart tarihte bugün",
     "year": "",
-    "text": "30 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "03-31",
     "label": "31 Mart",
-    "title": "31 Mart arşiv kaydı",
+    "title": "31 Mart tarihte bugün",
     "year": "",
-    "text": "31 Mart için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "31 Mart gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-01",
     "label": "1 Nisan",
-    "title": "1 Nisan arşiv kaydı",
+    "title": "1 Nisan tarihte bugün",
     "year": "",
-    "text": "1 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-02",
     "label": "2 Nisan",
-    "title": "2 Nisan arşiv kaydı",
+    "title": "2 Nisan tarihte bugün",
     "year": "",
-    "text": "2 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-03",
     "label": "3 Nisan",
-    "title": "3 Nisan arşiv kaydı",
+    "title": "3 Nisan tarihte bugün",
     "year": "",
-    "text": "3 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-04",
     "label": "4 Nisan",
-    "title": "4 Nisan arşiv kaydı",
+    "title": "4 Nisan tarihte bugün",
     "year": "",
-    "text": "4 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-05",
     "label": "5 Nisan",
-    "title": "5 Nisan arşiv kaydı",
+    "title": "5 Nisan tarihte bugün",
     "year": "",
-    "text": "5 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-06",
     "label": "6 Nisan",
-    "title": "6 Nisan arşiv kaydı",
+    "title": "6 Nisan tarihte bugün",
     "year": "",
-    "text": "6 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-07",
     "label": "7 Nisan",
-    "title": "7 Nisan arşiv kaydı",
+    "title": "7 Nisan tarihte bugün",
     "year": "",
-    "text": "7 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-08",
     "label": "8 Nisan",
-    "title": "8 Nisan arşiv kaydı",
+    "title": "8 Nisan tarihte bugün",
     "year": "",
-    "text": "8 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-09",
     "label": "9 Nisan",
-    "title": "9 Nisan arşiv kaydı",
+    "title": "9 Nisan tarihte bugün",
     "year": "",
-    "text": "9 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-10",
     "label": "10 Nisan",
-    "title": "10 Nisan arşiv kaydı",
+    "title": "10 Nisan tarihte bugün",
     "year": "",
-    "text": "10 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-11",
     "label": "11 Nisan",
-    "title": "11 Nisan arşiv kaydı",
+    "title": "11 Nisan tarihte bugün",
     "year": "",
-    "text": "11 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-12",
     "label": "12 Nisan",
-    "title": "12 Nisan arşiv kaydı",
+    "title": "12 Nisan tarihte bugün",
     "year": "",
-    "text": "12 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-13",
     "label": "13 Nisan",
-    "title": "13 Nisan arşiv kaydı",
+    "title": "13 Nisan tarihte bugün",
     "year": "",
-    "text": "13 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-14",
     "label": "14 Nisan",
-    "title": "14 Nisan arşiv kaydı",
+    "title": "14 Nisan tarihte bugün",
     "year": "",
-    "text": "14 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-15",
     "label": "15 Nisan",
-    "title": "15 Nisan arşiv kaydı",
+    "title": "15 Nisan tarihte bugün",
     "year": "",
-    "text": "15 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-16",
     "label": "16 Nisan",
-    "title": "16 Nisan arşiv kaydı",
+    "title": "16 Nisan tarihte bugün",
     "year": "",
-    "text": "16 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-17",
     "label": "17 Nisan",
-    "title": "17 Nisan arşiv kaydı",
+    "title": "17 Nisan tarihte bugün",
     "year": "",
-    "text": "17 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-18",
     "label": "18 Nisan",
-    "title": "18 Nisan arşiv kaydı",
+    "title": "18 Nisan tarihte bugün",
     "year": "",
-    "text": "18 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-19",
     "label": "19 Nisan",
-    "title": "19 Nisan arşiv kaydı",
+    "title": "19 Nisan tarihte bugün",
     "year": "",
-    "text": "19 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-20",
     "label": "20 Nisan",
-    "title": "20 Nisan arşiv kaydı",
+    "title": "20 Nisan tarihte bugün",
     "year": "",
-    "text": "20 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-21",
     "label": "21 Nisan",
-    "title": "21 Nisan arşiv kaydı",
+    "title": "21 Nisan tarihte bugün",
     "year": "",
-    "text": "21 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-22",
     "label": "22 Nisan",
-    "title": "22 Nisan arşiv kaydı",
+    "title": "22 Nisan tarihte bugün",
     "year": "",
-    "text": "22 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8823,57 +8855,65 @@ window.NZ_TODAY = [
   {
     "date": "04-24",
     "label": "24 Nisan",
-    "title": "24 Nisan arşiv kaydı",
+    "title": "24 Nisan tarihte bugün",
     "year": "",
-    "text": "24 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-25",
     "label": "25 Nisan",
-    "title": "25 Nisan arşiv kaydı",
+    "title": "25 Nisan tarihte bugün",
     "year": "",
-    "text": "25 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-26",
     "label": "26 Nisan",
-    "title": "26 Nisan arşiv kaydı",
+    "title": "26 Nisan tarihte bugün",
     "year": "",
-    "text": "26 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-27",
     "label": "27 Nisan",
-    "title": "27 Nisan arşiv kaydı",
+    "title": "27 Nisan tarihte bugün",
     "year": "",
-    "text": "27 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-28",
     "label": "28 Nisan",
-    "title": "28 Nisan arşiv kaydı",
+    "title": "28 Nisan tarihte bugün",
     "year": "",
-    "text": "28 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-29",
     "label": "29 Nisan",
-    "title": "29 Nisan arşiv kaydı",
+    "title": "29 Nisan tarihte bugün",
     "year": "",
-    "text": "29 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "04-30",
     "label": "30 Nisan",
-    "title": "30 Nisan arşiv kaydı",
+    "title": "30 Nisan tarihte bugün",
     "year": "",
-    "text": "30 Nisan için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Nisan gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "05-01",
+    "label": "1 Mayıs",
+    "title": "1 Mayıs tarihte bugün",
+    "year": "",
+    "text": "1 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -8887,137 +8927,137 @@ window.NZ_TODAY = [
   {
     "date": "05-02",
     "label": "2 Mayıs",
-    "title": "2 Mayıs arşiv kaydı",
+    "title": "2 Mayıs tarihte bugün",
     "year": "",
-    "text": "2 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-03",
     "label": "3 Mayıs",
-    "title": "3 Mayıs arşiv kaydı",
+    "title": "3 Mayıs tarihte bugün",
     "year": "",
-    "text": "3 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-04",
     "label": "4 Mayıs",
-    "title": "4 Mayıs arşiv kaydı",
+    "title": "4 Mayıs tarihte bugün",
     "year": "",
-    "text": "4 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-05",
     "label": "5 Mayıs",
-    "title": "5 Mayıs arşiv kaydı",
+    "title": "5 Mayıs tarihte bugün",
     "year": "",
-    "text": "5 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-06",
     "label": "6 Mayıs",
-    "title": "6 Mayıs arşiv kaydı",
+    "title": "6 Mayıs tarihte bugün",
     "year": "",
-    "text": "6 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-07",
     "label": "7 Mayıs",
-    "title": "7 Mayıs arşiv kaydı",
+    "title": "7 Mayıs tarihte bugün",
     "year": "",
-    "text": "7 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-08",
     "label": "8 Mayıs",
-    "title": "8 Mayıs arşiv kaydı",
+    "title": "8 Mayıs tarihte bugün",
     "year": "",
-    "text": "8 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-09",
     "label": "9 Mayıs",
-    "title": "9 Mayıs arşiv kaydı",
+    "title": "9 Mayıs tarihte bugün",
     "year": "",
-    "text": "9 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-10",
     "label": "10 Mayıs",
-    "title": "10 Mayıs arşiv kaydı",
+    "title": "10 Mayıs tarihte bugün",
     "year": "",
-    "text": "10 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-11",
     "label": "11 Mayıs",
-    "title": "11 Mayıs arşiv kaydı",
+    "title": "11 Mayıs tarihte bugün",
     "year": "",
-    "text": "11 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-12",
     "label": "12 Mayıs",
-    "title": "12 Mayıs arşiv kaydı",
+    "title": "12 Mayıs tarihte bugün",
     "year": "",
-    "text": "12 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-13",
     "label": "13 Mayıs",
-    "title": "13 Mayıs arşiv kaydı",
+    "title": "13 Mayıs tarihte bugün",
     "year": "",
-    "text": "13 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-14",
     "label": "14 Mayıs",
-    "title": "14 Mayıs arşiv kaydı",
+    "title": "14 Mayıs tarihte bugün",
     "year": "",
-    "text": "14 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-15",
     "label": "15 Mayıs",
-    "title": "15 Mayıs arşiv kaydı",
+    "title": "15 Mayıs tarihte bugün",
     "year": "",
-    "text": "15 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-16",
     "label": "16 Mayıs",
-    "title": "16 Mayıs arşiv kaydı",
+    "title": "16 Mayıs tarihte bugün",
     "year": "",
-    "text": "16 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-17",
     "label": "17 Mayıs",
-    "title": "17 Mayıs arşiv kaydı",
+    "title": "17 Mayıs tarihte bugün",
     "year": "",
-    "text": "17 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-18",
     "label": "18 Mayıs",
-    "title": "18 Mayıs arşiv kaydı",
+    "title": "18 Mayıs tarihte bugün",
     "year": "",
-    "text": "18 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -9031,49 +9071,49 @@ window.NZ_TODAY = [
   {
     "date": "05-20",
     "label": "20 Mayıs",
-    "title": "20 Mayıs arşiv kaydı",
+    "title": "20 Mayıs tarihte bugün",
     "year": "",
-    "text": "20 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-21",
     "label": "21 Mayıs",
-    "title": "21 Mayıs arşiv kaydı",
+    "title": "21 Mayıs tarihte bugün",
     "year": "",
-    "text": "21 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-22",
     "label": "22 Mayıs",
-    "title": "22 Mayıs arşiv kaydı",
+    "title": "22 Mayıs tarihte bugün",
     "year": "",
-    "text": "22 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-23",
     "label": "23 Mayıs",
-    "title": "23 Mayıs arşiv kaydı",
+    "title": "23 Mayıs tarihte bugün",
     "year": "",
-    "text": "23 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-24",
     "label": "24 Mayıs",
-    "title": "24 Mayıs arşiv kaydı",
+    "title": "24 Mayıs tarihte bugün",
     "year": "",
-    "text": "24 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-25",
     "label": "25 Mayıs",
-    "title": "25 Mayıs arşiv kaydı",
+    "title": "25 Mayıs tarihte bugün",
     "year": "",
-    "text": "25 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -9095,18 +9135,50 @@ window.NZ_TODAY = [
   {
     "date": "05-27",
     "label": "27 Mayıs",
-    "title": "27 Mayıs arşiv kaydı",
+    "title": "27 Mayıs tarihte bugün",
     "year": "",
-    "text": "27 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "05-27",
+    "label": "27 Mayıs",
+    "title": "Christopher Lee doğdu",
+    "year": "1922",
+    "text": "İngiliz oyuncu Christopher Lee, 27 Mayıs 1922'de doğdu.",
+    "url": "christopher-lee-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "05-27",
+    "label": "27 Mayıs",
+    "title": "Golden Gate Köprüsü açıldı",
+    "year": "1937",
+    "text": "San Francisco'daki Golden Gate Köprüsü 27 Mayıs 1937'de yayalara açıldı.",
+    "url": "tarihte-bugun-27-mayista-ne-oldu.html"
+  },
+  {
+    "date": "05-28",
+    "label": "28 Mayıs",
+    "title": "28 Mayıs tarihte bugün",
+    "year": "",
+    "text": "28 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-28",
     "label": "28 Mayıs",
-    "title": "28 Mayıs arşiv kaydı",
-    "year": "",
-    "text": "28 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
-    "url": "tarihte-bugun.html"
+    "title": "Ian Fleming doğdu",
+    "year": "1908",
+    "text": "James Bond karakterinin yaratıcısı Ian Fleming, 28 Mayıs 1908'de doğdu.",
+    "url": "ian-fleming-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "05-28",
+    "label": "28 Mayıs",
+    "title": "Azerbaycan Cumhuriyeti ilan edildi",
+    "year": "1918",
+    "text": "Azerbaycan Demokratik Cumhuriyeti 28 Mayıs 1918'de ilan edildi.",
+    "url": "azerbaycan-cumhuriyeti-hangi-yil-kuruldu.html"
   },
   {
     "date": "05-29",
@@ -9117,60 +9189,180 @@ window.NZ_TODAY = [
     "url": "istanbul-fethedildi-ne-zaman-oldu.html"
   },
   {
+    "date": "05-29",
+    "label": "29 Mayıs",
+    "title": "Everest'e ilk başarılı tırmanış yapıldı",
+    "year": "1953",
+    "text": "Edmund Hillary ve Tenzing Norgay, 29 Mayıs 1953'te Everest'in zirvesine ulaştı.",
+    "url": "evereste-ilk-tirmanis-hangi-yil-oldu.html"
+  },
+  {
     "date": "05-30",
     "label": "30 Mayıs",
-    "title": "30 Mayıs arşiv kaydı",
+    "title": "30 Mayıs tarihte bugün",
     "year": "",
-    "text": "30 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "05-30",
+    "label": "30 Mayıs",
+    "title": "Joan of Arc idam edildi",
+    "year": "1431",
+    "text": "Jeanne d'Arc, 30 Mayıs 1431'de Rouen'de idam edildi.",
+    "url": "jeanne-darc-hangi-yil-oldu.html"
+  },
+  {
+    "date": "05-30",
+    "label": "30 Mayıs",
+    "title": "İlk Indianapolis 500 yarışı yapıldı",
+    "year": "1911",
+    "text": "İlk Indianapolis 500 otomobil yarışı 30 Mayıs 1911'de düzenlendi.",
+    "url": "ilk-indianapolis-500-hangi-yil-yapildi.html"
+  },
+  {
+    "date": "05-31",
+    "label": "31 Mayıs",
+    "title": "31 Mayıs tarihte bugün",
+    "year": "",
+    "text": "31 Mayıs gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "05-31",
     "label": "31 Mayıs",
-    "title": "31 Mayıs arşiv kaydı",
+    "title": "Big Ben saat kulesi çalışmaya başladı",
+    "year": "1859",
+    "text": "Londra'daki Big Ben saat kulesi 31 Mayıs 1859'da çalışmaya başladı.",
+    "url": "big-ben-hangi-yil-yapildi.html"
+  },
+  {
+    "date": "05-31",
+    "label": "31 Mayıs",
+    "title": "Titanik'in gövdesi denize indirildi",
+    "year": "1911",
+    "text": "Titanic gemisinin gövdesi 31 Mayıs 1911'de denize indirildi.",
+    "url": "titanik-hangi-yil-denize-indirildi.html"
+  },
+  {
+    "date": "06-01",
+    "label": "1 Haziran",
+    "title": "1 Haziran tarihte bugün",
     "year": "",
-    "text": "31 Mayıs için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-01",
     "label": "1 Haziran",
-    "title": "1 Haziran arşiv kaydı",
+    "title": "Marilyn Monroe doğdu",
+    "year": "1926",
+    "text": "Amerikalı oyuncu Marilyn Monroe, 1 Haziran 1926'da doğdu.",
+    "url": "marilyn-monroe-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "06-01",
+    "label": "1 Haziran",
+    "title": "CNN yayın hayatına başladı",
+    "year": "1980",
+    "text": "CNN, 1 Haziran 1980'de yayın hayatına başladı.",
+    "url": "cnn-hangi-yil-kuruldu.html"
+  },
+  {
+    "date": "06-02",
+    "label": "2 Haziran",
+    "title": "2 Haziran tarihte bugün",
     "year": "",
-    "text": "1 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-02",
     "label": "2 Haziran",
-    "title": "2 Haziran arşiv kaydı",
+    "title": "İstanbul'un Fethi sonrası Ayasofya'da ilk cuma namazı kılındı",
+    "year": "1453",
+    "text": "Fetihten sonra Ayasofya'da ilk cuma namazı 2 Haziran 1453'te kılındı.",
+    "url": "ayasofyadaki-ilk-cuma-namazi-hangi-yil-kilindi.html"
+  },
+  {
+    "date": "06-02",
+    "label": "2 Haziran",
+    "title": "İtalya Cumhuriyet oldu",
+    "year": "1946",
+    "text": "İtalya'da 2 Haziran 1946 referandumuyla cumhuriyet yönetimi kabul edildi.",
+    "url": "italya-hangi-yil-cumhuriyet-oldu.html"
+  },
+  {
+    "date": "06-03",
+    "label": "3 Haziran",
+    "title": "3 Haziran tarihte bugün",
     "year": "",
-    "text": "2 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-03",
     "label": "3 Haziran",
-    "title": "3 Haziran arşiv kaydı",
+    "title": "Montgolfier kardeşler ilk sıcak hava balonu gösterisini yaptı",
+    "year": "1783",
+    "text": "Montgolfier kardeşler, 3 Haziran 1783'te sıcak hava balonu gösterisi yaptı.",
+    "url": "ilk-sicak-hava-balonu-hangi-yil-uctu.html"
+  },
+  {
+    "date": "06-03",
+    "label": "3 Haziran",
+    "title": "Muhammed Ali hayatını kaybetti",
+    "year": "2016",
+    "text": "Efsane boksör Muhammed Ali, 3 Haziran 2016'da vefat etti.",
+    "url": "muhammed-ali-hangi-yil-vefat-etti.html"
+  },
+  {
+    "date": "06-04",
+    "label": "4 Haziran",
+    "title": "4 Haziran tarihte bugün",
     "year": "",
-    "text": "3 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-04",
     "label": "4 Haziran",
-    "title": "4 Haziran arşiv kaydı",
+    "title": "Angelina Jolie doğdu",
+    "year": "1975",
+    "text": "Amerikalı oyuncu Angelina Jolie, 4 Haziran 1975'te doğdu.",
+    "url": "angelina-jolie-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "06-04",
+    "label": "4 Haziran",
+    "title": "Tiananmen Meydanı olayları yaşandı",
+    "year": "1989",
+    "text": "Çin'de Tiananmen Meydanı olayları 4 Haziran 1989'da yaşandı.",
+    "url": "tiananmen-olaylari-hangi-yil-oldu.html"
+  },
+  {
+    "date": "06-05",
+    "label": "5 Haziran",
+    "title": "5 Haziran tarihte bugün",
     "year": "",
-    "text": "4 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-05",
     "label": "5 Haziran",
-    "title": "5 Haziran arşiv kaydı",
-    "year": "",
-    "text": "5 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
-    "url": "tarihte-bugun.html"
+    "title": "Dünya Çevre Günü ilan edildi",
+    "year": "1972",
+    "text": "5 Haziran, Birleşmiş Milletler tarafından Dünya Çevre Günü olarak kabul edildi.",
+    "url": "dunya-cevre-gunu-hangi-yil-basladi.html"
+  },
+  {
+    "date": "06-05",
+    "label": "5 Haziran",
+    "title": "Apple II tanıtıldı",
+    "year": "1977",
+    "text": "Apple II kişisel bilgisayarı 5 Haziran 1977'de tanıtıldı.",
+    "url": "apple-ii-hangi-yil-cikti.html"
   },
   {
     "date": "06-06",
@@ -9181,307 +9373,395 @@ window.NZ_TODAY = [
     "url": "normandiya-cikarmasi-ne-zaman-oldu.html"
   },
   {
+    "date": "06-06",
+    "label": "6 Haziran",
+    "title": "Normandiya Çıkarması başladı",
+    "year": "1944",
+    "text": "II. Dünya Savaşı'nın en önemli operasyonlarından Normandiya Çıkarması 6 Haziran 1944'te başladı.",
+    "url": "normandiya-cikarmasi-hangi-yil-oldu.html"
+  },
+  {
+    "date": "06-06",
+    "label": "6 Haziran",
+    "title": "Tetris yayımlandı",
+    "year": "1984",
+    "text": "Tetris oyunu 6 Haziran 1984'te yayımlandı.",
+    "url": "tetris-hangi-yil-cikti.html"
+  },
+  {
     "date": "06-07",
     "label": "7 Haziran",
-    "title": "7 Haziran arşiv kaydı",
+    "title": "7 Haziran tarihte bugün",
     "year": "",
-    "text": "7 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "06-07",
+    "label": "7 Haziran",
+    "title": "Vatikan Antlaşmaları yürürlüğe girdi",
+    "year": "1929",
+    "text": "Lateran Antlaşmaları 7 Haziran 1929'da yürürlüğe girdi ve Vatikan'ın statüsü belirlendi.",
+    "url": "vatikan-hangi-yil-kuruldu.html"
+  },
+  {
+    "date": "06-07",
+    "label": "7 Haziran",
+    "title": "Prince doğdu",
+    "year": "1958",
+    "text": "Amerikalı müzisyen Prince, 7 Haziran 1958'de doğdu.",
+    "url": "prince-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "06-08",
+    "label": "8 Haziran",
+    "title": "8 Haziran tarihte bugün",
+    "year": "",
+    "text": "8 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-08",
     "label": "8 Haziran",
-    "title": "8 Haziran arşiv kaydı",
+    "title": "George Orwell'in 1984 romanı yayımlandı",
+    "year": "1949",
+    "text": "George Orwell'in 1984 romanı 8 Haziran 1949'da yayımlandı.",
+    "url": "1984-romani-hangi-yil-yayimlandi.html"
+  },
+  {
+    "date": "06-08",
+    "label": "8 Haziran",
+    "title": "Dünya Okyanus Günü",
+    "year": "1992",
+    "text": "8 Haziran, Dünya Okyanus Günü olarak anılır.",
+    "url": "dunya-okyanus-gunu-hangi-yil-basladi.html"
+  },
+  {
+    "date": "06-09",
+    "label": "9 Haziran",
+    "title": "9 Haziran tarihte bugün",
     "year": "",
-    "text": "8 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-09",
     "label": "9 Haziran",
-    "title": "9 Haziran arşiv kaydı",
+    "title": "Donald Duck ilk kez göründü",
+    "year": "1934",
+    "text": "Donald Duck karakteri ilk kez 9 Haziran 1934'te izleyiciyle buluştu.",
+    "url": "donald-duck-hangi-yil-cikti.html"
+  },
+  {
+    "date": "06-09",
+    "label": "9 Haziran",
+    "title": "Johnny Depp doğdu",
+    "year": "1963",
+    "text": "Amerikalı oyuncu Johnny Depp, 9 Haziran 1963'te doğdu.",
+    "url": "johnny-depp-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "06-10",
+    "label": "10 Haziran",
+    "title": "10 Haziran tarihte bugün",
     "year": "",
-    "text": "9 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-10",
     "label": "10 Haziran",
-    "title": "10 Haziran arşiv kaydı",
-    "year": "",
-    "text": "10 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
-    "url": "tarihte-bugun.html"
+    "title": "Prens Philip doğdu",
+    "year": "1921",
+    "text": "Edinburgh Dükü Prens Philip, 10 Haziran 1921'de doğdu.",
+    "url": "prens-philip-hangi-yil-dogdu.html"
+  },
+  {
+    "date": "06-10",
+    "label": "10 Haziran",
+    "title": "Ballpoint kalem patenti alındı",
+    "year": "1943",
+    "text": "László Bíró'nun tükenmez kalem patenti 10 Haziran 1943'te alındı.",
+    "url": "tukenmez-kalem-hangi-yil-icat-edildi.html"
   },
   {
     "date": "06-11",
     "label": "11 Haziran",
-    "title": "11 Haziran arşiv kaydı",
+    "title": "11 Haziran tarihte bugün",
     "year": "",
-    "text": "11 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-12",
     "label": "12 Haziran",
-    "title": "12 Haziran arşiv kaydı",
+    "title": "12 Haziran tarihte bugün",
     "year": "",
-    "text": "12 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-13",
     "label": "13 Haziran",
-    "title": "13 Haziran arşiv kaydı",
+    "title": "13 Haziran tarihte bugün",
     "year": "",
-    "text": "13 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-14",
     "label": "14 Haziran",
-    "title": "14 Haziran arşiv kaydı",
+    "title": "14 Haziran tarihte bugün",
     "year": "",
-    "text": "14 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-15",
     "label": "15 Haziran",
-    "title": "15 Haziran arşiv kaydı",
+    "title": "15 Haziran tarihte bugün",
     "year": "",
-    "text": "15 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-16",
     "label": "16 Haziran",
-    "title": "16 Haziran arşiv kaydı",
+    "title": "16 Haziran tarihte bugün",
     "year": "",
-    "text": "16 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-17",
     "label": "17 Haziran",
-    "title": "17 Haziran arşiv kaydı",
+    "title": "17 Haziran tarihte bugün",
     "year": "",
-    "text": "17 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-18",
     "label": "18 Haziran",
-    "title": "18 Haziran arşiv kaydı",
+    "title": "18 Haziran tarihte bugün",
     "year": "",
-    "text": "18 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-19",
     "label": "19 Haziran",
-    "title": "19 Haziran arşiv kaydı",
+    "title": "19 Haziran tarihte bugün",
     "year": "",
-    "text": "19 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-20",
     "label": "20 Haziran",
-    "title": "20 Haziran arşiv kaydı",
+    "title": "20 Haziran tarihte bugün",
     "year": "",
-    "text": "20 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-21",
     "label": "21 Haziran",
-    "title": "21 Haziran arşiv kaydı",
+    "title": "21 Haziran tarihte bugün",
     "year": "",
-    "text": "21 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-22",
     "label": "22 Haziran",
-    "title": "22 Haziran arşiv kaydı",
+    "title": "22 Haziran tarihte bugün",
     "year": "",
-    "text": "22 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-23",
     "label": "23 Haziran",
-    "title": "23 Haziran arşiv kaydı",
+    "title": "23 Haziran tarihte bugün",
     "year": "",
-    "text": "23 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-24",
     "label": "24 Haziran",
-    "title": "24 Haziran arşiv kaydı",
+    "title": "24 Haziran tarihte bugün",
     "year": "",
-    "text": "24 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-25",
     "label": "25 Haziran",
-    "title": "25 Haziran arşiv kaydı",
+    "title": "25 Haziran tarihte bugün",
     "year": "",
-    "text": "25 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-26",
     "label": "26 Haziran",
-    "title": "26 Haziran arşiv kaydı",
+    "title": "26 Haziran tarihte bugün",
     "year": "",
-    "text": "26 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-27",
     "label": "27 Haziran",
-    "title": "27 Haziran arşiv kaydı",
+    "title": "27 Haziran tarihte bugün",
     "year": "",
-    "text": "27 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-28",
     "label": "28 Haziran",
-    "title": "28 Haziran arşiv kaydı",
+    "title": "28 Haziran tarihte bugün",
     "year": "",
-    "text": "28 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-29",
     "label": "29 Haziran",
-    "title": "29 Haziran arşiv kaydı",
+    "title": "29 Haziran tarihte bugün",
     "year": "",
-    "text": "29 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "06-30",
     "label": "30 Haziran",
-    "title": "30 Haziran arşiv kaydı",
+    "title": "30 Haziran tarihte bugün",
     "year": "",
-    "text": "30 Haziran için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Haziran gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-01",
     "label": "1 Temmuz",
-    "title": "1 Temmuz arşiv kaydı",
+    "title": "1 Temmuz tarihte bugün",
     "year": "",
-    "text": "1 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-02",
     "label": "2 Temmuz",
-    "title": "2 Temmuz arşiv kaydı",
+    "title": "2 Temmuz tarihte bugün",
     "year": "",
-    "text": "2 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-03",
     "label": "3 Temmuz",
-    "title": "3 Temmuz arşiv kaydı",
+    "title": "3 Temmuz tarihte bugün",
     "year": "",
-    "text": "3 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-04",
     "label": "4 Temmuz",
-    "title": "4 Temmuz arşiv kaydı",
+    "title": "4 Temmuz tarihte bugün",
     "year": "",
-    "text": "4 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-05",
     "label": "5 Temmuz",
-    "title": "5 Temmuz arşiv kaydı",
+    "title": "5 Temmuz tarihte bugün",
     "year": "",
-    "text": "5 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-06",
     "label": "6 Temmuz",
-    "title": "6 Temmuz arşiv kaydı",
+    "title": "6 Temmuz tarihte bugün",
     "year": "",
-    "text": "6 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-07",
     "label": "7 Temmuz",
-    "title": "7 Temmuz arşiv kaydı",
+    "title": "7 Temmuz tarihte bugün",
     "year": "",
-    "text": "7 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-08",
     "label": "8 Temmuz",
-    "title": "8 Temmuz arşiv kaydı",
+    "title": "8 Temmuz tarihte bugün",
     "year": "",
-    "text": "8 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-09",
     "label": "9 Temmuz",
-    "title": "9 Temmuz arşiv kaydı",
+    "title": "9 Temmuz tarihte bugün",
     "year": "",
-    "text": "9 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-10",
     "label": "10 Temmuz",
-    "title": "10 Temmuz arşiv kaydı",
+    "title": "10 Temmuz tarihte bugün",
     "year": "",
-    "text": "10 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-11",
     "label": "11 Temmuz",
-    "title": "11 Temmuz arşiv kaydı",
+    "title": "11 Temmuz tarihte bugün",
     "year": "",
-    "text": "11 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-12",
     "label": "12 Temmuz",
-    "title": "12 Temmuz arşiv kaydı",
+    "title": "12 Temmuz tarihte bugün",
     "year": "",
-    "text": "12 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-13",
     "label": "13 Temmuz",
-    "title": "13 Temmuz arşiv kaydı",
+    "title": "13 Temmuz tarihte bugün",
     "year": "",
-    "text": "13 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-14",
     "label": "14 Temmuz",
-    "title": "14 Temmuz arşiv kaydı",
+    "title": "14 Temmuz tarihte bugün",
     "year": "",
-    "text": "14 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "07-15",
+    "label": "15 Temmuz",
+    "title": "15 Temmuz tarihte bugün",
+    "year": "",
+    "text": "15 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -9495,257 +9775,257 @@ window.NZ_TODAY = [
   {
     "date": "07-16",
     "label": "16 Temmuz",
-    "title": "16 Temmuz arşiv kaydı",
+    "title": "16 Temmuz tarihte bugün",
     "year": "",
-    "text": "16 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-17",
     "label": "17 Temmuz",
-    "title": "17 Temmuz arşiv kaydı",
+    "title": "17 Temmuz tarihte bugün",
     "year": "",
-    "text": "17 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-18",
     "label": "18 Temmuz",
-    "title": "18 Temmuz arşiv kaydı",
+    "title": "18 Temmuz tarihte bugün",
     "year": "",
-    "text": "18 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-19",
     "label": "19 Temmuz",
-    "title": "19 Temmuz arşiv kaydı",
+    "title": "19 Temmuz tarihte bugün",
     "year": "",
-    "text": "19 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-20",
     "label": "20 Temmuz",
-    "title": "20 Temmuz arşiv kaydı",
+    "title": "20 Temmuz tarihte bugün",
     "year": "",
-    "text": "20 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-21",
     "label": "21 Temmuz",
-    "title": "21 Temmuz arşiv kaydı",
+    "title": "21 Temmuz tarihte bugün",
     "year": "",
-    "text": "21 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-22",
     "label": "22 Temmuz",
-    "title": "22 Temmuz arşiv kaydı",
+    "title": "22 Temmuz tarihte bugün",
     "year": "",
-    "text": "22 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-23",
     "label": "23 Temmuz",
-    "title": "23 Temmuz arşiv kaydı",
+    "title": "23 Temmuz tarihte bugün",
     "year": "",
-    "text": "23 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-24",
     "label": "24 Temmuz",
-    "title": "24 Temmuz arşiv kaydı",
+    "title": "24 Temmuz tarihte bugün",
     "year": "",
-    "text": "24 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-25",
     "label": "25 Temmuz",
-    "title": "25 Temmuz arşiv kaydı",
+    "title": "25 Temmuz tarihte bugün",
     "year": "",
-    "text": "25 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-26",
     "label": "26 Temmuz",
-    "title": "26 Temmuz arşiv kaydı",
+    "title": "26 Temmuz tarihte bugün",
     "year": "",
-    "text": "26 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-27",
     "label": "27 Temmuz",
-    "title": "27 Temmuz arşiv kaydı",
+    "title": "27 Temmuz tarihte bugün",
     "year": "",
-    "text": "27 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-28",
     "label": "28 Temmuz",
-    "title": "28 Temmuz arşiv kaydı",
+    "title": "28 Temmuz tarihte bugün",
     "year": "",
-    "text": "28 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-29",
     "label": "29 Temmuz",
-    "title": "29 Temmuz arşiv kaydı",
+    "title": "29 Temmuz tarihte bugün",
     "year": "",
-    "text": "29 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-30",
     "label": "30 Temmuz",
-    "title": "30 Temmuz arşiv kaydı",
+    "title": "30 Temmuz tarihte bugün",
     "year": "",
-    "text": "30 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "07-31",
     "label": "31 Temmuz",
-    "title": "31 Temmuz arşiv kaydı",
+    "title": "31 Temmuz tarihte bugün",
     "year": "",
-    "text": "31 Temmuz için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "31 Temmuz gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-01",
     "label": "1 Ağustos",
-    "title": "1 Ağustos arşiv kaydı",
+    "title": "1 Ağustos tarihte bugün",
     "year": "",
-    "text": "1 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-02",
     "label": "2 Ağustos",
-    "title": "2 Ağustos arşiv kaydı",
+    "title": "2 Ağustos tarihte bugün",
     "year": "",
-    "text": "2 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-03",
     "label": "3 Ağustos",
-    "title": "3 Ağustos arşiv kaydı",
+    "title": "3 Ağustos tarihte bugün",
     "year": "",
-    "text": "3 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-04",
     "label": "4 Ağustos",
-    "title": "4 Ağustos arşiv kaydı",
+    "title": "4 Ağustos tarihte bugün",
     "year": "",
-    "text": "4 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-05",
     "label": "5 Ağustos",
-    "title": "5 Ağustos arşiv kaydı",
+    "title": "5 Ağustos tarihte bugün",
     "year": "",
-    "text": "5 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-06",
     "label": "6 Ağustos",
-    "title": "6 Ağustos arşiv kaydı",
+    "title": "6 Ağustos tarihte bugün",
     "year": "",
-    "text": "6 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-07",
     "label": "7 Ağustos",
-    "title": "7 Ağustos arşiv kaydı",
+    "title": "7 Ağustos tarihte bugün",
     "year": "",
-    "text": "7 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-08",
     "label": "8 Ağustos",
-    "title": "8 Ağustos arşiv kaydı",
+    "title": "8 Ağustos tarihte bugün",
     "year": "",
-    "text": "8 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-09",
     "label": "9 Ağustos",
-    "title": "9 Ağustos arşiv kaydı",
+    "title": "9 Ağustos tarihte bugün",
     "year": "",
-    "text": "9 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-10",
     "label": "10 Ağustos",
-    "title": "10 Ağustos arşiv kaydı",
+    "title": "10 Ağustos tarihte bugün",
     "year": "",
-    "text": "10 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-11",
     "label": "11 Ağustos",
-    "title": "11 Ağustos arşiv kaydı",
+    "title": "11 Ağustos tarihte bugün",
     "year": "",
-    "text": "11 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-12",
     "label": "12 Ağustos",
-    "title": "12 Ağustos arşiv kaydı",
+    "title": "12 Ağustos tarihte bugün",
     "year": "",
-    "text": "12 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-13",
     "label": "13 Ağustos",
-    "title": "13 Ağustos arşiv kaydı",
+    "title": "13 Ağustos tarihte bugün",
     "year": "",
-    "text": "13 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-14",
     "label": "14 Ağustos",
-    "title": "14 Ağustos arşiv kaydı",
+    "title": "14 Ağustos tarihte bugün",
     "year": "",
-    "text": "14 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-15",
     "label": "15 Ağustos",
-    "title": "15 Ağustos arşiv kaydı",
+    "title": "15 Ağustos tarihte bugün",
     "year": "",
-    "text": "15 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-16",
     "label": "16 Ağustos",
-    "title": "16 Ağustos arşiv kaydı",
+    "title": "16 Ağustos tarihte bugün",
     "year": "",
-    "text": "16 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -9759,97 +10039,97 @@ window.NZ_TODAY = [
   {
     "date": "08-18",
     "label": "18 Ağustos",
-    "title": "18 Ağustos arşiv kaydı",
+    "title": "18 Ağustos tarihte bugün",
     "year": "",
-    "text": "18 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-19",
     "label": "19 Ağustos",
-    "title": "19 Ağustos arşiv kaydı",
+    "title": "19 Ağustos tarihte bugün",
     "year": "",
-    "text": "19 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-20",
     "label": "20 Ağustos",
-    "title": "20 Ağustos arşiv kaydı",
+    "title": "20 Ağustos tarihte bugün",
     "year": "",
-    "text": "20 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-21",
     "label": "21 Ağustos",
-    "title": "21 Ağustos arşiv kaydı",
+    "title": "21 Ağustos tarihte bugün",
     "year": "",
-    "text": "21 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-22",
     "label": "22 Ağustos",
-    "title": "22 Ağustos arşiv kaydı",
+    "title": "22 Ağustos tarihte bugün",
     "year": "",
-    "text": "22 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-23",
     "label": "23 Ağustos",
-    "title": "23 Ağustos arşiv kaydı",
+    "title": "23 Ağustos tarihte bugün",
     "year": "",
-    "text": "23 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-24",
     "label": "24 Ağustos",
-    "title": "24 Ağustos arşiv kaydı",
+    "title": "24 Ağustos tarihte bugün",
     "year": "",
-    "text": "24 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-25",
     "label": "25 Ağustos",
-    "title": "25 Ağustos arşiv kaydı",
+    "title": "25 Ağustos tarihte bugün",
     "year": "",
-    "text": "25 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-26",
     "label": "26 Ağustos",
-    "title": "26 Ağustos arşiv kaydı",
+    "title": "26 Ağustos tarihte bugün",
     "year": "",
-    "text": "26 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-27",
     "label": "27 Ağustos",
-    "title": "27 Ağustos arşiv kaydı",
+    "title": "27 Ağustos tarihte bugün",
     "year": "",
-    "text": "27 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-28",
     "label": "28 Ağustos",
-    "title": "28 Ağustos arşiv kaydı",
+    "title": "28 Ağustos tarihte bugün",
     "year": "",
-    "text": "28 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "08-29",
     "label": "29 Ağustos",
-    "title": "29 Ağustos arşiv kaydı",
+    "title": "29 Ağustos tarihte bugün",
     "year": "",
-    "text": "29 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -9863,73 +10143,73 @@ window.NZ_TODAY = [
   {
     "date": "08-31",
     "label": "31 Ağustos",
-    "title": "31 Ağustos arşiv kaydı",
+    "title": "31 Ağustos tarihte bugün",
     "year": "",
-    "text": "31 Ağustos için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "31 Ağustos gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-01",
     "label": "1 Eylül",
-    "title": "1 Eylül arşiv kaydı",
+    "title": "1 Eylül tarihte bugün",
     "year": "",
-    "text": "1 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-02",
     "label": "2 Eylül",
-    "title": "2 Eylül arşiv kaydı",
+    "title": "2 Eylül tarihte bugün",
     "year": "",
-    "text": "2 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-03",
     "label": "3 Eylül",
-    "title": "3 Eylül arşiv kaydı",
+    "title": "3 Eylül tarihte bugün",
     "year": "",
-    "text": "3 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-04",
     "label": "4 Eylül",
-    "title": "4 Eylül arşiv kaydı",
+    "title": "4 Eylül tarihte bugün",
     "year": "",
-    "text": "4 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-05",
     "label": "5 Eylül",
-    "title": "5 Eylül arşiv kaydı",
+    "title": "5 Eylül tarihte bugün",
     "year": "",
-    "text": "5 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-06",
     "label": "6 Eylül",
-    "title": "6 Eylül arşiv kaydı",
+    "title": "6 Eylül tarihte bugün",
     "year": "",
-    "text": "6 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-07",
     "label": "7 Eylül",
-    "title": "7 Eylül arşiv kaydı",
+    "title": "7 Eylül tarihte bugün",
     "year": "",
-    "text": "7 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-08",
     "label": "8 Eylül",
-    "title": "8 Eylül arşiv kaydı",
+    "title": "8 Eylül tarihte bugün",
     "year": "",
-    "text": "8 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -9943,393 +10223,393 @@ window.NZ_TODAY = [
   {
     "date": "09-10",
     "label": "10 Eylül",
-    "title": "10 Eylül arşiv kaydı",
+    "title": "10 Eylül tarihte bugün",
     "year": "",
-    "text": "10 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-11",
     "label": "11 Eylül",
-    "title": "11 Eylül arşiv kaydı",
+    "title": "11 Eylül tarihte bugün",
     "year": "",
-    "text": "11 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-12",
     "label": "12 Eylül",
-    "title": "12 Eylül arşiv kaydı",
+    "title": "12 Eylül tarihte bugün",
     "year": "",
-    "text": "12 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-13",
     "label": "13 Eylül",
-    "title": "13 Eylül arşiv kaydı",
+    "title": "13 Eylül tarihte bugün",
     "year": "",
-    "text": "13 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-14",
     "label": "14 Eylül",
-    "title": "14 Eylül arşiv kaydı",
+    "title": "14 Eylül tarihte bugün",
     "year": "",
-    "text": "14 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-15",
     "label": "15 Eylül",
-    "title": "15 Eylül arşiv kaydı",
+    "title": "15 Eylül tarihte bugün",
     "year": "",
-    "text": "15 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-16",
     "label": "16 Eylül",
-    "title": "16 Eylül arşiv kaydı",
+    "title": "16 Eylül tarihte bugün",
     "year": "",
-    "text": "16 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-17",
     "label": "17 Eylül",
-    "title": "17 Eylül arşiv kaydı",
+    "title": "17 Eylül tarihte bugün",
     "year": "",
-    "text": "17 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-18",
     "label": "18 Eylül",
-    "title": "18 Eylül arşiv kaydı",
+    "title": "18 Eylül tarihte bugün",
     "year": "",
-    "text": "18 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-19",
     "label": "19 Eylül",
-    "title": "19 Eylül arşiv kaydı",
+    "title": "19 Eylül tarihte bugün",
     "year": "",
-    "text": "19 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-20",
     "label": "20 Eylül",
-    "title": "20 Eylül arşiv kaydı",
+    "title": "20 Eylül tarihte bugün",
     "year": "",
-    "text": "20 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-21",
     "label": "21 Eylül",
-    "title": "21 Eylül arşiv kaydı",
+    "title": "21 Eylül tarihte bugün",
     "year": "",
-    "text": "21 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-22",
     "label": "22 Eylül",
-    "title": "22 Eylül arşiv kaydı",
+    "title": "22 Eylül tarihte bugün",
     "year": "",
-    "text": "22 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-23",
     "label": "23 Eylül",
-    "title": "23 Eylül arşiv kaydı",
+    "title": "23 Eylül tarihte bugün",
     "year": "",
-    "text": "23 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-24",
     "label": "24 Eylül",
-    "title": "24 Eylül arşiv kaydı",
+    "title": "24 Eylül tarihte bugün",
     "year": "",
-    "text": "24 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-25",
     "label": "25 Eylül",
-    "title": "25 Eylül arşiv kaydı",
+    "title": "25 Eylül tarihte bugün",
     "year": "",
-    "text": "25 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-26",
     "label": "26 Eylül",
-    "title": "26 Eylül arşiv kaydı",
+    "title": "26 Eylül tarihte bugün",
     "year": "",
-    "text": "26 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-27",
     "label": "27 Eylül",
-    "title": "27 Eylül arşiv kaydı",
+    "title": "27 Eylül tarihte bugün",
     "year": "",
-    "text": "27 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-28",
     "label": "28 Eylül",
-    "title": "28 Eylül arşiv kaydı",
+    "title": "28 Eylül tarihte bugün",
     "year": "",
-    "text": "28 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-29",
     "label": "29 Eylül",
-    "title": "29 Eylül arşiv kaydı",
+    "title": "29 Eylül tarihte bugün",
     "year": "",
-    "text": "29 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "09-30",
     "label": "30 Eylül",
-    "title": "30 Eylül arşiv kaydı",
+    "title": "30 Eylül tarihte bugün",
     "year": "",
-    "text": "30 Eylül için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Eylül gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-01",
     "label": "1 Ekim",
-    "title": "1 Ekim arşiv kaydı",
+    "title": "1 Ekim tarihte bugün",
     "year": "",
-    "text": "1 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-02",
     "label": "2 Ekim",
-    "title": "2 Ekim arşiv kaydı",
+    "title": "2 Ekim tarihte bugün",
     "year": "",
-    "text": "2 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-03",
     "label": "3 Ekim",
-    "title": "3 Ekim arşiv kaydı",
+    "title": "3 Ekim tarihte bugün",
     "year": "",
-    "text": "3 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-04",
     "label": "4 Ekim",
-    "title": "4 Ekim arşiv kaydı",
+    "title": "4 Ekim tarihte bugün",
     "year": "",
-    "text": "4 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-05",
     "label": "5 Ekim",
-    "title": "5 Ekim arşiv kaydı",
+    "title": "5 Ekim tarihte bugün",
     "year": "",
-    "text": "5 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-06",
     "label": "6 Ekim",
-    "title": "6 Ekim arşiv kaydı",
+    "title": "6 Ekim tarihte bugün",
     "year": "",
-    "text": "6 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-07",
     "label": "7 Ekim",
-    "title": "7 Ekim arşiv kaydı",
+    "title": "7 Ekim tarihte bugün",
     "year": "",
-    "text": "7 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-08",
     "label": "8 Ekim",
-    "title": "8 Ekim arşiv kaydı",
+    "title": "8 Ekim tarihte bugün",
     "year": "",
-    "text": "8 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-09",
     "label": "9 Ekim",
-    "title": "9 Ekim arşiv kaydı",
+    "title": "9 Ekim tarihte bugün",
     "year": "",
-    "text": "9 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-10",
     "label": "10 Ekim",
-    "title": "10 Ekim arşiv kaydı",
+    "title": "10 Ekim tarihte bugün",
     "year": "",
-    "text": "10 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "10 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-11",
     "label": "11 Ekim",
-    "title": "11 Ekim arşiv kaydı",
+    "title": "11 Ekim tarihte bugün",
     "year": "",
-    "text": "11 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-12",
     "label": "12 Ekim",
-    "title": "12 Ekim arşiv kaydı",
+    "title": "12 Ekim tarihte bugün",
     "year": "",
-    "text": "12 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-13",
     "label": "13 Ekim",
-    "title": "13 Ekim arşiv kaydı",
+    "title": "13 Ekim tarihte bugün",
     "year": "",
-    "text": "13 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-14",
     "label": "14 Ekim",
-    "title": "14 Ekim arşiv kaydı",
+    "title": "14 Ekim tarihte bugün",
     "year": "",
-    "text": "14 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-15",
     "label": "15 Ekim",
-    "title": "15 Ekim arşiv kaydı",
+    "title": "15 Ekim tarihte bugün",
     "year": "",
-    "text": "15 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-16",
     "label": "16 Ekim",
-    "title": "16 Ekim arşiv kaydı",
+    "title": "16 Ekim tarihte bugün",
     "year": "",
-    "text": "16 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-17",
     "label": "17 Ekim",
-    "title": "17 Ekim arşiv kaydı",
+    "title": "17 Ekim tarihte bugün",
     "year": "",
-    "text": "17 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-18",
     "label": "18 Ekim",
-    "title": "18 Ekim arşiv kaydı",
+    "title": "18 Ekim tarihte bugün",
     "year": "",
-    "text": "18 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-19",
     "label": "19 Ekim",
-    "title": "19 Ekim arşiv kaydı",
+    "title": "19 Ekim tarihte bugün",
     "year": "",
-    "text": "19 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-20",
     "label": "20 Ekim",
-    "title": "20 Ekim arşiv kaydı",
+    "title": "20 Ekim tarihte bugün",
     "year": "",
-    "text": "20 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-21",
     "label": "21 Ekim",
-    "title": "21 Ekim arşiv kaydı",
+    "title": "21 Ekim tarihte bugün",
     "year": "",
-    "text": "21 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-22",
     "label": "22 Ekim",
-    "title": "22 Ekim arşiv kaydı",
+    "title": "22 Ekim tarihte bugün",
     "year": "",
-    "text": "22 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-23",
     "label": "23 Ekim",
-    "title": "23 Ekim arşiv kaydı",
+    "title": "23 Ekim tarihte bugün",
     "year": "",
-    "text": "23 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-24",
     "label": "24 Ekim",
-    "title": "24 Ekim arşiv kaydı",
+    "title": "24 Ekim tarihte bugün",
     "year": "",
-    "text": "24 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-25",
     "label": "25 Ekim",
-    "title": "25 Ekim arşiv kaydı",
+    "title": "25 Ekim tarihte bugün",
     "year": "",
-    "text": "25 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-26",
     "label": "26 Ekim",
-    "title": "26 Ekim arşiv kaydı",
+    "title": "26 Ekim tarihte bugün",
     "year": "",
-    "text": "26 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-27",
     "label": "27 Ekim",
-    "title": "27 Ekim arşiv kaydı",
+    "title": "27 Ekim tarihte bugün",
     "year": "",
-    "text": "27 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-28",
     "label": "28 Ekim",
-    "title": "28 Ekim arşiv kaydı",
+    "title": "28 Ekim tarihte bugün",
     "year": "",
-    "text": "28 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -10343,89 +10623,89 @@ window.NZ_TODAY = [
   {
     "date": "10-30",
     "label": "30 Ekim",
-    "title": "30 Ekim arşiv kaydı",
+    "title": "30 Ekim tarihte bugün",
     "year": "",
-    "text": "30 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "10-31",
     "label": "31 Ekim",
-    "title": "31 Ekim arşiv kaydı",
+    "title": "31 Ekim tarihte bugün",
     "year": "",
-    "text": "31 Ekim için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "31 Ekim gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-01",
     "label": "1 Kasım",
-    "title": "1 Kasım arşiv kaydı",
+    "title": "1 Kasım tarihte bugün",
     "year": "",
-    "text": "1 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-02",
     "label": "2 Kasım",
-    "title": "2 Kasım arşiv kaydı",
+    "title": "2 Kasım tarihte bugün",
     "year": "",
-    "text": "2 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-03",
     "label": "3 Kasım",
-    "title": "3 Kasım arşiv kaydı",
+    "title": "3 Kasım tarihte bugün",
     "year": "",
-    "text": "3 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-04",
     "label": "4 Kasım",
-    "title": "4 Kasım arşiv kaydı",
+    "title": "4 Kasım tarihte bugün",
     "year": "",
-    "text": "4 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-05",
     "label": "5 Kasım",
-    "title": "5 Kasım arşiv kaydı",
+    "title": "5 Kasım tarihte bugün",
     "year": "",
-    "text": "5 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-06",
     "label": "6 Kasım",
-    "title": "6 Kasım arşiv kaydı",
+    "title": "6 Kasım tarihte bugün",
     "year": "",
-    "text": "6 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-07",
     "label": "7 Kasım",
-    "title": "7 Kasım arşiv kaydı",
+    "title": "7 Kasım tarihte bugün",
     "year": "",
-    "text": "7 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-08",
     "label": "8 Kasım",
-    "title": "8 Kasım arşiv kaydı",
+    "title": "8 Kasım tarihte bugün",
     "year": "",
-    "text": "8 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-09",
     "label": "9 Kasım",
-    "title": "9 Kasım arşiv kaydı",
+    "title": "9 Kasım tarihte bugün",
     "year": "",
-    "text": "9 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -10439,113 +10719,113 @@ window.NZ_TODAY = [
   {
     "date": "11-11",
     "label": "11 Kasım",
-    "title": "11 Kasım arşiv kaydı",
+    "title": "11 Kasım tarihte bugün",
     "year": "",
-    "text": "11 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-12",
     "label": "12 Kasım",
-    "title": "12 Kasım arşiv kaydı",
+    "title": "12 Kasım tarihte bugün",
     "year": "",
-    "text": "12 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-13",
     "label": "13 Kasım",
-    "title": "13 Kasım arşiv kaydı",
+    "title": "13 Kasım tarihte bugün",
     "year": "",
-    "text": "13 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-14",
     "label": "14 Kasım",
-    "title": "14 Kasım arşiv kaydı",
+    "title": "14 Kasım tarihte bugün",
     "year": "",
-    "text": "14 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-15",
     "label": "15 Kasım",
-    "title": "15 Kasım arşiv kaydı",
+    "title": "15 Kasım tarihte bugün",
     "year": "",
-    "text": "15 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-16",
     "label": "16 Kasım",
-    "title": "16 Kasım arşiv kaydı",
+    "title": "16 Kasım tarihte bugün",
     "year": "",
-    "text": "16 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-17",
     "label": "17 Kasım",
-    "title": "17 Kasım arşiv kaydı",
+    "title": "17 Kasım tarihte bugün",
     "year": "",
-    "text": "17 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-18",
     "label": "18 Kasım",
-    "title": "18 Kasım arşiv kaydı",
+    "title": "18 Kasım tarihte bugün",
     "year": "",
-    "text": "18 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-19",
     "label": "19 Kasım",
-    "title": "19 Kasım arşiv kaydı",
+    "title": "19 Kasım tarihte bugün",
     "year": "",
-    "text": "19 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-20",
     "label": "20 Kasım",
-    "title": "20 Kasım arşiv kaydı",
+    "title": "20 Kasım tarihte bugün",
     "year": "",
-    "text": "20 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-21",
     "label": "21 Kasım",
-    "title": "21 Kasım arşiv kaydı",
+    "title": "21 Kasım tarihte bugün",
     "year": "",
-    "text": "21 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-22",
     "label": "22 Kasım",
-    "title": "22 Kasım arşiv kaydı",
+    "title": "22 Kasım tarihte bugün",
     "year": "",
-    "text": "22 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-23",
     "label": "23 Kasım",
-    "title": "23 Kasım arşiv kaydı",
+    "title": "23 Kasım tarihte bugün",
     "year": "",
-    "text": "23 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-24",
     "label": "24 Kasım",
-    "title": "24 Kasım arşiv kaydı",
+    "title": "24 Kasım tarihte bugün",
     "year": "",
-    "text": "24 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -10559,113 +10839,113 @@ window.NZ_TODAY = [
   {
     "date": "11-26",
     "label": "26 Kasım",
-    "title": "26 Kasım arşiv kaydı",
+    "title": "26 Kasım tarihte bugün",
     "year": "",
-    "text": "26 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-27",
     "label": "27 Kasım",
-    "title": "27 Kasım arşiv kaydı",
+    "title": "27 Kasım tarihte bugün",
     "year": "",
-    "text": "27 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "27 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-28",
     "label": "28 Kasım",
-    "title": "28 Kasım arşiv kaydı",
+    "title": "28 Kasım tarihte bugün",
     "year": "",
-    "text": "28 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-29",
     "label": "29 Kasım",
-    "title": "29 Kasım arşiv kaydı",
+    "title": "29 Kasım tarihte bugün",
     "year": "",
-    "text": "29 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "11-30",
     "label": "30 Kasım",
-    "title": "30 Kasım arşiv kaydı",
+    "title": "30 Kasım tarihte bugün",
     "year": "",
-    "text": "30 Kasım için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Kasım gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-01",
     "label": "1 Aralık",
-    "title": "1 Aralık arşiv kaydı",
+    "title": "1 Aralık tarihte bugün",
     "year": "",
-    "text": "1 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "1 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-02",
     "label": "2 Aralık",
-    "title": "2 Aralık arşiv kaydı",
+    "title": "2 Aralık tarihte bugün",
     "year": "",
-    "text": "2 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "2 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-03",
     "label": "3 Aralık",
-    "title": "3 Aralık arşiv kaydı",
+    "title": "3 Aralık tarihte bugün",
     "year": "",
-    "text": "3 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "3 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-04",
     "label": "4 Aralık",
-    "title": "4 Aralık arşiv kaydı",
+    "title": "4 Aralık tarihte bugün",
     "year": "",
-    "text": "4 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "4 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-05",
     "label": "5 Aralık",
-    "title": "5 Aralık arşiv kaydı",
+    "title": "5 Aralık tarihte bugün",
     "year": "",
-    "text": "5 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "5 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-06",
     "label": "6 Aralık",
-    "title": "6 Aralık arşiv kaydı",
+    "title": "6 Aralık tarihte bugün",
     "year": "",
-    "text": "6 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "6 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-07",
     "label": "7 Aralık",
-    "title": "7 Aralık arşiv kaydı",
+    "title": "7 Aralık tarihte bugün",
     "year": "",
-    "text": "7 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "7 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-08",
     "label": "8 Aralık",
-    "title": "8 Aralık arşiv kaydı",
+    "title": "8 Aralık tarihte bugün",
     "year": "",
-    "text": "8 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "8 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-09",
     "label": "9 Aralık",
-    "title": "9 Aralık arşiv kaydı",
+    "title": "9 Aralık tarihte bugün",
     "year": "",
-    "text": "9 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "9 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -10679,129 +10959,137 @@ window.NZ_TODAY = [
   {
     "date": "12-11",
     "label": "11 Aralık",
-    "title": "11 Aralık arşiv kaydı",
+    "title": "11 Aralık tarihte bugün",
     "year": "",
-    "text": "11 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "11 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-12",
     "label": "12 Aralık",
-    "title": "12 Aralık arşiv kaydı",
+    "title": "12 Aralık tarihte bugün",
     "year": "",
-    "text": "12 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "12 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-13",
     "label": "13 Aralık",
-    "title": "13 Aralık arşiv kaydı",
+    "title": "13 Aralık tarihte bugün",
     "year": "",
-    "text": "13 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "13 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-14",
     "label": "14 Aralık",
-    "title": "14 Aralık arşiv kaydı",
+    "title": "14 Aralık tarihte bugün",
     "year": "",
-    "text": "14 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "14 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-15",
     "label": "15 Aralık",
-    "title": "15 Aralık arşiv kaydı",
+    "title": "15 Aralık tarihte bugün",
     "year": "",
-    "text": "15 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "15 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-16",
     "label": "16 Aralık",
-    "title": "16 Aralık arşiv kaydı",
+    "title": "16 Aralık tarihte bugün",
     "year": "",
-    "text": "16 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "16 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-17",
     "label": "17 Aralık",
-    "title": "17 Aralık arşiv kaydı",
+    "title": "17 Aralık tarihte bugün",
     "year": "",
-    "text": "17 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "17 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-18",
     "label": "18 Aralık",
-    "title": "18 Aralık arşiv kaydı",
+    "title": "18 Aralık tarihte bugün",
     "year": "",
-    "text": "18 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "18 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-19",
     "label": "19 Aralık",
-    "title": "19 Aralık arşiv kaydı",
+    "title": "19 Aralık tarihte bugün",
     "year": "",
-    "text": "19 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "19 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-20",
     "label": "20 Aralık",
-    "title": "20 Aralık arşiv kaydı",
+    "title": "20 Aralık tarihte bugün",
     "year": "",
-    "text": "20 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "20 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-21",
     "label": "21 Aralık",
-    "title": "21 Aralık arşiv kaydı",
+    "title": "21 Aralık tarihte bugün",
     "year": "",
-    "text": "21 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "21 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-22",
     "label": "22 Aralık",
-    "title": "22 Aralık arşiv kaydı",
+    "title": "22 Aralık tarihte bugün",
     "year": "",
-    "text": "22 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "22 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-23",
     "label": "23 Aralık",
-    "title": "23 Aralık arşiv kaydı",
+    "title": "23 Aralık tarihte bugün",
     "year": "",
-    "text": "23 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "23 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-24",
     "label": "24 Aralık",
-    "title": "24 Aralık arşiv kaydı",
+    "title": "24 Aralık tarihte bugün",
     "year": "",
-    "text": "24 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "24 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-25",
     "label": "25 Aralık",
-    "title": "25 Aralık arşiv kaydı",
+    "title": "25 Aralık tarihte bugün",
     "year": "",
-    "text": "25 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "25 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-26",
     "label": "26 Aralık",
-    "title": "26 Aralık arşiv kaydı",
+    "title": "26 Aralık tarihte bugün",
     "year": "",
-    "text": "26 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "26 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
+    "url": "tarihte-bugun.html"
+  },
+  {
+    "date": "12-27",
+    "label": "27 Aralık",
+    "title": "27 Aralık tarihte bugün",
+    "year": "",
+    "text": "27 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
@@ -10815,33 +11103,33 @@ window.NZ_TODAY = [
   {
     "date": "12-28",
     "label": "28 Aralık",
-    "title": "28 Aralık arşiv kaydı",
+    "title": "28 Aralık tarihte bugün",
     "year": "",
-    "text": "28 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "28 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-29",
     "label": "29 Aralık",
-    "title": "29 Aralık arşiv kaydı",
+    "title": "29 Aralık tarihte bugün",
     "year": "",
-    "text": "29 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "29 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-30",
     "label": "30 Aralık",
-    "title": "30 Aralık arşiv kaydı",
+    "title": "30 Aralık tarihte bugün",
     "year": "",
-    "text": "30 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "30 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   },
   {
     "date": "12-31",
     "label": "31 Aralık",
-    "title": "31 Aralık arşiv kaydı",
+    "title": "31 Aralık tarihte bugün",
     "year": "",
-    "text": "31 Aralık için Tarihte Bugün arşiv kaydı hazırlandı. Bu gün özel olaylarla daha sonra zenginleştirilebilir.",
+    "text": "31 Aralık gününe ait tarih kayıtları bu alanda gösterilir.",
     "url": "tarihte-bugun.html"
   }
 ];
