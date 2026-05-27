@@ -1,0 +1,10 @@
+Nezamandi Google tag eklendi
+
+Google tag / Analytics ID: G-FN8GLBN8VR
+- Tüm HTML sayfalarına eklendi.
+- Eski GTM / gtag blokları temizlendi.
+- ads.txt, robots.txt ve sitemap.xml korunup güncellendi.
+- API dosyalarına bu pakette dokunulmadı.
+
+Commit mesajı:
+Nezamandi Google tag eklendi
