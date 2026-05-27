@@ -1,0 +1,6 @@
+Step13: Alternatif SEO kelimeleri eklendi.
+- index.html title/description ve hero metni güçlendirildi.
+- ne-zaman.html yeni SEO rehber sayfası eklendi.
+- Footer'a Ne Zaman? linki eklendi.
+- sitemap.xml ve tum-kayitlar.html güncellendi.
+Hedef aramalar: ne zaman, ne zamandı, hangi tarihte, hangi yılda oldu, kaç yılında oldu, ilk ne zaman.
