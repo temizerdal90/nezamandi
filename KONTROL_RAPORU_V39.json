@@ -1,0 +1,23 @@
+{
+  "version": "V39",
+  "based_on": "nezamandi_v38_100_veri_oyun_deprem_afet_full.zip",
+  "changes": [
+    "Removed visitor-visible technical archive explanation from tarihte-bugun-gun.html",
+    "Replaced it with a natural visitor-facing explanation",
+    "Updated app.js cache query references to v=39 where found",
+    "Preserved V38 content, Analytics and AdSense"
+  ],
+  "counts": {
+    "total_files": 655,
+    "html_files": 609,
+    "search_records_in_app_js": 968
+  },
+  "checks": {
+    "analytics_id": "G-FN8GLBN8VR",
+    "analytics_missing_html_count": 0,
+    "adsense_id": "ca-pub-9289852053561118",
+    "adsense_present_html_count": 609,
+    "unwanted_text_remaining_count": 0
+  },
+  "created_at": "2026-05-29"
+}

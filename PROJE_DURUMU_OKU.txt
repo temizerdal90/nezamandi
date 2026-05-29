@@ -1,42 +1,12 @@
-Nezamandi.com Proje Durumu - V38
+NEZAMANDI PROJE DURUMU - V44
 
-Son sürüm: V38
-Önceki sürüm: V37 mobil taşma düzeltme + 50 veri.
+Son sürüm: V44
+Yapılan: V43 üzerine 100 yeni içerik eklendi.
+Arama kaydı: 1468
+HTML sayfası: 1109
+Analytics: G-FN8GLBN8VR
+AdSense: ca-pub-9289852053561118
+app.js sürüm parametresi: v=44
 
-Bu sürümde yapılanlar:
-- 100 yeni içerik sayfası eklendi.
-- Doğa, yemek, günlük yaşam, sosyal hayat, spor, okul, oyun ve deprem/afet başlıkları genişletildi.
-- Yeni kategori sayfaları eklendi/güncellendi: oyun.html, deprem-ve-afet.html.
-- index.html kategori kartlarına Oyun ve Deprem & Afet eklendi.
-- app.js arama verisi güncellendi ve önbellek için app.js?v=38 yapıldı.
-- tum-kayitlar.html güncellendi.
-- sitemap.xml güncellendi.
-- EKLENEN_100_ICERIK_V38.txt eklendi.
-- SOHBET_OZETI_OKU.txt güncellendi.
-
-Sayım:
-- V37 arama kaydı: 881
-- V38 arama kaydı: 968
-- V37 HTML dosyası: 520
-- V38 HTML dosyası: 609
-- V38'de eklenen yeni içerik: 87
-
-Kategori dağılımı (eklenenler):
-- Deprem & Afet: 10
-- Doğa & Uzay: 12
-- Günlük Hayat: 11
-- Okul & Eğitim: 5
-- Oyun: 10
-- Sosyal Hayat: 10
-- Spor: 10
-- Yemek & Mutfak: 19
-
-Korunanlar:
-- Analytics: G-FN8GLBN8VR
-- AdSense: ca-pub-9289852053561118
-- Search Console doğrulama meta etiketi korundu.
-
-Kontrol önerisi:
-- Mobilde sağa/sola kayma tekrar kontrol edilsin.
-- Ana sayfada şu aramalar denensin: Deprem çantası, Pankek, Oyun indirimi, Samanyolu, Maç bileti.
-- Deprem içeriklerinde kesin tarih/tahmin iddiası yok; güvenli ve resmi kurum uyarısı dili kullanıldı.
+Not: Sohbet kayıplarına karşı eklenen içerik listeleri ve proje durum dosyaları zip içinde tutuluyor.
+Bu sürümde eklenen dosya: EKLENEN_100_ICERIK_V44.txt
