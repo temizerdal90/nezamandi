@@ -43,7 +43,7 @@ function renderResults(query) {
   results.innerHTML = "";
   if (!normTR(query)) return [];
   results.innerHTML = found.length
-    ? found.map((item,idx) => `<a class="result-item ${idx===0?'best-result':''}" href="${item.url}">${idx===0?'<em>En iyi eşleşme</em>':''}<strong>${item.title}</strong><small>${item.cat}</small></a>`).join("")
+    ? found.map(item => `<a class="result-item" href="${item.url}"><strong>${item.title}</strong><small>${item.cat}</small></a>`).join("")
     : `<div class="result-item"><strong>Bu soru henüz ekli değil.</strong><small>Yeni içerik planına alınabilir.</small></div>`;
   return found;
 }
@@ -77,13 +77,3 @@ document.addEventListener("DOMContentLoaded", () => {
     input.focus();
   }));
 });
-
-function mobileSearchActive(on){
-  const card=document.querySelector('.search-card');
-  if(!card)return;
-  card.classList.toggle('search-active', !!on);
-}
-if(input){
-  input.addEventListener('focus',()=>mobileSearchActive(true));
-  input.addEventListener('blur',()=>setTimeout(()=>mobileSearchActive(false),250));
-}
