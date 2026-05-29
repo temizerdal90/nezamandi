@@ -15,19 +15,9 @@ async function fetchOnThisDay(month, day){
 }
 function itemText(x){return (x.year?`<strong>${x.year}</strong> — `:"")+(x.text||"");}
 function listFromData(data){
-  const groups=[
-    ["Olaylar", [...(data.selected||[]),...(data.events||[])]],
-    ["Doğumlar", data.births || []],
-    ["Vefatlar", data.deaths || []]
-  ];
+  const items=[...(data.selected||[]),...(data.events||[]),...(data.births||[]),...(data.deaths||[])].slice(0,18).map(itemText).filter(Boolean);
   let html="";
-  groups.forEach(([title, arr])=>{
-    const items=(arr||[]).slice(0,6).map(itemText).filter(Boolean);
-    if(items.length){
-      html+=`<div class="today-bubble">${title}<small>${items.length}</small></div>`;
-      items.forEach(t=>{html+=`<div class="today-event">${t}</div>`;});
-    }
-  });
+  items.forEach(t=>{html+=`<div class="today-event">${t}</div>`;});
   return html || `<div class="today-event">Bu tarih için bilgi alınamadı.</div>`;
 }
 async function renderTarihteBugun(){
@@ -40,9 +30,9 @@ async function renderTarihteBugun(){
   try{
     const data=await fetchOnThisDay(month, day);
     const events=listFromData(data);
-    box.innerHTML=`<div class="today-head"><span class="tag">Bugün: ${label}</span><h2>Tarihte Bugün</h2><p>Geçmiş yıllarda bugünün tarihinde yaşanan olaylar.</p><div class="today-bubbles today-bubbles-compact month-bubbles"><a class="today-bubble" href="tarihte-bugun-gun.html?m=${month}&d=${day}">Bugün</a><a class="today-bubble" href="tarihte-bugun-ocak.html">Ocak</a><a class="today-bubble" href="tarihte-bugun-subat.html">Şubat</a><a class="today-bubble" href="tarihte-bugun-mart.html">Mart</a><a class="today-bubble" href="tarihte-bugun-nisan.html">Nisan</a><a class="today-bubble" href="tarihte-bugun-mayis.html">Mayıs</a><a class="today-bubble" href="tarihte-bugun-haziran.html">Haziran</a><a class="today-bubble" href="tarihte-bugun-temmuz.html">Temmuz</a><a class="today-bubble" href="tarihte-bugun-agustos.html">Ağustos</a><a class="today-bubble" href="tarihte-bugun-eylul.html">Eylül</a><a class="today-bubble" href="tarihte-bugun-ekim.html">Ekim</a><a class="today-bubble" href="tarihte-bugun-kasim.html">Kasım</a><a class="today-bubble" href="tarihte-bugun-aralik.html">Aralık</a></div></div><div class="today-event-list today-event-list-home">${events}</div><div class="today-more"><a class="today-bubble" href="tarihte-bugun-gun.html?m=${month}&d=${day}">Devamını gör</a></div>`;
+    box.innerHTML=`<div class="today-head"><span class="tag">Bugün: ${label}</span><h2>Tarihte Bugün</h2><p>Bugünün tarihinde yaşanan önemli olaylar.</p><div class="today-bubbles today-bubbles-compact month-bubbles"><a class="today-bubble" href="tarihte-bugun-gun.html?m=${month}&d=${day}">Bugünü aç</a></div></div><div class="today-event-list today-event-list-home">${events}</div><div class="today-more"><a class="today-bubble" href="tarihte-bugun-gun.html?m=${month}&d=${day}">Devamını gör</a></div>`;
   }catch(e){
-    box.innerHTML=`<div class="today-head"><span class="tag">Bugün</span><h2>Tarihte Bugün</h2><p>Veri şu anda alınamadı.</p><div class="today-bubbles today-bubbles-compact month-bubbles"><a class="today-bubble" href="tarihte-bugun.html">Tarihte Bugün</a><a class="today-bubble" href="tarihte-bugun-ocak.html">Ocak</a><a class="today-bubble" href="tarihte-bugun-kasim.html">Kasım</a></div></div>`;
+    box.innerHTML=`<div class="today-head"><span class="tag">Bugün</span><h2>Tarihte Bugün</h2><p>Veri şu anda alınamadı.</p><div class="today-bubbles today-bubbles-compact month-bubbles"><a class="today-bubble" href="tarihte-bugun-gun.html">Bugünü aç</a></div></div>`;
   }
 }
 async function renderArchiveDay(){
@@ -55,7 +45,7 @@ async function renderArchiveDay(){
   const short=document.getElementById("dynamicTodayShort");
   const detailTitle=document.getElementById("dynamicTodayDetailTitle");
   if(title)title.textContent=`${label} Tarihte Bugün`;
-  if(short)short.innerHTML=`<strong>${label}</strong> tarihinde geçmiş yıllarda yaşanan olaylar, doğumlar ve vefatlar burada listelenir.`;
+  if(short)short.innerHTML=`<strong>${label}</strong> tarihinde geçmiş yıllarda yaşanan önemli bilgiler tek liste halinde gösterilir.`;
   if(detailTitle)detailTitle.textContent=`${label} tarihinde neler oldu?`;
   try{
     const data=await fetchOnThisDay(m, d);

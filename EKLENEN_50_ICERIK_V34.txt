@@ -179,3 +179,23 @@ Dosya: ev-tasinma-hazirligi-ne-zaman-baslar.html
 45. Hediye ne zaman alınır?
 Kategori: Sosyal Hayat
 Dosya: hediye-ne-zaman-alinir.html
+
+46. Kuru temizleme ne zaman yapılır?
+Kategori: Günlük Hayat
+Dosya: kuru-temizleme-ne-zaman-yapilir.html
+
+47. Diş teli kontrolü ne zaman yapılır?
+Kategori: Sağlık & Çocuk
+Dosya: dis-teli-kontrolu-ne-zaman-yapilir.html
+
+48. Bebekler ne zaman kaşık tutar?
+Kategori: Sağlık & Çocuk
+Dosya: bebekler-ne-zaman-kasik-tutar.html
+
+49. Kira depozitosu ne zaman geri alınır?
+Kategori: Günlük Hayat
+Dosya: kira-depozitosu-ne-zaman-geri-alinir.html
+
+50. Valiz hazırlığı ne zaman yapılır?
+Kategori: Sosyal Hayat
+Dosya: valiz-hazirligi-ne-zaman-yapilir.html

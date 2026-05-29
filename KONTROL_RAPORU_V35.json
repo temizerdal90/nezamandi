@@ -1,0 +1,304 @@
+{
+  "version": "v35",
+  "added_count": 57,
+  "total_questions": 831,
+  "html_count": 470,
+  "analytics": "G-FN8GLBN8VR",
+  "adsense": "ca-pub-9289852053561118",
+  "changes": [
+    "mobile compact hero/search",
+    "homepage today months removed",
+    "today categories flattened",
+    "new content added"
+  ],
+  "added": [
+    {
+      "title": "Cam suyu ne zaman doldurulur?",
+      "cat": "Günlük Hayat",
+      "url": "cam-suyu-ne-zaman-doldurulur.html"
+    },
+    {
+      "title": "Silecek lastiği ne zaman değiştirilir?",
+      "cat": "Günlük Hayat",
+      "url": "silecek-lastigi-ne-zaman-degistirilir.html"
+    },
+    {
+      "title": "Petek havası ne zaman alınır?",
+      "cat": "Günlük Hayat",
+      "url": "petek-havasi-ne-zaman-alinir.html"
+    },
+    {
+      "title": "Ders programı ne zaman hazırlanır?",
+      "cat": "Okul & Eğitim",
+      "url": "ders-programi-ne-zaman-hazirlanir.html"
+    },
+    {
+      "title": "Ödev ne zaman yapılmalı?",
+      "cat": "Okul & Eğitim",
+      "url": "odev-ne-zaman-yapilmali.html"
+    },
+    {
+      "title": "Kitap okuma ne zaman yapılmalı?",
+      "cat": "Okul & Eğitim",
+      "url": "kitap-okuma-ne-zaman-yapilmali.html"
+    },
+    {
+      "title": "Sınav tekrarı ne zaman yapılır?",
+      "cat": "Okul & Eğitim",
+      "url": "sinav-tekrari-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Tercih danışmanlığı ne zaman alınır?",
+      "cat": "Okul & Eğitim",
+      "url": "tercih-danismanligi-ne-zaman-alinir.html"
+    },
+    {
+      "title": "Okul servis kaydı ne zaman yapılır?",
+      "cat": "Okul & Eğitim",
+      "url": "okul-servis-kaydi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Yaz okulu kaydı ne zaman yapılır?",
+      "cat": "Okul & Eğitim",
+      "url": "yaz-okulu-kaydi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Spor ne zaman yapılmalı?",
+      "cat": "Sağlık & Çocuk",
+      "url": "spor-ne-zaman-yapilmali.html"
+    },
+    {
+      "title": "Yürüyüş ne zaman yapılmalı?",
+      "cat": "Sağlık & Çocuk",
+      "url": "yuruyus-ne-zaman-yapilmali.html"
+    },
+    {
+      "title": "Su ne zaman içilmeli?",
+      "cat": "Sağlık & Çocuk",
+      "url": "su-ne-zaman-icilmeli.html"
+    },
+    {
+      "title": "Askerlik celp dönemi ne zaman belli olur?",
+      "cat": "Günlük Hayat",
+      "url": "askerlik-celp-donemi-ne-zaman-belli-olur.html"
+    },
+    {
+      "title": "Alışveriş listesi ne zaman hazırlanır?",
+      "cat": "Sosyal Hayat",
+      "url": "alisveris-listesi-ne-zaman-hazirlanir.html"
+    },
+    {
+      "title": "Makarnaya sos ne zaman eklenir?",
+      "cat": "Yemek & Mutfak",
+      "url": "makarnaya-sos-ne-zaman-eklenir.html"
+    },
+    {
+      "title": "Mercimek çorbasına tuz ne zaman atılır?",
+      "cat": "Yemek & Mutfak",
+      "url": "mercimek-corbasina-tuz-ne-zaman-atilir.html"
+    },
+    {
+      "title": "Kahve telvesi ne zaman çöker?",
+      "cat": "Yemek & Mutfak",
+      "url": "kahve-telvesi-ne-zaman-coker.html"
+    },
+    {
+      "title": "Çorba ne zaman blenderdan geçirilir?",
+      "cat": "Yemek & Mutfak",
+      "url": "corba-ne-zaman-blenderdan-gecirilir.html"
+    },
+    {
+      "title": "Bulaşık makinesi tuzu ne zaman konur?",
+      "cat": "Günlük Hayat",
+      "url": "bulasik-makinesi-tuzu-ne-zaman-konur.html"
+    },
+    {
+      "title": "Bulaşık makinesi parlatıcısı ne zaman konur?",
+      "cat": "Günlük Hayat",
+      "url": "bulasik-makinesi-parlaticisi-ne-zaman-konur.html"
+    },
+    {
+      "title": "Çamaşır makinesi kazan temizliği ne zaman yapılır?",
+      "cat": "Günlük Hayat",
+      "url": "camasir-makinesi-kazan-temizligi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Buzdolabı filtresi ne zaman değiştirilir?",
+      "cat": "Günlük Hayat",
+      "url": "buzdolabi-filtresi-ne-zaman-degistirilir.html"
+    },
+    {
+      "title": "Kombi basıncı ne zaman kontrol edilir?",
+      "cat": "Günlük Hayat",
+      "url": "kombi-basinci-ne-zaman-kontrol-edilir.html"
+    },
+    {
+      "title": "Modem şifresi ne zaman değiştirilir?",
+      "cat": "Günlük Hayat",
+      "url": "modem-sifresi-ne-zaman-degistirilir.html"
+    },
+    {
+      "title": "Telefon yedeklemesi ne zaman yapılır?",
+      "cat": "Günlük Hayat",
+      "url": "telefon-yedeklemesi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Şofben bakımı ne zaman yapılır?",
+      "cat": "Günlük Hayat",
+      "url": "sofben-bakimi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Ev interneti nakil başvurusu ne zaman yapılır?",
+      "cat": "Günlük Hayat",
+      "url": "ev-interneti-nakil-basvurusu-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Yoğurt mayası ne zaman eklenir?",
+      "cat": "Yemek & Mutfak",
+      "url": "yogurt-mayasi-ne-zaman-eklenir.html"
+    },
+    {
+      "title": "Sütlaç fırına ne zaman verilir?",
+      "cat": "Yemek & Mutfak",
+      "url": "sutlac-firina-ne-zaman-verilir.html"
+    },
+    {
+      "title": "Muhallebi ne zaman ocaktan alınır?",
+      "cat": "Yemek & Mutfak",
+      "url": "muhallebi-ne-zaman-ocaktan-alinir.html"
+    },
+    {
+      "title": "Köfte ne zaman çevrilir?",
+      "cat": "Yemek & Mutfak",
+      "url": "kofte-ne-zaman-cevrilir.html"
+    },
+    {
+      "title": "Tencere yemeğine tuz ne zaman atılır?",
+      "cat": "Yemek & Mutfak",
+      "url": "tencere-yemegine-tuz-ne-zaman-atilir.html"
+    },
+    {
+      "title": "Fırın ne zaman önceden ısıtılır?",
+      "cat": "Yemek & Mutfak",
+      "url": "firin-ne-zaman-onceden-isitilir.html"
+    },
+    {
+      "title": "Krema ne zaman kesilir?",
+      "cat": "Yemek & Mutfak",
+      "url": "krema-ne-zaman-kesilir.html"
+    },
+    {
+      "title": "Buzluktan çıkan ekmek ne zaman yenir?",
+      "cat": "Yemek & Mutfak",
+      "url": "buzluktan-cikan-ekmek-ne-zaman-yenir.html"
+    },
+    {
+      "title": "Kabak tatlısı ne zaman şekerle bekletilir?",
+      "cat": "Yemek & Mutfak",
+      "url": "kabak-tatlisi-ne-zaman-sekerle-bekletilir.html"
+    },
+    {
+      "title": "Aşurelik buğday ne zaman ıslatılır?",
+      "cat": "Yemek & Mutfak",
+      "url": "asurelik-bugday-ne-zaman-islatilir.html"
+    },
+    {
+      "title": "Okul kıyafeti ne zaman alınır?",
+      "cat": "Okul & Eğitim",
+      "url": "okul-kiyafeti-ne-zaman-alinir.html"
+    },
+    {
+      "title": "Kırtasiye alışverişi ne zaman yapılır?",
+      "cat": "Okul & Eğitim",
+      "url": "kirtasiye-alisverisi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Okul çantası ne zaman hazırlanır?",
+      "cat": "Okul & Eğitim",
+      "url": "okul-cantasi-ne-zaman-hazirlanir.html"
+    },
+    {
+      "title": "Veli toplantısı ne zaman yapılır?",
+      "cat": "Okul & Eğitim",
+      "url": "veli-toplantisi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "E-okul notları ne zaman girilir?",
+      "cat": "Okul & Eğitim",
+      "url": "e-okul-notlari-ne-zaman-girilir.html"
+    },
+    {
+      "title": "Üniversite kayıt evrakları ne zaman teslim edilir?",
+      "cat": "Okul & Eğitim",
+      "url": "universite-kayit-evraklari-ne-zaman-teslim-edilir.html"
+    },
+    {
+      "title": "Yurt odası ne zaman belli olur?",
+      "cat": "Okul & Eğitim",
+      "url": "yurt-odasi-ne-zaman-belli-olur.html"
+    },
+    {
+      "title": "Spor lisansı ne zaman çıkarılır?",
+      "cat": "Spor",
+      "url": "spor-lisansi-ne-zaman-cikarilir.html"
+    },
+    {
+      "title": "Futbol altyapı seçmeleri ne zaman yapılır?",
+      "cat": "Spor",
+      "url": "futbol-altyapi-secmeleri-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Maraton kaydı ne zaman yapılır?",
+      "cat": "Spor",
+      "url": "maraton-kaydi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Ramazan alışverişi ne zaman yapılır?",
+      "cat": "Özel Günler",
+      "url": "ramazan-alisverisi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Bayram temizliği ne zaman yapılır?",
+      "cat": "Özel Günler",
+      "url": "bayram-temizligi-ne-zaman-yapilir.html"
+    },
+    {
+      "title": "Kurbanlık ne zaman alınır?",
+      "cat": "Özel Günler",
+      "url": "kurbanlik-ne-zaman-alinir.html"
+    },
+    {
+      "title": "Mevlid Kandili ne zaman?",
+      "cat": "Özel Günler",
+      "url": "mevlid-kandili-ne-zaman.html"
+    },
+    {
+      "title": "Berat Kandili ne zaman?",
+      "cat": "Özel Günler",
+      "url": "berat-kandili-ne-zaman.html"
+    },
+    {
+      "title": "Çocuklar ne zaman okula hazır olur?",
+      "cat": "Sağlık & Çocuk",
+      "url": "cocuklar-ne-zaman-okula-hazir-olur.html"
+    },
+    {
+      "title": "Çocuklarda ateş ne zaman acildir?",
+      "cat": "Sağlık & Çocuk",
+      "url": "cocuklarda-ates-ne-zaman-acildir.html"
+    },
+    {
+      "title": "Tansiyon ilacı ne zaman alınır?",
+      "cat": "Sağlık & Çocuk",
+      "url": "tansiyon-ilaci-ne-zaman-alinir.html"
+    },
+    {
+      "title": "Antibiyotik ne zaman etki eder?",
+      "cat": "Sağlık & Çocuk",
+      "url": "antibiyotik-ne-zaman-etki-eder.html"
+    }
+  ],
+  "today_flattened_verified": true,
+  "homepage_month_links_removed_verified": true,
+  "mobile_compact_css_added": true
+}

@@ -1,21 +1,25 @@
-NEZAMANDI.COM PROJE DURUMU - V34
+NEZAMANDI V35 PROJE DURUMU
 
-Son sürüm: nezamandi_v34_mobil_arama_yer_degisti_50_veri_full.zip
-Temel alınan sürüm: V33 listeli paket.
+Son işlem:
+- Mobil ana sayfa kompakt hale getirildi.
+- "Ne zaman merak ediyorsun?" başlığı küçültülüp arama alanıyla daha dengeli konumlandırıldı.
+- Arama kartı mobilde daha kısa yapıldı; Tarihte Bugün alanı ekranda daha erken görünecek şekilde düzenlendi.
+- Ana sayfadaki Tarihte Bugün ay bağlantıları kaldırıldı; yalnızca bugünün tarihi gösterilecek.
+- Tarihte Bugün olay/doğum/vefat kategori ayrımı kaldırıldı; tek liste mantığına çevrildi.
+- 19 yeni içerik sayfası eklendi.
+- app.js, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
 
-Bu pakette yapılanlar:
-- Mobilde arama formu, “Ne zaman merak ediyorsun?” başlığının ÜSTÜNE alındı.
-- Arama sonuçları artık inputun hemen altında, butonun üstünde görünecek şekilde düzenlendi. Böylece iPhone klavyesi açıldığında “Atatürk” yazınca sonuç alanı daha görünür olur.
-- Arama kutusunu büyütme odaklı abartı azaltıldı; amaç sonuçları görünür yapmak olarak düzeltildi.
-- 45 yeni içerik sayfası eklendi.
-- app.js arama verisi, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
-- EKLENEN_50_ICERIK_V34.txt dosyası eklendi; hangi içeriklerin eklendiği oradan kontrol edilecek.
-
-Korunan teknikler:
+Korunan kodlar:
 - Analytics: G-FN8GLBN8VR
 - AdSense: ca-pub-9289852053561118
-- Search Console doğrulama meta etiketi korundu.
 
-Kural:
-- Bundan sonra her zip içinde PROJE_DURUMU_OKU.txt, SOHBET_OZETI_OKU.txt, EKLENEN_ICERIK_LISTESI ve kontrol raporu olacak.
-- Eski 1352 içerik sistemine dönülmeyecek; temiz V31+ yapıdan devam edilecek.
+Eklenen içerik listesi:
+- EKLENEN_ICERIK_LISTESI_V35.txt dosyasına yazıldı.
+
+Not:
+- Sohbet kaybına karşı bu dosya ve SOHBET_OZETI_OKU.txt her zip içinde tutulacak.
+
+V35 ek veri devamı: 38 yeni kayıt daha eklendi. Toplam V35 yeni içerik: 57.
+Eklenen liste EKLENEN_ICERIK_LISTESI_V35.txt içinde.
+
+V35 son kontrol: Tarihte Bugün tek listeye çevrildi, ana sayfada ay baloncukları kaldırıldı, mobil arama alanı kompaktlaştırıldı.

@@ -36,3 +36,41 @@ V33 eklenen 50 içerik listesi artık zip içinde EKLENEN_50_ICERIK_V33.txt dosy
 
 V34 NOTU:
 Kullanıcı, mobilde arama kutusunu sadece büyütmek istemediğini; arama sonuçları görünmediği için arama alanının “Ne zaman merak ediyorsun?” başlığıyla yer değiştirmesini istedi. V34te arama formu mobilde üstte olacak şekilde düzenlendi, sonuçlar inputun hemen altına taşındı. Ayrıca 50 yeni veri eklendi ve liste EKLENEN_50_ICERIK_V34.txt içine yazıldı.
+
+
+--- V35 NOTU ---
+NEZAMANDI V35 PROJE DURUMU
+
+Son işlem:
+- Mobil ana sayfa kompakt hale getirildi.
+- "Ne zaman merak ediyorsun?" başlığı küçültülüp arama alanıyla daha dengeli konumlandırıldı.
+- Arama kartı mobilde daha kısa yapıldı; Tarihte Bugün alanı ekranda daha erken görünecek şekilde düzenlendi.
+- Ana sayfadaki Tarihte Bugün ay bağlantıları kaldırıldı; yalnızca bugünün tarihi gösterilecek.
+- Tarihte Bugün olay/doğum/vefat kategori ayrımı kaldırıldı; tek liste mantığına çevrildi.
+- 19 yeni içerik sayfası eklendi.
+- app.js, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
+
+Korunan kodlar:
+- Analytics: G-FN8GLBN8VR
+- AdSense: ca-pub-9289852053561118
+
+Eklenen içerik listesi:
+- EKLENEN_ICERIK_LISTESI_V35.txt dosyasına yazıldı.
+
+Not:
+- Sohbet kaybına karşı bu dosya ve SOHBET_OZETI_OKU.txt her zip içinde tutulacak.
+
+Örnek yeni içerikler:
+01. Cam suyu ne zaman doldurulur? | Günlük Hayat | cam-suyu-ne-zaman-doldurulur.html
+02. Silecek lastiği ne zaman değiştirilir? | Günlük Hayat | silecek-lastigi-ne-zaman-degistirilir.html
+03. Petek havası ne zaman alınır? | Günlük Hayat | petek-havasi-ne-zaman-alinir.html
+04. Ders programı ne zaman hazırlanır? | Okul & Eğitim | ders-programi-ne-zaman-hazirlanir.html
+05. Ödev ne zaman yapılmalı? | Okul & Eğitim | odev-ne-zaman-yapilmali.html
+06. Kitap okuma ne zaman yapılmalı? | Okul & Eğitim | kitap-okuma-ne-zaman-yapilmali.html
+07. Sınav tekrarı ne zaman yapılır? | Okul & Eğitim | sinav-tekrari-ne-zaman-yapilir.html
+08. Tercih danışmanlığı ne zaman alınır? | Okul & Eğitim | tercih-danismanligi-ne-zaman-alinir.html
+
+V35 ek veri devamı: 38 yeni kayıt daha eklendi. Toplam V35 yeni içerik: 57.
+Eklenen liste EKLENEN_ICERIK_LISTESI_V35.txt içinde.
+
+V35 son kontrol: Tarihte Bugün tek listeye çevrildi, ana sayfada ay baloncukları kaldırıldı, mobil arama alanı kompaktlaştırıldı.
