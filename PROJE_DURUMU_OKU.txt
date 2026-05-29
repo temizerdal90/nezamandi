@@ -1,12 +1,22 @@
-NEZAMANDI PROJE DURUMU - V44
+NEZAMANDI.COM PROJE DURUMU - V47
 
-Son sürüm: V44
-Yapılan: V43 üzerine 100 yeni içerik eklendi.
-Arama kaydı: 1468
-HTML sayfası: 1109
-Analytics: G-FN8GLBN8VR
-AdSense: ca-pub-9289852053561118
-app.js sürüm parametresi: v=44
+Son sürüm: V47
+Önceki milat: V44, Codex kontrolü temizdi. V45 ana sayfa sadeleştirildi, V46 ikileme kontrolü yapıldı. V47'de 100 yeni içerik eklendi.
 
-Not: Sohbet kayıplarına karşı eklenen içerik listeleri ve proje durum dosyaları zip içinde tutuluyor.
-Bu sürümde eklenen dosya: EKLENEN_100_ICERIK_V44.txt
+Son durum:
+- Arama kaydı: 1668
+- HTML sayfası: 1309
+- Analytics: G-FN8GLBN8VR
+- AdSense: ca-pub-9289852053561118
+- app.js sürüm parametresi: app.js?v=47
+
+V47 yapılanlar:
+- 100 yeni içerik eklendi.
+- İkilemelere dikkat edildi; exact title/url ve normalleştirilmiş başlık çakışması kontrol edildi.
+- app.js, sitemap.xml, tum-kayitlar.html ve kategori sayfaları güncellendi.
+- Analytics ve AdSense kodları korundu.
+
+Dosyalar:
+- EKLENEN_100_ICERIK_V47.txt: Eklenen tüm içeriklerin listesi
+- KONTROL_RAPORU_V47.json: Teknik kontrol özeti
+- SOHBET_TAM_KAYIT_GORUNEN.txt: Görünen sohbet/proje kayıt notları

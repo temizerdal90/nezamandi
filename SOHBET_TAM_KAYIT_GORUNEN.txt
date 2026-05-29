@@ -134,3 +134,11 @@ ASSISTANT: V42 dosyasından devam edip 100 yeni veri daha ekledi; app.js, katego
 
 --- V44 NOTU ---
 Kullanıcı Search Console dizin ekranı sonrası veri eklemeye devam edilmesini istedi. V44 ile 100 yeni içerik eklendi. Arama kaydı 1468, HTML sayfası 1109. Eklenen içerikler EKLENEN_100_ICERIK_V44.txt dosyasında.
+
+
+--- V45 NOTU ---
+Kullanıcı Codex raporundaki küçük notları düzeltip veri eklemeyi istedi. V45 ile tum-kayitlar.html içine kategori sayfaları eklendi, ana sayfa 3 kategori ve 6 temiz soru olacak şekilde sadeleştirildi, 100 yeni içerik eklendi. Eklenenler EKLENEN_100_ICERIK_V45.txt içinde.
+
+
+--- V47 NOTU ---
+Kullanıcı 100 yeni veri eklenmesini ve ikilemelere dikkat edilmesini istedi. V47'de 100 içerik eklendi; exact/norm duplicate kontrolü yapıldı.

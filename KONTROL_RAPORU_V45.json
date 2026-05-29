@@ -1,0 +1,72 @@
+{
+  "version": 45,
+  "added_count": 100,
+  "search_records": 1568,
+  "html_pages": 1209,
+  "analytics": "G-FN8GLBN8VR",
+  "adsense": "ca-pub-9289852053561118",
+  "app_version": 45,
+  "homepage_featured_categories": 3,
+  "homepage_featured_questions": 6,
+  "tum_kayitlar_category_pages_added": 12,
+  "added_file": "EKLENEN_100_ICERIK_V45.txt",
+  "examples": [
+    {
+      "title": "Kutup ışıkları Türkiye’den ne zaman görülür?",
+      "cat": "Doğa & Uzay",
+      "url": "kutup-isiklari-turkiye-den-ne-zaman-gorulur.html"
+    },
+    {
+      "title": "Güneş fırtınası ne zaman olur?",
+      "cat": "Doğa & Uzay",
+      "url": "gunes-firtinasi-ne-zaman-olur.html"
+    },
+    {
+      "title": "Ay tutulması en iyi ne zaman izlenir?",
+      "cat": "Doğa & Uzay",
+      "url": "ay-tutulmasi-en-iyi-ne-zaman-izlenir.html"
+    },
+    {
+      "title": "Güneş tutulması için gözlük ne zaman takılır?",
+      "cat": "Doğa & Uzay",
+      "url": "gunes-tutulmasi-icin-gozluk-ne-zaman-takilir.html"
+    },
+    {
+      "title": "Meteor yağmuru için şehirden ne zaman çıkılır?",
+      "cat": "Doğa & Uzay",
+      "url": "meteor-yagmuru-icin-sehirden-ne-zaman-cikilir.html"
+    },
+    {
+      "title": "Yıldız kayması ne zaman daha çok görülür?",
+      "cat": "Doğa & Uzay",
+      "url": "yildiz-kaymasi-ne-zaman-daha-cok-gorulur.html"
+    },
+    {
+      "title": "Dolunayda deniz ne zaman yükselir?",
+      "cat": "Doğa & Uzay",
+      "url": "dolunayda-deniz-ne-zaman-yukselir.html"
+    },
+    {
+      "title": "Güneş yanığı ne zaman belli olur?",
+      "cat": "Sağlık & Çocuk",
+      "url": "gunes-yanigi-ne-zaman-belli-olur.html"
+    },
+    {
+      "title": "Yağmurdan sonra mantar ne zaman çıkar?",
+      "cat": "Doğa & Uzay",
+      "url": "yagmurdan-sonra-mantar-ne-zaman-cikar.html"
+    },
+    {
+      "title": "Sivrisinekler ne zaman artar?",
+      "cat": "Doğa & Uzay",
+      "url": "sivrisinekler-ne-zaman-artar.html"
+    }
+  ],
+  "link_check": "passed",
+  "app_url_targets": "passed",
+  "codex_notes_fixed": [
+    "tum-kayitlar.html içine kategori sayfaları eklendi",
+    "ana sayfa kategori kartları 3 adede indirildi",
+    "ana sayfa öne çıkan temiz sorular 6 adede indirildi"
+  ]
+}

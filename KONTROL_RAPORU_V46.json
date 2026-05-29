@@ -1,0 +1,96 @@
+{
+  "version": "V46",
+  "search_records": 1568,
+  "html_files": 1209,
+  "removed_semantic_duplicates": 15,
+  "added_replacements": 15,
+  "exact_title_duplicates": [],
+  "exact_url_duplicates": [],
+  "missing_app_targets": [],
+  "broken_local_links_count": 0,
+  "broken_local_links_sample": [],
+  "remaining_removed_url_refs": [
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "kutup-isiklari-turkiye-den-ne-zaman-gorulur.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "kutup-isiklari-turkiye-den-ne-zaman-gorulur.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "borek-firindan-ne-zaman-alinir.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "borek-firindan-ne-zaman-alinir.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "e-spor-finali-ne-zaman-oynanir.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "e-spor-finali-ne-zaman-oynanir.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "oyun-sunuculari-ne-zaman-bakima-alinir.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "oyun-sunuculari-ne-zaman-bakima-alinir.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V41.txt",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "app.js",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "oyun.html",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "sitemap.xml",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "tum-kayitlar.html",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "yeni-oyun-on-siparisi-ne-zaman-acilir.html",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "oyun-on-siparisi-ne-zaman-acilir.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "oyun-guncellemesi-ne-zaman-yuklenir.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "oyun-guncellemesi-ne-zaman-yuklenir.html"
+    ],
+    [
+      "EKLENEN_100_ICERIK_V45.txt",
+      "kofte-buzdolabina-ne-zaman-konur.html"
+    ],
+    [
+      "V46_IKILEME_KONTROL_RAPORU.txt",
+      "kofte-buzdolabina-ne-zaman-konur.html"
+    ]
+  ],
+  "analytics_id": "G-FN8GLBN8VR",
+  "adsense_client": "ca-pub-9289852053561118"
+}

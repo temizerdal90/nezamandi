@@ -1,0 +1,502 @@
+Nezamandi V47 - Eklenen 100 yeni içerik
+
+001. Meteoroloji sarı uyarısı ne zaman dikkate alınır?
+Kategori: Doğa & Uzay
+Dosya: meteoroloji-sari-uyarisi-ne-zaman-dikkate-alinir.html
+Kısa cevap: Meteoroloji sarı uyarısı, hava olayının günlük yaşamı etkileyebileceği durumlarda dikkate alınır.
+
+002. Meteoroloji turuncu uyarısı ne zaman verilir?
+Kategori: Doğa & Uzay
+Dosya: meteoroloji-turuncu-uyarisi-ne-zaman-verilir.html
+Kısa cevap: Turuncu uyarı, hava olayının tehlikeli olabileceği ve hazırlık gerektirdiği durumlarda verilir.
+
+003. Meteoroloji kırmızı uyarısı ne zaman verilir?
+Kategori: Doğa & Uzay
+Dosya: meteoroloji-kirmizi-uyarisi-ne-zaman-verilir.html
+Kısa cevap: Kırmızı uyarı, çok tehlikeli hava olayları bekleniyorsa verilir.
+
+004. Don olayı ne zaman görülür?
+Kategori: Doğa & Uzay
+Dosya: don-olayi-ne-zaman-gorulur.html
+Kısa cevap: Don olayı hava sıcaklığı sıfır dereceye yaklaştığında veya altına indiğinde görülür.
+
+005. Sis ne zaman dağılır?
+Kategori: Doğa & Uzay
+Dosya: sis-ne-zaman-dagilir.html
+Kısa cevap: Sis genellikle güneşin yükselmesi ve hava sıcaklığının artmasıyla dağılmaya başlar.
+
+006. Kar yağışı ne zaman tutar?
+Kategori: Doğa & Uzay
+Dosya: kar-yagisi-ne-zaman-tutar.html
+Kısa cevap: Karın tutması için hava ve zemin sıcaklığının yeterince düşük olması gerekir.
+
+007. Dolu yağışı ne zaman tehlikeli olur?
+Kategori: Doğa & Uzay
+Dosya: dolu-yagisi-ne-zaman-tehlikeli-olur.html
+Kısa cevap: Dolu yağışı taneler büyüdüğünde, rüzgârla birlikte geldiğinde veya uzun sürdüğünde tehlikeli olabilir.
+
+008. Kum fırtınası ne zaman tehlikeli olur?
+Kategori: Doğa & Uzay
+Dosya: kum-firtinasi-ne-zaman-tehlikeli-olur.html
+Kısa cevap: Kum fırtınası görüş mesafesini düşürdüğünde ve solunumu zorlaştırdığında tehlikeli olur.
+
+009. Ağaçlar ne zaman çiçek açar?
+Kategori: Doğa & Uzay
+Dosya: agaclar-ne-zaman-cicek-acar.html
+Kısa cevap: Ağaçlar türüne ve iklime göre genellikle ilkbaharda çiçek açar.
+
+010. Polenler ne zaman artar?
+Kategori: Doğa & Uzay
+Dosya: polenler-ne-zaman-artar.html
+Kısa cevap: Polenler genellikle ilkbahar ve yaz başında artar.
+
+011. Yıldızlar en net ne zaman görülür?
+Kategori: Doğa & Uzay
+Dosya: yildizlar-en-net-ne-zaman-gorulur.html
+Kısa cevap: Yıldızlar şehir ışıklarından uzak, bulutsuz ve Ay ışığının az olduğu gecelerde daha net görülür.
+
+012. Ay ışığı ne zaman en parlak olur?
+Kategori: Doğa & Uzay
+Dosya: ay-isigi-ne-zaman-en-parlak-olur.html
+Kısa cevap: Ay ışığı dolunay döneminde en parlak görünür.
+
+013. Köz patlıcan ne zaman soyulur?
+Kategori: Yemek & Mutfak
+Dosya: koz-patlican-ne-zaman-soyulur.html
+Kısa cevap: Köz patlıcan, kabuğu yumuşayıp içi közlendikten sonra biraz ılıyınca soyulur.
+
+014. Kuru soğan yemeğe ne zaman eklenir?
+Kategori: Yemek & Mutfak
+Dosya: kuru-sogan-yemege-ne-zaman-eklenir.html
+Kısa cevap: Kuru soğan çoğu yemekte pişirmenin başında yağda kavrularak eklenir.
+
+015. Domates yemeğe ne zaman eklenir?
+Kategori: Yemek & Mutfak
+Dosya: domates-yemege-ne-zaman-eklenir.html
+Kısa cevap: Domates genellikle soğan ve salçadan sonra eklenir.
+
+016. Bulgur yemeğe ne zaman eklenir?
+Kategori: Yemek & Mutfak
+Dosya: bulgur-yemege-ne-zaman-eklenir.html
+Kısa cevap: Bulgur, sebze ve salça kavrulduktan sonra eklenir.
+
+017. Fırında tavuk ne zaman kızarır?
+Kategori: Yemek & Mutfak
+Dosya: firinda-tavuk-ne-zaman-kizarir.html
+Kısa cevap: Fırında tavuk, içi piştikten sonra yüksek ısıda veya son aşamada kızarmaya başlar.
+
+018. Tarhana çorbası ne zaman karıştırılır?
+Kategori: Yemek & Mutfak
+Dosya: tarhana-corbasi-ne-zaman-karistirilir.html
+Kısa cevap: Tarhana çorbası topaklanmaması için pişirme boyunca sık sık karıştırılır.
+
+019. Kahvaltılık sos ne zaman kavanoza konur?
+Kategori: Yemek & Mutfak
+Dosya: kahvaltilik-sos-ne-zaman-kavanoza-konur.html
+Kısa cevap: Kahvaltılık sos kıvam alıp piştikten sonra sıcak halde temiz kavanoza konur.
+
+020. Turşu suyu ne zaman ekşir?
+Kategori: Yemek & Mutfak
+Dosya: tursu-suyu-ne-zaman-eksir.html
+Kısa cevap: Turşu suyu ortam sıcaklığına göre birkaç gün içinde ekşimeye başlar.
+
+021. Kuru dolma ne zaman pişer?
+Kategori: Yemek & Mutfak
+Dosya: kuru-dolma-ne-zaman-piser.html
+Kısa cevap: Kuru dolma, iç harç ve dış kabuk yumuşadığında pişmiş olur.
+
+022. İrmik helvası ne zaman kavrulur?
+Kategori: Yemek & Mutfak
+Dosya: irmik-helvasi-ne-zaman-kavrulur.html
+Kısa cevap: İrmik helvasında irmik rengi dönüp kokusu çıkana kadar kavrulur.
+
+023. Tavuk suyu ne zaman eklenir?
+Kategori: Yemek & Mutfak
+Dosya: tavuk-suyu-ne-zaman-eklenir.html
+Kısa cevap: Tavuk suyu çorba veya pilavda sıvı aşamasında eklenir.
+
+024. Kıymalı harç ne zaman soğutulur?
+Kategori: Yemek & Mutfak
+Dosya: kiymali-harc-ne-zaman-sogutulur.html
+Kısa cevap: Kıymalı harç börek veya poğaçaya konmadan önce ılıtılır.
+
+025. Kışlık domates ne zaman kavanozlanır?
+Kategori: Yemek & Mutfak
+Dosya: kislik-domates-ne-zaman-kavanozlanir.html
+Kısa cevap: Kışlık domates genellikle yaz sonunda domates bol ve lezzetliyken kavanozlanır.
+
+026. Dondurucuya sebze ne zaman konur?
+Kategori: Yemek & Mutfak
+Dosya: dondurucuya-sebze-ne-zaman-konur.html
+Kısa cevap: Sebzeler temizlenip uygun şekilde hazırlandıktan sonra dondurucuya konur.
+
+027. Kredi kartı limiti ne zaman artırılır?
+Kategori: Günlük Hayat
+Dosya: kredi-karti-limiti-ne-zaman-artirilir.html
+Kısa cevap: Kredi kartı limiti banka değerlendirmesine göre, gelir ve ödeme düzeni uygun görüldüğünde artırılır.
+
+028. Fatura otomatik ödeme talimatı ne zaman verilir?
+Kategori: Günlük Hayat
+Dosya: fatura-otomatik-odeme-talimati-ne-zaman-verilir.html
+Kısa cevap: Otomatik ödeme talimatı son ödeme tarihi kaçırılmasın diye fatura dönemi başlamadan verilebilir.
+
+029. Araç yağ seviyesi ne zaman kontrol edilir?
+Kategori: Günlük Hayat
+Dosya: arac-yag-seviyesi-ne-zaman-kontrol-edilir.html
+Kısa cevap: Araç yağ seviyesi düz zeminde ve motor bir süre bekledikten sonra kontrol edilir.
+
+030. Araç far ampulü ne zaman değiştirilir?
+Kategori: Günlük Hayat
+Dosya: arac-far-ampulu-ne-zaman-degistirilir.html
+Kısa cevap: Far ampulü patladığında, ışığı zayıfladığında veya muayene öncesi sorun varsa değiştirilir.
+
+031. Su arıtma cihazı bakımı ne zaman yapılır?
+Kategori: Günlük Hayat
+Dosya: su-aritma-cihazi-bakimi-ne-zaman-yapilir.html
+Kısa cevap: Su arıtma cihazı bakımı filtre ömrüne ve kullanım yoğunluğuna göre yapılır.
+
+032. Telefon hafızası ne zaman temizlenir?
+Kategori: Günlük Hayat
+Dosya: telefon-hafizasi-ne-zaman-temizlenir.html
+Kısa cevap: Telefon hafızası dolmaya başladığında veya cihaz yavaşladığında temizlenir.
+
+033. Bilgisayar yedeği ne zaman alınır?
+Kategori: Günlük Hayat
+Dosya: bilgisayar-yedegi-ne-zaman-alinir.html
+Kısa cevap: Bilgisayar yedeği önemli dosyalar oluştuğunda ve düzenli aralıklarla alınır.
+
+034. E-posta şifresi ne zaman değiştirilir?
+Kategori: Günlük Hayat
+Dosya: e-posta-sifresi-ne-zaman-degistirilir.html
+Kısa cevap: E-posta şifresi güvenlik şüphesi, sızıntı uyarısı veya ortak cihaz kullanımı sonrası değiştirilir.
+
+035. Düğün oturma planı ne zaman yapılır?
+Kategori: Sosyal Hayat
+Dosya: dugun-oturma-plani-ne-zaman-yapilir.html
+Kısa cevap: Düğün oturma planı davetli listesi netleşince yapılır.
+
+036. Ev daveti ne zaman duyurulur?
+Kategori: Sosyal Hayat
+Dosya: ev-daveti-ne-zaman-duyurulur.html
+Kısa cevap: Ev daveti, misafirlerin plan yapabileceği kadar önceden duyurulur.
+
+037. Tatil rotası ne zaman belirlenir?
+Kategori: Sosyal Hayat
+Dosya: tatil-rotasi-ne-zaman-belirlenir.html
+Kısa cevap: Tatil rotası ulaşım ve konaklama seçenekleri tükenmeden önce belirlenir.
+
+038. Vize evrakları ne zaman hazırlanır?
+Kategori: Sosyal Hayat
+Dosya: vize-evraklari-ne-zaman-hazirlanir.html
+Kısa cevap: Vize evrakları randevu tarihinden önce eksiksiz hazırlanır.
+
+039. Pasaport fotoğrafı ne zaman çektirilir?
+Kategori: Sosyal Hayat
+Dosya: pasaport-fotografi-ne-zaman-cektirilir.html
+Kısa cevap: Pasaport fotoğrafı başvuru öncesinde güncel ve istenen ölçülere uygun çektirilir.
+
+040. Taşınma adres bildirimi ne zaman yapılır?
+Kategori: Sosyal Hayat
+Dosya: tasinma-adres-bildirimi-ne-zaman-yapilir.html
+Kısa cevap: Taşınma adres bildirimi yeni adrese geçtikten sonra yasal süre içinde yapılır.
+
+041. Abonelik yenileme ne zaman iptal edilir?
+Kategori: Günlük Hayat
+Dosya: abonelik-yenileme-ne-zaman-iptal-edilir.html
+Kısa cevap: Abonelik yenileme, yeni dönem ücreti çekilmeden önce iptal edilir.
+
+042. Evcil hayvan aşı takvimi ne zaman kontrol edilir?
+Kategori: Günlük Hayat
+Dosya: evcil-hayvan-asi-takvimi-ne-zaman-kontrol-edilir.html
+Kısa cevap: Evcil hayvan aşı takvimi veterinerin önerdiği aralıklarla kontrol edilir.
+
+043. Yarış çipi ne zaman teslim alınır?
+Kategori: Spor
+Dosya: yaris-cipi-ne-zaman-teslim-alinir.html
+Kısa cevap: Yarış çipi genellikle yarış kitinin teslim edildiği günlerde alınır.
+
+044. Spor sağlık raporu ne zaman yenilenir?
+Kategori: Spor
+Dosya: spor-saglik-raporu-ne-zaman-yenilenir.html
+Kısa cevap: Spor sağlık raporu kulüp, lisans veya organizasyonun istediği geçerlilik süresine göre yenilenir.
+
+045. Maç yayını ne zaman açıklanır?
+Kategori: Spor
+Dosya: mac-yayini-ne-zaman-aciklanir.html
+Kısa cevap: Maç yayını yayıncı kuruluş ve federasyon programı netleşince açıklanır.
+
+046. Turnuva kura çekimi ne zaman yapılır?
+Kategori: Spor
+Dosya: turnuva-kura-cekimi-ne-zaman-yapilir.html
+Kısa cevap: Turnuva kura çekimi organizasyon takviminde belirlenen tarihte yapılır.
+
+047. Antrenman yüklemesi ne zaman artırılır?
+Kategori: Spor
+Dosya: antrenman-yuklemesi-ne-zaman-artirilir.html
+Kısa cevap: Antrenman yüklemesi vücut alıştıktan ve toparlanma yeterliyse kademeli artırılır.
+
+048. Koşu temposu ne zaman artırılır?
+Kategori: Spor
+Dosya: kosu-temposu-ne-zaman-artirilir.html
+Kısa cevap: Koşu temposu temel dayanıklılık oluştuktan sonra kademeli artırılır.
+
+049. Spor sonrası duş ne zaman alınır?
+Kategori: Spor
+Dosya: spor-sonrasi-dus-ne-zaman-alinir.html
+Kısa cevap: Spor sonrası vücut biraz sakinleşince duş alınabilir.
+
+050. Maç öncesi ısınma ne zaman başlar?
+Kategori: Spor
+Dosya: mac-oncesi-isinma-ne-zaman-baslar.html
+Kısa cevap: Maç öncesi ısınma genellikle maçtan kısa süre önce, branşa uygun şekilde başlar.
+
+051. Okul yemek listesi ne zaman açıklanır?
+Kategori: Okul & Eğitim
+Dosya: okul-yemek-listesi-ne-zaman-aciklanir.html
+Kısa cevap: Okul yemek listesi genellikle okul veya yemekhane takvimine göre aylık ya da haftalık açıklanır.
+
+052. Ders kitabı dağıtımı ne zaman yapılır?
+Kategori: Okul & Eğitim
+Dosya: ders-kitabi-dagitimi-ne-zaman-yapilir.html
+Kısa cevap: Ders kitabı dağıtımı eğitim yılı başında okul takvimine göre yapılır.
+
+053. Okul kulübü seçimi ne zaman yapılır?
+Kategori: Okul & Eğitim
+Dosya: okul-kulubu-secimi-ne-zaman-yapilir.html
+Kısa cevap: Okul kulübü seçimi genellikle eğitim yılının başında yapılır.
+
+054. Veli izin kağıdı ne zaman verilir?
+Kategori: Okul & Eğitim
+Dosya: veli-izin-kagidi-ne-zaman-verilir.html
+Kısa cevap: Veli izin kağıdı gezi, etkinlik veya özel programdan önce verilir.
+
+055. Proje ödevi konusu ne zaman seçilir?
+Kategori: Okul & Eğitim
+Dosya: proje-odevi-konusu-ne-zaman-secilir.html
+Kısa cevap: Proje ödevi konusu öğretmenin duyurduğu dönem içinde seçilir.
+
+056. Performans ödevi ne zaman teslim edilir?
+Kategori: Okul & Eğitim
+Dosya: performans-odevi-ne-zaman-teslim-edilir.html
+Kısa cevap: Performans ödevi öğretmenin belirlediği tarihte teslim edilir.
+
+057. Sınav haftası programı ne zaman açıklanır?
+Kategori: Okul & Eğitim
+Dosya: sinav-haftasi-programi-ne-zaman-aciklanir.html
+Kısa cevap: Sınav haftası programı okul yönetimi veya öğretmenler tarafından dönem içinde açıklanır.
+
+058. Üniversite ders kaydı ne zaman yapılır?
+Kategori: Okul & Eğitim
+Dosya: universite-ders-kaydi-ne-zaman-yapilir.html
+Kısa cevap: Üniversite ders kaydı akademik takvimde belirtilen tarihlerde yapılır.
+
+059. Üniversite sınav itirazı ne zaman yapılır?
+Kategori: Okul & Eğitim
+Dosya: universite-sinav-itirazi-ne-zaman-yapilir.html
+Kısa cevap: Üniversite sınav itirazı kurumun belirlediği süre içinde yapılır.
+
+060. Burs evrakları ne zaman teslim edilir?
+Kategori: Okul & Eğitim
+Dosya: burs-evraklari-ne-zaman-teslim-edilir.html
+Kısa cevap: Burs evrakları başvuruda belirtilen son tarihten önce teslim edilir.
+
+061. Ders programı değişikliği ne zaman yapılır?
+Kategori: Okul & Eğitim
+Dosya: ders-programi-degisikligi-ne-zaman-yapilir.html
+Kısa cevap: Ders programı değişikliği okul veya üniversite yönetiminin belirlediği tarihlerde yapılır.
+
+062. Oyun beta testi ne zaman açılır?
+Kategori: Oyun
+Dosya: oyun-beta-testi-ne-zaman-acilir.html
+Kısa cevap: Oyun beta testi geliştirici veya yayıncı duyurusuna göre açılır.
+
+063. Oyun çapraz platform desteği ne zaman gelir?
+Kategori: Oyun
+Dosya: oyun-capraz-platform-destegi-ne-zaman-gelir.html
+Kısa cevap: Çapraz platform desteği yayıncının teknik planına göre güncelleme ile gelebilir.
+
+064. Oyun erken erişim ne zaman başlar?
+Kategori: Oyun
+Dosya: oyun-erken-erisim-ne-zaman-baslar.html
+Kısa cevap: Erken erişim, oyunun tam çıkışından önce yayıncının belirlediği tarihte başlar.
+
+065. Oyun sezon ödülleri ne zaman dağıtılır?
+Kategori: Oyun
+Dosya: oyun-sezon-odulleri-ne-zaman-dagitilir.html
+Kısa cevap: Sezon ödülleri genellikle sezon bitiminden sonra veya yeni sezon başlangıcında dağıtılır.
+
+066. Oyun içi etkinlik ne zaman başlar?
+Kategori: Oyun
+Dosya: oyun-ici-etkinlik-ne-zaman-baslar.html
+Kısa cevap: Oyun içi etkinlikler geliştiricinin belirlediği takvime göre başlar.
+
+067. Oyun indirme ön yüklemesi ne zaman açılır?
+Kategori: Oyun
+Dosya: oyun-indirme-on-yuklemesi-ne-zaman-acilir.html
+Kısa cevap: Ön yükleme, bazı oyunlarda çıkıştan kısa süre önce açılır.
+
+068. Oyun hesap güvenliği ne zaman kontrol edilir?
+Kategori: Oyun
+Dosya: oyun-hesap-guvenligi-ne-zaman-kontrol-edilir.html
+Kısa cevap: Oyun hesap güvenliği düzenli olarak ve şüpheli giriş uyarısı geldiğinde kontrol edilir.
+
+069. Oyun modları ne zaman güncellenir?
+Kategori: Oyun
+Dosya: oyun-modlari-ne-zaman-guncellenir.html
+Kısa cevap: Oyun modları geliştirici takvimine veya topluluk güncellemelerine göre yenilenir.
+
+070. E-spor biletleri ne zaman satışa çıkar?
+Kategori: Oyun
+Dosya: e-spor-biletleri-ne-zaman-satisa-cikar.html
+Kısa cevap: E-spor biletleri organizasyon takvimi netleşince satışa çıkar.
+
+071. Deprem sonrası su tesisatı ne zaman kontrol edilir?
+Kategori: Deprem & Afet
+Dosya: deprem-sonrasi-su-tesisati-ne-zaman-kontrol-edilir.html
+Kısa cevap: Deprem sonrası su tesisatı hasar, sızıntı veya bina güvenliği şüphesi varsa kontrol edilir.
+
+072. Deprem sonrası elektrik sigortası ne zaman açılır?
+Kategori: Deprem & Afet
+Dosya: deprem-sonrasi-elektrik-sigortasi-ne-zaman-acilir.html
+Kısa cevap: Deprem sonrası elektrik sigortası ancak hasar ve kaçak riski yoksa açılmalıdır.
+
+073. Deprem sonrası merdivenler ne zaman kullanılır?
+Kategori: Deprem & Afet
+Dosya: deprem-sonrasi-merdivenler-ne-zaman-kullanilir.html
+Kısa cevap: Deprem sonrası merdivenler yapı güvenliği uygunsa ve panik yaratmadan kullanılır.
+
+074. Deprem sonrası çocuklara ne zaman bilgi verilir?
+Kategori: Deprem & Afet
+Dosya: deprem-sonrasi-cocuklara-ne-zaman-bilgi-verilir.html
+Kısa cevap: Çocuklara deprem sonrası mümkün olduğunca sakin, kısa ve yaşına uygun bilgi verilir.
+
+075. Deprem sonrası evcil hayvan ne zaman dışarı çıkarılır?
+Kategori: Deprem & Afet
+Dosya: deprem-sonrasi-evcil-hayvan-ne-zaman-disari-cikarilir.html
+Kısa cevap: Evcil hayvan, ortam güvenliyse ve panik riski azaldıysa kontrollü şekilde dışarı çıkarılır.
+
+076. Afet sonrası telefon hattı ne zaman kullanılmalı?
+Kategori: Deprem & Afet
+Dosya: afet-sonrasi-telefon-hatti-ne-zaman-kullanilmali.html
+Kısa cevap: Afet sonrası telefon hattı acil ve gerekli iletişim için kısa kullanılmalıdır.
+
+077. Sel uyarısı sonrası araç ne zaman çekilir?
+Kategori: Deprem & Afet
+Dosya: sel-uyarisi-sonrasi-arac-ne-zaman-cekilir.html
+Kısa cevap: Sel uyarısı varsa araç mümkünse su basma riski olmayan güvenli alana önceden çekilir.
+
+078. Fırtına uyarısında balkon eşyaları ne zaman toplanır?
+Kategori: Deprem & Afet
+Dosya: firtina-uyarisinda-balkon-esyalari-ne-zaman-toplanir.html
+Kısa cevap: Fırtına uyarısı alınır alınmaz balkon ve cam önü eşyaları toplanır.
+
+079. Acil durum ışığı ne zaman kontrol edilir?
+Kategori: Deprem & Afet
+Dosya: acil-durum-isigi-ne-zaman-kontrol-edilir.html
+Kısa cevap: Acil durum ışığı elektrik kesintisi olmadan önce düzenli aralıklarla kontrol edilir.
+
+080. Kandil mesajı ne zaman gönderilir?
+Kategori: Özel Günler
+Dosya: kandil-mesaji-ne-zaman-gonderilir.html
+Kısa cevap: Kandil mesajı genellikle kandil günü veya akşamında gönderilir.
+
+081. Bayram namazı saati ne zaman açıklanır?
+Kategori: Özel Günler
+Dosya: bayram-namazi-saati-ne-zaman-aciklanir.html
+Kısa cevap: Bayram namazı saatleri Diyanet ve yerel kaynaklar tarafından bayram öncesi açıklanır.
+
+082. Resmi tatil takvimi ne zaman açıklanır?
+Kategori: Özel Günler
+Dosya: resmi-tatil-takvimi-ne-zaman-aciklanir.html
+Kısa cevap: Resmi tatil takvimi yıl başında ve ilgili kurum duyurularıyla netleşir.
+
+083. Belediye etkinlikleri ne zaman duyurulur?
+Kategori: Sosyal Hayat
+Dosya: belediye-etkinlikleri-ne-zaman-duyurulur.html
+Kısa cevap: Belediye etkinlikleri genellikle etkinlikten günler veya haftalar önce duyurulur.
+
+084. Kütüphane üyeliği ne zaman yapılır?
+Kategori: Sosyal Hayat
+Dosya: kutuphane-uyeligi-ne-zaman-yapilir.html
+Kısa cevap: Kütüphane üyeliği ihtiyaç duyulduğunda veya eğitim dönemi başında yapılabilir.
+
+085. Müze bileti ne zaman alınır?
+Kategori: Sosyal Hayat
+Dosya: muze-bileti-ne-zaman-alinir.html
+Kısa cevap: Müze bileti yoğun dönemlerde gitmeden önce alınır.
+
+086. Kan bağışı ne zaman yapılır?
+Kategori: Sağlık & Çocuk
+Dosya: kan-bagisi-ne-zaman-yapilir.html
+Kısa cevap: Kan bağışı, uygun sağlık koşulları sağlandığında ve yetkili merkezin değerlendirmesiyle yapılır.
+
+087. Çocuklarda ekran molası ne zaman verilir?
+Kategori: Sağlık & Çocuk
+Dosya: cocuklarda-ekran-molasi-ne-zaman-verilir.html
+Kısa cevap: Çocuklarda ekran molası yaşa ve kullanım süresine göre düzenli aralıklarla verilmelidir.
+
+088. Ayaz ne zaman olur?
+Kategori: Doğa & Uzay
+Dosya: ayaz-ne-zaman-olur.html
+Kısa cevap: Ayaz genellikle açık, rüzgârsız ve çok soğuk gecelerde hissedilir.
+
+089. Lodos ne zaman etkili olur?
+Kategori: Doğa & Uzay
+Dosya: lodos-ne-zaman-etkili-olur.html
+Kısa cevap: Lodos, güneybatı yönlü rüzgâr güçlendiğinde etkili olur.
+
+090. Poyraz ne zaman serinletir?
+Kategori: Doğa & Uzay
+Dosya: poyraz-ne-zaman-serinletir.html
+Kısa cevap: Poyraz, kuzeydoğu yönünden estiğinde özellikle yaz aylarında serinlik hissi verebilir.
+
+091. Güneş tutulması gözlüğü ne zaman takılır?
+Kategori: Doğa & Uzay
+Dosya: gunes-tutulmasi-gozlugu-ne-zaman-takilir.html
+Kısa cevap: Güneş tutulması gözlüğü Güneş’e bakmadan önce ve gözlem boyunca takılır.
+
+092. Teleskopla Ay ne zaman izlenir?
+Kategori: Doğa & Uzay
+Dosya: teleskopla-ay-ne-zaman-izlenir.html
+Kısa cevap: Ay, özellikle ilk dördün ve son dördün dönemlerinde krater gölgeleri daha belirgin olduğu için güzel izlenir.
+
+093. Patates kızartması yağa ne zaman atılır?
+Kategori: Yemek & Mutfak
+Dosya: patates-kizartmasi-yaga-ne-zaman-atilir.html
+Kısa cevap: Patates kızartması, yağ yeterince ısındığında tavaya veya fritöze atılır.
+
+094. Tavuk ciğeri ne zaman pişer?
+Kategori: Yemek & Mutfak
+Dosya: tavuk-cigeri-ne-zaman-piser.html
+Kısa cevap: Tavuk ciğeri rengi dönüp içi piştiğinde hazır olur.
+
+095. Lahmacun hamuru ne zaman açılır?
+Kategori: Yemek & Mutfak
+Dosya: lahmacun-hamuru-ne-zaman-acilir.html
+Kısa cevap: Lahmacun hamuru yoğrulup dinlendikten sonra açılır.
+
+096. Araç muayene gecikme ücreti ne zaman oluşur?
+Kategori: Günlük Hayat
+Dosya: arac-muayene-gecikme-ucreti-ne-zaman-olusur.html
+Kısa cevap: Araç muayene gecikme ücreti muayene geçerlilik tarihi geçtikten sonra oluşur.
+
+097. Apartman yönetimi ne zaman seçilir?
+Kategori: Günlük Hayat
+Dosya: apartman-yonetimi-ne-zaman-secilir.html
+Kısa cevap: Apartman yönetimi kat malikleri toplantısında belirlenen dönemlerde seçilir.
+
+098. Kredi notu ne zaman güncellenir?
+Kategori: Günlük Hayat
+Dosya: kredi-notu-ne-zaman-guncellenir.html
+Kısa cevap: Kredi notu ödeme davranışları ve banka bildirimleri sonrasında dönemsel olarak güncellenir.
+
+099. Toplu taşıma kartı ne zaman yenilenir?
+Kategori: Sosyal Hayat
+Dosya: toplu-tasima-karti-ne-zaman-yenilenir.html
+Kısa cevap: Toplu taşıma kartı süresi dolduğunda, kaybolduğunda veya kart türü değiştiğinde yenilenir.
+
+100. Konser kapıları ne zaman açılır?
+Kategori: Sosyal Hayat
+Dosya: konser-kapilari-ne-zaman-acilir.html
+Kısa cevap: Konser kapıları organizatörün duyurduğu saatlerde açılır.
+
