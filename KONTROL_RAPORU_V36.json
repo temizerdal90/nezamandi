@@ -1,0 +1,9 @@
+{
+  "version": "v36",
+  "fix": "app.js cache busting on all HTML files",
+  "html_files_with_appjs_v36": 470,
+  "kofte_exists_in_app_js": true,
+  "kofte_page_exists": true,
+  "analytics": "G-FN8GLBN8VR",
+  "adsense": "ca-pub-9289852053561118"
+}

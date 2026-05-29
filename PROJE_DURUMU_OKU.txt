@@ -1,25 +1,22 @@
-NEZAMANDI V35 PROJE DURUMU
+Nezamandi.com Proje Durumu - V37
 
-Son işlem:
-- Mobil ana sayfa kompakt hale getirildi.
-- "Ne zaman merak ediyorsun?" başlığı küçültülüp arama alanıyla daha dengeli konumlandırıldı.
-- Arama kartı mobilde daha kısa yapıldı; Tarihte Bugün alanı ekranda daha erken görünecek şekilde düzenlendi.
-- Ana sayfadaki Tarihte Bugün ay bağlantıları kaldırıldı; yalnızca bugünün tarihi gösterilecek.
-- Tarihte Bugün olay/doğum/vefat kategori ayrımı kaldırıldı; tek liste mantığına çevrildi.
-- 19 yeni içerik sayfası eklendi.
-- app.js, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
+Son sürüm: V37
+Temel yapı: V31 temiz mobil arama yapısından devam.
+Bu sürümde yapılanlar:
+- Mobil yatay kayma/taşma düzeltildi.
+- Arama kartı, hero başlığı ve Tarihte Bugün alanı mobilde ekran dışına taşmayacak şekilde sıkılaştırıldı.
+- 50 yeni içerik sayfası eklendi.
+- app.js arama verisi güncellendi.
+- Kategori sayfaları yeniden sayıldı/güncellendi.
+- tum-kayitlar.html güncellendi.
+- sitemap.xml güncellendi.
+- EKLENEN_50_ICERIK_V37.txt eklendi.
 
-Korunan kodlar:
+Dokunulmayan/korunanlar:
 - Analytics: G-FN8GLBN8VR
 - AdSense: ca-pub-9289852053561118
+- Search Console doğrulama meta etiketi korundu.
 
-Eklenen içerik listesi:
-- EKLENEN_ICERIK_LISTESI_V35.txt dosyasına yazıldı.
-
-Not:
-- Sohbet kaybına karşı bu dosya ve SOHBET_OZETI_OKU.txt her zip içinde tutulacak.
-
-V35 ek veri devamı: 38 yeni kayıt daha eklendi. Toplam V35 yeni içerik: 57.
-Eklenen liste EKLENEN_ICERIK_LISTESI_V35.txt içinde.
-
-V35 son kontrol: Tarihte Bugün tek listeye çevrildi, ana sayfada ay baloncukları kaldırıldı, mobil arama alanı kompaktlaştırıldı.
+Kontrol önerisi:
+- Mobilde sayfa sağa sola kayıyor mu kontrol et.
+- Ana sayfada “Köfte”, “Airfryer”, “Düğün davetiyesi”, “Triger” aramaları denenebilir.

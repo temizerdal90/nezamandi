@@ -542,3 +542,26 @@
   .month-bubbles{display:none!important;}
   .today-event-list-home .today-event:nth-of-type(n+3){display:none!important;}
 }
+
+
+/* V37: mobil yatay taşma düzeltmesi + arama/Tarihte Bugün dengesi */
+html, body { width:100%; max-width:100%; overflow-x:hidden; }
+img, iframe, video { max-width:100%; }
+.home-main, .site-header, .site-footer, .section-block, .today-widget, .page-hero, .content-card { max-width:100%; }
+@media(max-width:700px){
+  .site-header{padding:14px 18px!important;width:100%!important;max-width:100%!important;}
+  .home-main{width:100%!important;max-width:100%!important;overflow-x:hidden!important;}
+  .home-main .hero-centered{width:auto!important;max-width:calc(100% - 24px)!important;margin:8px 12px 4px!important;padding:6px 0 2px!important;}
+  .home-main .hero-centered h1{font-size:22px!important;line-height:1.12!important;margin:0 2px 4px!important;white-space:normal!important;}
+  .home-main .hero-centered .hero-desc{font-size:13px!important;line-height:1.35!important;margin:0 2px 6px!important;white-space:normal!important;}
+  .home-main .hero-centered .search-card{width:100%!important;max-width:100%!important;margin:2px 0 0!important;padding:11px 12px 10px!important;overflow:hidden!important;}
+  .home-main .search-card label{font-size:16px!important;margin-bottom:7px!important;}
+  .home-main .search-row input{width:100%!important;max-width:100%!important;min-height:48px!important;font-size:17px!important;padding:10px 12px!important;}
+  .search-submit{width:100%!important;max-width:100%!important;min-height:46px!important;font-size:16.5px!important;}
+  .home-main .quick-examples{max-width:100%!important;overflow-x:auto!important;display:flex!important;flex-wrap:nowrap!important;}
+  .home-main .quick-examples button{max-width:210px!important;overflow:hidden!important;text-overflow:ellipsis!important;}
+  .search-card .search-results{width:100%!important;max-width:100%!important;}
+  .today-widget{width:auto!important;max-width:calc(100% - 24px)!important;margin:8px 12px 16px!important;padding:13px 12px!important;overflow:hidden!important;}
+  .today-event{max-width:100%!important;overflow-wrap:anywhere!important;}
+  .list-grid,.category-grid{max-width:100%!important;overflow:hidden!important;}
+}

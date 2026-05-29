@@ -1,76 +1,9 @@
-SOHBET OZETI - Nezamandi / Hangiyil / Aiparakazanma
+Nezamandi V37 sohbet özeti
 
-Kullanıcı önemli sohbetlerin kaybolduğunu söyledi. Bundan sonra her hazırlanan zip içine bu dosya gibi bir sohbet/proje özeti eklenecek. Amaç: Sohbet kaybolsa bile son zip açıldığında kaldığımız yer anlaşılacak.
-
-Nezamandi.com güncel kararları:
-- V31/V32 temiz yapıdan devam ediliyor. Eski 1352 içerik silindi; eski kalabalık yapıya dönülmeyecek.
-- Ana sayfa sade olacak: tek büyük arama kutusu, kategori kartları, popüler kayıtlar, Tarihte Bugün.
-- İki ayrı arama motoru olmayacak. Kategoriler ayrı olacak ama arama tek olacak.
-- Mobilde arama kutusu büyük, kolay tıklanır ve uygulama gibi görünmeli.
-- İleride PWA / mobil app fikri sırada: önce mobil web app gibi kullanılacak, trafik oluşursa Android + AdMob düşünülecek.
-- Kategoriler: Doğa & Uzay, Yemek & Mutfak, Günlük Hayat/Resmi İşler, Okul & Eğitim, Özel Günler, Sağlık & Çocuk, Sosyal Hayat, Vefat Tarihleri, Tarih & Kişiler.
-- Sağlık ve çocuk gelişimi içeriklerinde teşhis/tedavi yok; genel bilgi + doktora/uzmana yönlendirme var.
-- Doğa/uzayda NASA, timeanddate gibi güvenilir kaynaklarla güncel tarih kontrolü yapılacak.
-
-Aiparakazanma.com güncel kararları:
-- Yeni Analytics mülk kodu G-73HY4F7C1R olarak kuruldu ve veri geldi.
-- AdSense kodu değişmedi: ca-pub-9289852053561118.
-- ads.txt değişmedi.
-
-Hangiyil.com güncel kararları:
-- Kurulum büyük ölçüde tamam; içerik büyütme ve Google takibi aşamasında.
-- İlkler, doğa/gökyüzü, tarih, yıl odaklı içerikler sırada.
-
-Codex notu:
-- İleride GitHub/Vercel projelerinde önce “kontrol et, raporla” mantığıyla kullanılabilir.
-- Analytics/AdSense kod kontrolü, sitemap, tum-kayitlar.html, bozuk link ve çoklu HTML düzenleme işleri için faydalı olabilir.
-
-Bu zipteki V33 işlemi:
-- Mobil arama büyütüldü.
-- 50 yeni veri/sayfa eklendi.
-- app.js, kategori sayfaları, sitemap.xml ve tum-kayitlar.html güncellendi.
-
-
-V33 eklenen 50 içerik listesi artık zip içinde EKLENEN_50_ICERIK_V33.txt dosyasında yazıyor. Bundan sonra her veri eklenen pakette eklenen başlıkların listesi de özet dosyasına ve ayrı liste dosyasına konacak.
-
-
-V34 NOTU:
-Kullanıcı, mobilde arama kutusunu sadece büyütmek istemediğini; arama sonuçları görünmediği için arama alanının “Ne zaman merak ediyorsun?” başlığıyla yer değiştirmesini istedi. V34te arama formu mobilde üstte olacak şekilde düzenlendi, sonuçlar inputun hemen altına taşındı. Ayrıca 50 yeni veri eklendi ve liste EKLENEN_50_ICERIK_V34.txt içine yazıldı.
-
-
---- V35 NOTU ---
-NEZAMANDI V35 PROJE DURUMU
-
-Son işlem:
-- Mobil ana sayfa kompakt hale getirildi.
-- "Ne zaman merak ediyorsun?" başlığı küçültülüp arama alanıyla daha dengeli konumlandırıldı.
-- Arama kartı mobilde daha kısa yapıldı; Tarihte Bugün alanı ekranda daha erken görünecek şekilde düzenlendi.
-- Ana sayfadaki Tarihte Bugün ay bağlantıları kaldırıldı; yalnızca bugünün tarihi gösterilecek.
-- Tarihte Bugün olay/doğum/vefat kategori ayrımı kaldırıldı; tek liste mantığına çevrildi.
-- 19 yeni içerik sayfası eklendi.
-- app.js, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
-
-Korunan kodlar:
-- Analytics: G-FN8GLBN8VR
-- AdSense: ca-pub-9289852053561118
-
-Eklenen içerik listesi:
-- EKLENEN_ICERIK_LISTESI_V35.txt dosyasına yazıldı.
-
-Not:
-- Sohbet kaybına karşı bu dosya ve SOHBET_OZETI_OKU.txt her zip içinde tutulacak.
-
-Örnek yeni içerikler:
-01. Cam suyu ne zaman doldurulur? | Günlük Hayat | cam-suyu-ne-zaman-doldurulur.html
-02. Silecek lastiği ne zaman değiştirilir? | Günlük Hayat | silecek-lastigi-ne-zaman-degistirilir.html
-03. Petek havası ne zaman alınır? | Günlük Hayat | petek-havasi-ne-zaman-alinir.html
-04. Ders programı ne zaman hazırlanır? | Okul & Eğitim | ders-programi-ne-zaman-hazirlanir.html
-05. Ödev ne zaman yapılmalı? | Okul & Eğitim | odev-ne-zaman-yapilmali.html
-06. Kitap okuma ne zaman yapılmalı? | Okul & Eğitim | kitap-okuma-ne-zaman-yapilmali.html
-07. Sınav tekrarı ne zaman yapılır? | Okul & Eğitim | sinav-tekrari-ne-zaman-yapilir.html
-08. Tercih danışmanlığı ne zaman alınır? | Okul & Eğitim | tercih-danismanligi-ne-zaman-alinir.html
-
-V35 ek veri devamı: 38 yeni kayıt daha eklendi. Toplam V35 yeni içerik: 57.
-Eklenen liste EKLENEN_ICERIK_LISTESI_V35.txt içinde.
-
-V35 son kontrol: Tarihte Bugün tek listeye çevrildi, ana sayfada ay baloncukları kaldırıldı, mobil arama alanı kompaktlaştırıldı.
+Kullanıcı mobilde yatay taşma olduğunu ekran görüntüsüyle gösterdi: sayfa sağa/sola kayıyor, sol taraf boş kalıyor ve arama/Tarihte Bugün dengesi bozuluyor.
+Yapılan düzeltme: mobil yatay taşma için CSS düzeltildi, body/html overflow-x hidden eklendi, hero/search/today alanları mobilde viewport dışına taşmayacak hale getirildi.
+Kullanıcı her zip içinde konuşma özeti, proje durumu ve eklenen içerik listesinin olmasını istedi. Bu kurala devam edildi.
+Bu sürümde 50 yeni içerik eklendi. Liste: EKLENEN_50_ICERIK_V37.txt
+Analytics korunacak: G-FN8GLBN8VR
+AdSense korunacak: ca-pub-9289852053561118
+app.js cache kırıcı: app.js?v=37
