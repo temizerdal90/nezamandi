@@ -1,0 +1,14 @@
+{
+  "version": "V25 arama butonu yönlendirme fix",
+  "html_total": 157,
+  "sitemap_urls": 157,
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "search_submit_behavior": "Ara butonu en iyi eşleşen sonuca yönlendirir; yazarken sonuç baloncukları görünür.",
+  "test_query_expected": {
+    "Kombi bakımı ne zaman yapılır?": "kombi-bakimi-ne-zaman-yapilir.html"
+  },
+  "analytics_pages": 157,
+  "adsense_pages": 157,
+  "search_console_pages": 157
+}

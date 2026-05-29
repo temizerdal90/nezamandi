@@ -1,0 +1,111 @@
+{
+  "version": "V21 şablon paragraf temizliği",
+  "content_pages": 77,
+  "html_total": 94,
+  "sitemap_urls": 94,
+  "app_records": 89,
+  "removed_generic_paragraphs": 64,
+  "patched_specific_pages": 19,
+  "category_counts": {
+    "Vefat Tarihleri": 32,
+    "Doğa & Uzay": 7,
+    "Özel Günler": 6,
+    "Okul & Eğitim": 5,
+    "Günlük Hayat": 6,
+    "Yemek & Mutfak": 5,
+    "Spor": 5,
+    "Sağlık & Çocuk": 5,
+    "Tarih & Kişiler": 4,
+    "Sosyal Hayat": 2
+  },
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "short_under_20_count": 0,
+  "detail_under_70_count": 0,
+  "detail_under_70_sample": [],
+  "analytics_pages": 94,
+  "adsense_pages": 94,
+  "search_console_pages": 94,
+  "removed_generic_paragraph_samples": [
+    {
+      "file": "mustafa-kemal-ataturk-ne-zaman-vefat-etti.html",
+      "text": "Mustafa Kemal Atatürk hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, n"
+    },
+    {
+      "file": "mustafa-kemal-ataturk-ne-zaman-vefat-etti.html",
+      "text": "Mustafa Kemal Atatürk adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama ç"
+    },
+    {
+      "file": "baris-manco-ne-zaman-vefat-etti.html",
+      "text": "Barış Manço hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve ha"
+    },
+    {
+      "file": "baris-manco-ne-zaman-vefat-etti.html",
+      "text": "Barış Manço adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesini"
+    },
+    {
+      "file": "kemal-sunal-ne-zaman-vefat-etti.html",
+      "text": "Kemal Sunal hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve ha"
+    },
+    {
+      "file": "kemal-sunal-ne-zaman-vefat-etti.html",
+      "text": "Kemal Sunal adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesini"
+    },
+    {
+      "file": "zeki-muren-ne-zaman-vefat-etti.html",
+      "text": "Zeki Müren hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve hat"
+    },
+    {
+      "file": "zeki-muren-ne-zaman-vefat-etti.html",
+      "text": "Zeki Müren adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesinin"
+    },
+    {
+      "file": "cem-karaca-ne-zaman-vefat-etti.html",
+      "text": "Cem Karaca hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve hat"
+    },
+    {
+      "file": "cem-karaca-ne-zaman-vefat-etti.html",
+      "text": "Cem Karaca adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesinin"
+    },
+    {
+      "file": "neset-ertas-ne-zaman-vefat-etti.html",
+      "text": "Neşet Ertaş hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve ha"
+    },
+    {
+      "file": "neset-ertas-ne-zaman-vefat-etti.html",
+      "text": "Neşet Ertaş adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesini"
+    },
+    {
+      "file": "asik-veysel-ne-zaman-vefat-etti.html",
+      "text": "Aşık Veysel hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve ha"
+    },
+    {
+      "file": "asik-veysel-ne-zaman-vefat-etti.html",
+      "text": "Aşık Veysel adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesini"
+    },
+    {
+      "file": "ugur-mumcu-ne-zaman-vefat-etti.html",
+      "text": "Uğur Mumcu hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve hat"
+    },
+    {
+      "file": "ugur-mumcu-ne-zaman-vefat-etti.html",
+      "text": "Uğur Mumcu adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesinin"
+    },
+    {
+      "file": "muslum-gurses-ne-zaman-vefat-etti.html",
+      "text": "Müslüm Gürses hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve "
+    },
+    {
+      "file": "muslum-gurses-ne-zaman-vefat-etti.html",
+      "text": "Müslüm Gürses adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesi"
+    },
+    {
+      "file": "tarik-akan-ne-zaman-vefat-etti.html",
+      "text": "Tarık Akan hakkında aranan vefat bilgisi, yalnız tarih öğrenmek için değil, onun hayatının hangi izlerle hatırlandığını görmek için de önemlidir. Bu yüzden tarih, yer, neden ve hat"
+    },
+    {
+      "file": "tarik-akan-ne-zaman-vefat-etti.html",
+      "text": "Tarık Akan adı, kendi alanındaki üretimi, mücadelesi, başarıları ya da toplum hafızasında bıraktığı etki nedeniyle yaşamaya devam eder. Vefat tarihi bu geniş hatırlama çerçevesinin"
+    }
+  ]
+}

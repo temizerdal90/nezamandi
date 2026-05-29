@@ -1,0 +1,29 @@
+{
+  "version": "V20 konuya özel temiz içerik - final 2",
+  "content_pages": 77,
+  "html_total": 94,
+  "sitemap_urls": 94,
+  "app_records": 89,
+  "patched_detail_pages": 77,
+  "category_counts": {
+    "Vefat Tarihleri": 32,
+    "Doğa & Uzay": 7,
+    "Özel Günler": 6,
+    "Okul & Eğitim": 5,
+    "Günlük Hayat": 6,
+    "Yemek & Mutfak": 5,
+    "Spor": 5,
+    "Sağlık & Çocuk": 5,
+    "Tarih & Kişiler": 4,
+    "Sosyal Hayat": 2
+  },
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "dead_links_sample": [],
+  "short_under_20_count": 0,
+  "detail_under_100_count": 0,
+  "detail_under_100_sample": [],
+  "analytics_pages": 94,
+  "adsense_pages": 94,
+  "search_console_pages": 94
+}

@@ -1,0 +1,25 @@
+{
+  "version": "V23 Tarihte Bugün tek dinamik gün sayfası + arama fix",
+  "html_total": 107,
+  "sitemap_urls": 107,
+  "removed_old_366_day_files": 366,
+  "remaining_separate_day_pages": 0,
+  "dynamic_day_page_exists": true,
+  "tarihte_bugun_month_pages": 12,
+  "search_records": 468,
+  "brand_temiz_cevaplar_removed": true,
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "dead_links_sample": [],
+  "analytics_pages": 107,
+  "adsense_pages": 107,
+  "search_console_pages": 107,
+  "notes": [
+    "366 ayrı gün HTML dosyası kaldırıldı.",
+    "Tarihte Bugün için tek dinamik gün sayfası eklendi: tarihte-bugun-gun.html?m=06&d=04",
+    "12 ay sayfası kaldı; ayların içindeki günler tek dinamik sayfaya bağlandı.",
+    "Arama JS tamamen temiz yeniden yazıldı.",
+    "Arama baloncuklarına HTML içinde görünür yedek metin eklendi."
+  ],
+  "validation_note": "Query string içeren Tarihte Bugün linkleri dosya adı gibi sayılmadan kontrol edildi."
+}

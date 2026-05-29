@@ -1,0 +1,22 @@
+{
+  "version": "V22 Tarihte Bugün 366 gün + baloncuk tasarım",
+  "html_total": 472,
+  "sitemap_urls": 472,
+  "tarihte_bugun_day_pages": 366,
+  "tarihte_bugun_month_pages": 12,
+  "tarihte_bugun_total_expected_day_pages": 366,
+  "brand_temiz_cevaplar_removed": true,
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "dead_links_sample": [],
+  "analytics_pages": 472,
+  "adsense_pages": 472,
+  "search_console_pages": 472,
+  "notes": [
+    "Tarihte Bugün ay ay kategori gibi eklendi.",
+    "366 günlük HTML sayfası oluşturuldu.",
+    "Gün sayfaları olay listesini Wikipedia OnThisDay API üzerinden yükler.",
+    "Ana sayfa Tarihte Bugün bölümü baloncuklu hale getirildi.",
+    "Logo altındaki Temiz cevaplar yazısı kaldırıldı."
+  ]
+}

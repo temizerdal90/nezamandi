@@ -1,0 +1,19 @@
+{
+  "version": "V27 Tarihte Bugün yazı temizliği",
+  "html_total": 183,
+  "sitemap_urls": 183,
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "dead_links_sample": [],
+  "fixed_files": [
+    "tarihte-bugun.js"
+  ],
+  "notes": [
+    "Ekrandaki Ay ay arşiv yazısı HTML'den değil, tarihte-bugun.js içinden dinamik basılıyordu.",
+    "JS içindeki ifade Tarihte Bugün olarak değiştirildi.",
+    "HTML ve JS genel taraması yapıldı; Ay ay arşiv kalan ifade yok."
+  ],
+  "analytics_pages": 183,
+  "adsense_pages": 183,
+  "search_console_pages": 183
+}
