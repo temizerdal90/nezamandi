@@ -1,0 +1,17 @@
+{
+  "version": "V31 mobil aramayı öne alma",
+  "html_total": 215,
+  "sitemap_urls": 215,
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "fixes": [
+    "Mobilde arama kartı hero yazısının üstüne alındı.",
+    "Mobilde arama inputu ve Ara butonu büyütüldü.",
+    "Mobilde sonuç kartları daha büyük ve okunur hale getirildi.",
+    "Üst hero yazısı mobilde küçültüldü ve geri plana alındı.",
+    "Masaüstü düzen korunur; değişiklikler mobil ağırlıklıdır."
+  ],
+  "analytics_pages": 215,
+  "adsense_pages": 215,
+  "search_console_pages": 215
+}

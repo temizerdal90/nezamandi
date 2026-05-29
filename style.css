@@ -173,3 +173,211 @@
     line-height:1.75;
   }
 }
+
+/* V30: mobil arama sonucu ve Tarihte Bugün ay baloncukları */
+.month-bubbles{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  max-width:980px;
+}
+.month-bubbles .today-bubble{
+  padding:8px 13px;
+}
+.result-item em{
+  display:inline-block;
+  font-style:normal;
+  font-size:12px;
+  font-weight:900;
+  letter-spacing:.02em;
+  color:var(--accent-dark);
+  background:#fff6e8;
+  border:1px solid var(--line);
+  padding:4px 8px;
+  border-radius:999px;
+  margin-bottom:8px;
+}
+.result-item.best-result{
+  border-width:2px;
+  box-shadow:0 14px 34px rgba(80,50,20,.10);
+}
+@media(max-width:700px){
+  .search-card{
+    position:relative;
+    overflow:visible;
+  }
+  .search-card.search-active{
+    z-index:20;
+  }
+  .search-results{
+    margin:10px 12px 0;
+    padding:0;
+  }
+  .result-item{
+    background:#fffdf8;
+    border:1px solid var(--line);
+    box-shadow:0 10px 24px rgba(80,50,20,.08);
+  }
+  .result-item.best-result{
+    background:#fff9ef;
+  }
+  .result-item strong{
+    font-size:17px;
+    line-height:1.35;
+  }
+  .result-item small{
+    margin-top:8px;
+  }
+  .quick-examples{
+    margin-top:10px;
+  }
+  .quick-examples button{
+    font-size:13px;
+    padding:8px 10px;
+  }
+  .month-bubbles{
+    flex-wrap:nowrap;
+    overflow-x:auto;
+    padding-bottom:8px;
+    max-width:100%;
+    -webkit-overflow-scrolling:touch;
+  }
+  .month-bubbles .today-bubble{
+    flex:0 0 auto;
+    font-size:13px;
+    padding:7px 10px;
+  }
+  .today-widget .today-head p{
+    font-size:15px;
+    line-height:1.55;
+  }
+}
+@media(min-width:701px){
+  .month-bubbles{
+    align-items:center;
+  }
+}
+
+/* V31: Mobilde aramayı öne alma ve büyütme */
+.mobile-search-label{
+  display:none;
+}
+@media(max-width:700px){
+  .home-main{
+    display:flex;
+    flex-direction:column;
+  }
+  .home-main .search-card{
+    order:1;
+  }
+  .home-main .hero-centered{
+    order:2;
+  }
+  .home-main > section:not(.search-card):not(.hero-centered){
+    order:3;
+  }
+
+  .mobile-search-label{
+    display:block;
+    font-size:13px;
+    font-weight:900;
+    color:var(--accent-dark);
+    background:#fff6e8;
+    border:1px solid var(--line);
+    border-radius:999px;
+    width:max-content;
+    padding:6px 10px;
+    margin-bottom:10px;
+  }
+
+  .hero-centered{
+    padding:18px 18px 10px;
+    margin:8px 12px 6px;
+    background:transparent;
+    border:0;
+    box-shadow:none;
+  }
+  .hero-centered h1{
+    font-size:30px;
+    line-height:1.15;
+    margin-bottom:8px;
+  }
+  .hero-centered .hero-desc{
+    font-size:17px;
+    line-height:1.55;
+    max-width:100%;
+    margin:0 auto;
+  }
+
+  .search-card{
+    margin:18px 12px 10px;
+    padding:20px 16px 18px;
+    border-radius:24px;
+  }
+  .search-card h2{
+    font-size:24px;
+    margin-bottom:12px;
+  }
+  .search-row{
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+  }
+  .search-row input{
+    width:100%;
+    min-height:58px;
+    font-size:20px;
+    border-radius:18px;
+    padding:16px 18px;
+  }
+  .search-row button{
+    width:100%;
+    min-height:58px;
+    border-radius:18px;
+    font-size:18px;
+    font-weight:900;
+  }
+
+  .search-results{
+    margin:12px 0 0;
+  }
+  .result-item{
+    padding:16px 16px;
+    border-radius:20px;
+  }
+  .result-item strong{
+    font-size:18px;
+    line-height:1.35;
+  }
+  .result-item small{
+    font-size:14px;
+  }
+  .result-item em{
+    font-size:12px;
+    margin-bottom:9px;
+  }
+
+  .quick-examples{
+    margin-top:12px;
+    gap:8px;
+  }
+  .quick-examples button{
+    font-size:14px;
+    padding:9px 12px;
+    border-radius:999px;
+  }
+}
+
+/* Çok küçük ekranlarda üst açıklamayı daha da kısalt */
+@media(max-width:430px){
+  .hero-centered h1{
+    font-size:27px;
+  }
+  .hero-centered .hero-desc{
+    font-size:15.5px;
+    line-height:1.5;
+  }
+  .search-row input{
+    font-size:19px;
+  }
+}

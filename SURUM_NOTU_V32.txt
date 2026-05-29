@@ -1,0 +1,7 @@
+Nezamandi.com V32 Sürüm Notu
+
+- V31 mobil arama öne alma paketinden devam edildi.
+- 100 yeni, tekrar olmayan ne zaman içeriği eklendi.
+- Teknik kodlara dokunulmadı: Analytics G-FN8GLBN8VR, AdSense ca-pub-9289852053561118 korundu.
+- app.js, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
+- PROJE_DURUMU_OKU.txt eklendi.
