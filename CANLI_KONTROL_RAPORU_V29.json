@@ -1,0 +1,20 @@
+{
+  "version": "V29 Codex küçük bulgular + mobil/Tarihte Bugün denemesi",
+  "html_total": 215,
+  "sitemap_urls": 215,
+  "bad_terms_found": {},
+  "dead_links_count": 0,
+  "dead_links_sample": [],
+  "fixes": [
+    "Atatürk sayfasındaki 'saat 09.05’te tarihinde' dil hatası düzeltildi.",
+    "tarihte-bugun-gun.html içindeki 'Bu sayfa / bu sayfada' teknik metni daha doğal hale getirildi.",
+    "Tarihte Bugün mobilde baloncuklar yatay kaydırmalı ve daha küçük hale getirildi.",
+    "Tarihte Bugün olay kartları masaüstünde 2 sütun denemesiyle daha kompakt yapıldı.",
+    "Mobil ana sayfada ilk olay kartları gösterilip 'Devamını gör' bağlantısı eklendi.",
+    "Mobil arama sonuçları başlık + kategori etiketi daha net görünecek şekilde düzenlendi.",
+    "Arama butonu/Enter yönlendirme davranışı korundu."
+  ],
+  "analytics_pages": 215,
+  "adsense_pages": 215,
+  "search_console_pages": 215
+}
