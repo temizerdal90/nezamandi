@@ -1,22 +1,42 @@
-Nezamandi.com Proje Durumu - V37
+Nezamandi.com Proje Durumu - V38
 
-Son sürüm: V37
-Temel yapı: V31 temiz mobil arama yapısından devam.
+Son sürüm: V38
+Önceki sürüm: V37 mobil taşma düzeltme + 50 veri.
+
 Bu sürümde yapılanlar:
-- Mobil yatay kayma/taşma düzeltildi.
-- Arama kartı, hero başlığı ve Tarihte Bugün alanı mobilde ekran dışına taşmayacak şekilde sıkılaştırıldı.
-- 50 yeni içerik sayfası eklendi.
-- app.js arama verisi güncellendi.
-- Kategori sayfaları yeniden sayıldı/güncellendi.
+- 100 yeni içerik sayfası eklendi.
+- Doğa, yemek, günlük yaşam, sosyal hayat, spor, okul, oyun ve deprem/afet başlıkları genişletildi.
+- Yeni kategori sayfaları eklendi/güncellendi: oyun.html, deprem-ve-afet.html.
+- index.html kategori kartlarına Oyun ve Deprem & Afet eklendi.
+- app.js arama verisi güncellendi ve önbellek için app.js?v=38 yapıldı.
 - tum-kayitlar.html güncellendi.
 - sitemap.xml güncellendi.
-- EKLENEN_50_ICERIK_V37.txt eklendi.
+- EKLENEN_100_ICERIK_V38.txt eklendi.
+- SOHBET_OZETI_OKU.txt güncellendi.
 
-Dokunulmayan/korunanlar:
+Sayım:
+- V37 arama kaydı: 881
+- V38 arama kaydı: 968
+- V37 HTML dosyası: 520
+- V38 HTML dosyası: 609
+- V38'de eklenen yeni içerik: 87
+
+Kategori dağılımı (eklenenler):
+- Deprem & Afet: 10
+- Doğa & Uzay: 12
+- Günlük Hayat: 11
+- Okul & Eğitim: 5
+- Oyun: 10
+- Sosyal Hayat: 10
+- Spor: 10
+- Yemek & Mutfak: 19
+
+Korunanlar:
 - Analytics: G-FN8GLBN8VR
 - AdSense: ca-pub-9289852053561118
 - Search Console doğrulama meta etiketi korundu.
 
 Kontrol önerisi:
-- Mobilde sayfa sağa sola kayıyor mu kontrol et.
-- Ana sayfada “Köfte”, “Airfryer”, “Düğün davetiyesi”, “Triger” aramaları denenebilir.
+- Mobilde sağa/sola kayma tekrar kontrol edilsin.
+- Ana sayfada şu aramalar denensin: Deprem çantası, Pankek, Oyun indirimi, Samanyolu, Maç bileti.
+- Deprem içeriklerinde kesin tarih/tahmin iddiası yok; güvenli ve resmi kurum uyarısı dili kullanıldı.

@@ -1,9 +1,14 @@
-Nezamandi V37 sohbet özeti
+SOHBET ÖZETİ - V38
 
-Kullanıcı mobilde yatay taşma olduğunu ekran görüntüsüyle gösterdi: sayfa sağa/sola kayıyor, sol taraf boş kalıyor ve arama/Tarihte Bugün dengesi bozuluyor.
-Yapılan düzeltme: mobil yatay taşma için CSS düzeltildi, body/html overflow-x hidden eklendi, hero/search/today alanları mobilde viewport dışına taşmayacak hale getirildi.
-Kullanıcı her zip içinde konuşma özeti, proje durumu ve eklenen içerik listesinin olmasını istedi. Bu kurala devam edildi.
-Bu sürümde 50 yeni içerik eklendi. Liste: EKLENEN_50_ICERIK_V37.txt
-Analytics korunacak: G-FN8GLBN8VR
-AdSense korunacak: ca-pub-9289852053561118
-app.js cache kırıcı: app.js?v=37
+Kullanıcı V37'yi beğendi; mobil taşma düzeldi. Son istek: Sitede kaç veri olduğunu söyle, 100 veri daha ekle; konular doğa, yemek, yaşam, sosyal, spor, okul, oyun ve depremle ilgili olsun.
+
+Yapılan cevap/iş:
+- Site dosyasında V37 üzerinden V38 hazırlandı.
+- 100 yeni HTML içerik sayfası oluşturuldu.
+- Oyun ve Deprem & Afet kategorileri eklendi.
+- Arama verisi, kategori sayfaları, Tüm Kayıtlar ve sitemap güncellendi.
+- Eklenen tüm içerikler EKLENEN_100_ICERIK_V38.txt dosyasına yazıldı.
+
+Önemli kullanıcı kuralı:
+- Her zip içine sohbet özeti, proje durumu, kontrol raporu ve eklenen içerik listesi konacak.
+- Liste sadece sohbete yazılmayacak; mutlaka zip içine dosya olarak eklenecek.

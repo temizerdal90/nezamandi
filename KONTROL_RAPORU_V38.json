@@ -1,0 +1,25 @@
+{
+  "version": "V38",
+  "before_questions": 881,
+  "after_questions": 968,
+  "before_html": 520,
+  "after_html": 609,
+  "added_count": 87,
+  "added_by_category": {
+    "Deprem & Afet": 10,
+    "Doğa & Uzay": 12,
+    "Günlük Hayat": 11,
+    "Okul & Eğitim": 5,
+    "Oyun": 10,
+    "Sosyal Hayat": 10,
+    "Spor": 10,
+    "Yemek & Mutfak": 19
+  },
+  "analytics_present": true,
+  "adsense_present": true,
+  "app_version": "app.js?v=38",
+  "new_categories": [
+    "oyun.html",
+    "deprem-ve-afet.html"
+  ]
+}
