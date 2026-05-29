@@ -1,24 +1,21 @@
-NEZAMANDI.COM PROJE DURUMU - V33
+NEZAMANDI.COM PROJE DURUMU - V34
 
-Son sürüm: nezamandi_v33_mobil_arama_buyuk_50_veri_sohbet_notlu_full.zip
-Önceki temel: V32 / V31 temiz mobil arama yapısı. Eski 1352 içerik paketi silinmişti; temiz yapıdan devam ediliyor.
+Son sürüm: nezamandi_v34_mobil_arama_yer_degisti_50_veri_full.zip
+Temel alınan sürüm: V33 listeli paket.
 
 Bu pakette yapılanlar:
-- 50 yeni içerik sayfası eklendi.
-- app.js arama verisi güncellendi.
-- İlgili kategori sayfaları güncellendi.
-- tum-kayitlar.html güncellendi.
-- sitemap.xml güncellendi.
-- Mobil ana sayfa arama kutusu büyütüldü ve öne çıkarıldı.
-- SOHBET_OZETI_OKU.txt eklendi. Bundan sonra her zip içine sohbet/proje özeti konacak.
+- Mobilde arama formu, “Ne zaman merak ediyorsun?” başlığının ÜSTÜNE alındı.
+- Arama sonuçları artık inputun hemen altında, butonun üstünde görünecek şekilde düzenlendi. Böylece iPhone klavyesi açıldığında “Atatürk” yazınca sonuç alanı daha görünür olur.
+- Arama kutusunu büyütme odaklı abartı azaltıldı; amaç sonuçları görünür yapmak olarak düzeltildi.
+- 45 yeni içerik sayfası eklendi.
+- app.js arama verisi, kategori sayfaları, tum-kayitlar.html ve sitemap.xml güncellendi.
+- EKLENEN_50_ICERIK_V34.txt dosyası eklendi; hangi içeriklerin eklendiği oradan kontrol edilecek.
 
-Dokunulmayan teknikler:
-- Analytics kodu: G-FN8GLBN8VR
-- AdSense yayıncı kodu: ca-pub-9289852053561118
+Korunan teknikler:
+- Analytics: G-FN8GLBN8VR
+- AdSense: ca-pub-9289852053561118
 - Search Console doğrulama meta etiketi korundu.
 
 Kural:
-- Mevcut başlıklar tekrar eklenmeyecek.
-- Yeni veri eklemeden önce app.js ve mevcut HTML başlıkları kontrol edilecek.
-- Sağlık/çocuk içerikleri kesin teşhis/tedavi diliyle yazılmayacak; genel bilgi ve doktora yönlendirme dili kullanılacak.
-- Güncel gökyüzü, resmi tarih, sınav ve dini günlerde kaynak kontrolü yapılacak.
+- Bundan sonra her zip içinde PROJE_DURUMU_OKU.txt, SOHBET_OZETI_OKU.txt, EKLENEN_ICERIK_LISTESI ve kontrol raporu olacak.
+- Eski 1352 içerik sistemine dönülmeyecek; temiz V31+ yapıdan devam edilecek.

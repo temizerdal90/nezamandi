@@ -29,3 +29,10 @@ Bu zipteki V33 işlemi:
 - Mobil arama büyütüldü.
 - 50 yeni veri/sayfa eklendi.
 - app.js, kategori sayfaları, sitemap.xml ve tum-kayitlar.html güncellendi.
+
+
+V33 eklenen 50 içerik listesi artık zip içinde EKLENEN_50_ICERIK_V33.txt dosyasında yazıyor. Bundan sonra her veri eklenen pakette eklenen başlıkların listesi de özet dosyasına ve ayrı liste dosyasına konacak.
+
+
+V34 NOTU:
+Kullanıcı, mobilde arama kutusunu sadece büyütmek istemediğini; arama sonuçları görünmediği için arama alanının “Ne zaman merak ediyorsun?” başlığıyla yer değiştirmesini istedi. V34te arama formu mobilde üstte olacak şekilde düzenlendi, sonuçlar inputun hemen altına taşındı. Ayrıca 50 yeni veri eklendi ve liste EKLENEN_50_ICERIK_V34.txt içine yazıldı.

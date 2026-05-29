@@ -450,3 +450,29 @@
   .home-main .search-row input{font-size:21px;min-height:72px;}
   .home-main .search-row button{font-size:19px;}
 }
+
+
+/* V34: Mobilde arama kutusunu en üste al, sonuçları klavye üstünde göster */
+.search-submit{border:0;border-radius:18px;background:var(--accent);color:#fff;font-weight:900;padding:16px 24px;font-size:18px;width:100%;margin-top:10px;cursor:pointer}
+.search-card .search-results{max-width:none;margin:10px 0 0;max-height:320px;overflow:auto}
+@media(min-width:801px){
+  .search-card .search-row{display:block}
+  .search-card .search-row input{width:100%;box-sizing:border-box}
+  .search-card{display:grid;gap:10px}
+}
+@media(max-width:700px){
+  .hero-centered{display:flex;flex-direction:column;text-align:center;gap:8px;padding-top:10px!important}
+  .hero-centered .search-card{order:1;margin:6px 12px 8px!important;width:auto!important;box-sizing:border-box}
+  .hero-centered h1{order:2;font-size:25px!important;margin:8px 0 4px!important;letter-spacing:.04em}
+  .hero-centered .hero-desc{order:3;font-size:15px!important;line-height:1.45!important;margin:0 4px 4px!important}
+  .search-card label{font-size:19px!important;line-height:1.25!important;margin-bottom:10px!important;text-align:left!important}
+  .search-card .search-row{display:block!important}
+  .search-card .search-row input{width:100%!important;min-height:60px!important;font-size:22px!important;padding:14px 16px!important;border-radius:20px!important;box-sizing:border-box!important}
+  .search-submit{min-height:56px!important;font-size:19px!important;border-radius:20px!important;margin-top:10px!important}
+  .search-card .search-results{display:grid!important;gap:8px!important;max-height:178px!important;overflow:auto!important;margin:10px 0 0!important}
+  .search-card .result-item{padding:12px 14px!important;border-radius:16px!important;background:#fff!important}
+  .search-card .result-item strong{font-size:16.5px!important;line-height:1.25!important}
+  .search-card .result-item small{font-size:13px!important}
+  .quick-examples{display:grid!important;grid-template-columns:1fr 1fr!important;gap:8px!important;margin-top:10px!important}
+  .quick-examples button{min-height:38px!important;font-size:13.5px!important;overflow:hidden!important}
+}

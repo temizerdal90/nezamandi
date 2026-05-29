@@ -8,5 +8,258 @@
     "Mobil arama büyütüldü",
     "SOHBET_OZETI_OKU.txt eklendi",
     "PROJE_DURUMU_OKU.txt güncellendi"
+  ],
+  "added_pages_list_file": "EKLENEN_50_ICERIK_V33.txt",
+  "added_pages": [
+    {
+      "title": "Abonelik iptali ne zaman yapılır?",
+      "url": "abonelik-iptali-ne-zaman-yapilir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "ALES başvurusu ne zaman yapılır?",
+      "url": "ales-basvurusu-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Araç bakım zamanı ne zaman gelir?",
+      "url": "arac-bakim-zamani-ne-zaman-gelir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Araç sigortası bitmeden ne zaman yenilenir?",
+      "url": "arac-sigortasi-bitmeden-ne-zaman-yenilenir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Aşure ne zaman yapılır?",
+      "url": "asure-ne-zaman-yapilir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Bebekler ne zaman oturur?",
+      "url": "bebekler-ne-zaman-oturur.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Bebeklerde ek gıda ne zaman başlar?",
+      "url": "bebeklerde-ek-gida-ne-zaman-baslar.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Bel ağrısı ne zaman ciddiye alınmalı?",
+      "url": "bel-agrisi-ne-zaman-ciddiye-alinmali.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Boğa meteor yağmuru ne zaman izlenir?",
+      "url": "boga-meteor-yagmuru-ne-zaman-izlenir.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Boğaz ağrısı ne zaman doktora gidilmeli?",
+      "url": "bogaz-agrisi-ne-zaman-doktora-gidilmeli.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Börek fırından ne zaman çıkarılır?",
+      "url": "borek-firindan-ne-zaman-cikarilir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Bulgur pilavı ne zaman pişer?",
+      "url": "bulgur-pilavi-ne-zaman-piser.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Çocuklarda göz muayenesi ne zaman yapılır?",
+      "url": "cocuklarda-goz-muayenesi-ne-zaman-yapilir.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Çorba ne zaman dolaba konur?",
+      "url": "corba-ne-zaman-dolaba-konur.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "DASK poliçesi ne zaman yapılır?",
+      "url": "dask-policesi-ne-zaman-yapilir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "DGS başvurusu ne zaman yapılır?",
+      "url": "dgs-basvurusu-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Diş ağrısında ne zaman doktora gidilir?",
+      "url": "dis-agrisinda-ne-zaman-doktora-gidilir.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Draconid meteor yağmuru ne zaman izlenir?",
+      "url": "draconid-meteor-yagmuru-ne-zaman-izlenir.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Düğün davetiyesi ne zaman dağıtılır?",
+      "url": "dugun-davetiyesi-ne-zaman-dagitilir.html",
+      "category": "Sosyal Hayat"
+    },
+    {
+      "title": "Eta Aquarid meteor yağmuru ne zaman izlenir?",
+      "url": "eta-aquarid-meteor-yagmuru-ne-zaman-izlenir.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Ev sigortası ne zaman yenilenir?",
+      "url": "ev-sigortasi-ne-zaman-yenilenir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Gelinlik provası ne zaman yapılır?",
+      "url": "gelinlik-provasi-ne-zaman-yapilir.html",
+      "category": "Sosyal Hayat"
+    },
+    {
+      "title": "Güllaç ne zaman yapılır?",
+      "url": "gullac-ne-zaman-yapilir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Hamura tuz ne zaman eklenir?",
+      "url": "hamura-tuz-ne-zaman-eklenir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "İkametgah belgesi ne zaman alınır?",
+      "url": "ikametgah-belgesi-ne-zaman-alinir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Kar ne zaman yağar?",
+      "url": "kar-ne-zaman-yagar.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Kara Cuma indirimleri ne zaman başlar?",
+      "url": "kara-cuma-indirimleri-ne-zaman-baslar.html",
+      "category": "Sosyal Hayat"
+    },
+    {
+      "title": "Kargo ne zaman teslim edilir?",
+      "url": "kargo-ne-zaman-teslim-edilir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Kış tatili ne zaman planlanır?",
+      "url": "kis-tatili-ne-zaman-planlanir.html",
+      "category": "Sosyal Hayat"
+    },
+    {
+      "title": "Kızartma yağı ne zaman değiştirilir?",
+      "url": "kizartma-yagi-ne-zaman-degistirilir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Kombi yaz moduna ne zaman alınır?",
+      "url": "kombi-yaz-moduna-ne-zaman-alinir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "KPSS başvurusu ne zaman yapılır?",
+      "url": "kpss-basvurusu-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Kulak ağrısı ne zaman doktora gidilmeli?",
+      "url": "kulak-agrisi-ne-zaman-doktora-gidilmeli.html",
+      "category": "Sağlık & Çocuk"
+    },
+    {
+      "title": "Lastik basıncı ne zaman kontrol edilir?",
+      "url": "lastik-basinci-ne-zaman-kontrol-edilir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Lyrid meteor yağmuru ne zaman izlenir?",
+      "url": "lyrid-meteor-yagmuru-ne-zaman-izlenir.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Menemen tuzu ne zaman atılır?",
+      "url": "menemen-tuzu-ne-zaman-atilir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Mezuniyet başvurusu ne zaman yapılır?",
+      "url": "mezuniyet-basvurusu-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Motor yağı ne zaman değiştirilir?",
+      "url": "motor-yagi-ne-zaman-degistirilir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Noter işlemi ne zaman yapılır?",
+      "url": "noter-islemi-ne-zaman-yapilir.html",
+      "category": "Günlük Hayat"
+    },
+    {
+      "title": "Öğretmen atamaları ne zaman yapılır?",
+      "url": "ogretmen-atamalari-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Okul servisi kaydı ne zaman yapılır?",
+      "url": "okul-servisi-kaydi-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Pazar alışverişi ne zaman yapılır?",
+      "url": "pazar-alisverisi-ne-zaman-yapilir.html",
+      "category": "Sosyal Hayat"
+    },
+    {
+      "title": "Pirinç ne zaman yıkanır?",
+      "url": "pirinc-ne-zaman-yikanir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Poğaça ne zaman kabarır?",
+      "url": "pogaca-ne-zaman-kabarir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Quadrantid meteor yağmuru ne zaman izlenir?",
+      "url": "quadrantid-meteor-yagmuru-ne-zaman-izlenir.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Sütlaç ne zaman kıvam alır?",
+      "url": "sutlac-ne-zaman-kivam-alir.html",
+      "category": "Yemek & Mutfak"
+    },
+    {
+      "title": "Taşınma kolileri ne zaman hazırlanır?",
+      "url": "tasinma-kolileri-ne-zaman-hazirlanir.html",
+      "category": "Sosyal Hayat"
+    },
+    {
+      "title": "Üniversite kayıtları ne zaman yapılır?",
+      "url": "universite-kayitlari-ne-zaman-yapilir.html",
+      "category": "Okul & Eğitim"
+    },
+    {
+      "title": "Yapraklar ne zaman sararır?",
+      "url": "yapraklar-ne-zaman-sararir.html",
+      "category": "Doğa & Uzay"
+    },
+    {
+      "title": "Yaz tatili ne zaman planlanır?",
+      "url": "yaz-tatili-ne-zaman-planlanir.html",
+      "category": "Sosyal Hayat"
+    }
   ]
 }
