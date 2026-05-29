@@ -1,0 +1,31 @@
+SOHBET OZETI - Nezamandi / Hangiyil / Aiparakazanma
+
+Kullanıcı önemli sohbetlerin kaybolduğunu söyledi. Bundan sonra her hazırlanan zip içine bu dosya gibi bir sohbet/proje özeti eklenecek. Amaç: Sohbet kaybolsa bile son zip açıldığında kaldığımız yer anlaşılacak.
+
+Nezamandi.com güncel kararları:
+- V31/V32 temiz yapıdan devam ediliyor. Eski 1352 içerik silindi; eski kalabalık yapıya dönülmeyecek.
+- Ana sayfa sade olacak: tek büyük arama kutusu, kategori kartları, popüler kayıtlar, Tarihte Bugün.
+- İki ayrı arama motoru olmayacak. Kategoriler ayrı olacak ama arama tek olacak.
+- Mobilde arama kutusu büyük, kolay tıklanır ve uygulama gibi görünmeli.
+- İleride PWA / mobil app fikri sırada: önce mobil web app gibi kullanılacak, trafik oluşursa Android + AdMob düşünülecek.
+- Kategoriler: Doğa & Uzay, Yemek & Mutfak, Günlük Hayat/Resmi İşler, Okul & Eğitim, Özel Günler, Sağlık & Çocuk, Sosyal Hayat, Vefat Tarihleri, Tarih & Kişiler.
+- Sağlık ve çocuk gelişimi içeriklerinde teşhis/tedavi yok; genel bilgi + doktora/uzmana yönlendirme var.
+- Doğa/uzayda NASA, timeanddate gibi güvenilir kaynaklarla güncel tarih kontrolü yapılacak.
+
+Aiparakazanma.com güncel kararları:
+- Yeni Analytics mülk kodu G-73HY4F7C1R olarak kuruldu ve veri geldi.
+- AdSense kodu değişmedi: ca-pub-9289852053561118.
+- ads.txt değişmedi.
+
+Hangiyil.com güncel kararları:
+- Kurulum büyük ölçüde tamam; içerik büyütme ve Google takibi aşamasında.
+- İlkler, doğa/gökyüzü, tarih, yıl odaklı içerikler sırada.
+
+Codex notu:
+- İleride GitHub/Vercel projelerinde önce “kontrol et, raporla” mantığıyla kullanılabilir.
+- Analytics/AdSense kod kontrolü, sitemap, tum-kayitlar.html, bozuk link ve çoklu HTML düzenleme işleri için faydalı olabilir.
+
+Bu zipteki V33 işlemi:
+- Mobil arama büyütüldü.
+- 50 yeni veri/sayfa eklendi.
+- app.js, kategori sayfaları, sitemap.xml ve tum-kayitlar.html güncellendi.

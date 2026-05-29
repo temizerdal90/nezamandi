@@ -1,52 +1,24 @@
-NEZAMANDI.COM PROJE DURUMU - OKU
+NEZAMANDI.COM PROJE DURUMU - V33
 
-Son işlem sürümü: V32
-Kaynak dosya: nezamandi_v31_mobil_arama_one_alma(1).zip
-Çıkış dosyası: nezamandi_v32_100_yeni_veri_proje_notlu_full.zip
-Tarih: 2026-05-29
+Son sürüm: nezamandi_v33_mobil_arama_buyuk_50_veri_sohbet_notlu_full.zip
+Önceki temel: V32 / V31 temiz mobil arama yapısı. Eski 1352 içerik paketi silinmişti; temiz yapıdan devam ediliyor.
 
-ÖNEMLİ KURAL
-- Sohbet kaybolsa bile bu dosya kaldığımız yeri anlatır.
-- Bundan sonra her yeni zip içine bu dosya güncellenerek konacak.
-- Eski 1352 içerik temizlendi; bu yapı V31 temiz mobil arama yapısından devam eder.
-
-TEKNİK DURUM
-- Analytics kodu: G-FN8GLBN8VR
-- AdSense yayıncı kodu: ca-pub-9289852053561118
-- Search Console meta doğrulaması korunuyor.
-- robots.txt, ads.txt, sitemap.xml mantığı korunuyor.
-- Ana sayfa sade: tek arama kutusu + kategori kartları + popüler içerikler.
-
-V32'DE YAPILAN
-- Var olan temel başlıklar tekrar edilmeden 100 yeni içerik sayfası eklendi.
+Bu pakette yapılanlar:
+- 50 yeni içerik sayfası eklendi.
 - app.js arama verisi güncellendi.
-- Kategori sayfaları güncellendi.
+- İlgili kategori sayfaları güncellendi.
 - tum-kayitlar.html güncellendi.
 - sitemap.xml güncellendi.
-- Yeni içerikler yemek, günlük hayat, okul, sağlık/çocuk, sosyal hayat, doğa/uzay ve spor kategorilerine dağıtıldı.
+- Mobil ana sayfa arama kutusu büyütüldü ve öne çıkarıldı.
+- SOHBET_OZETI_OKU.txt eklendi. Bundan sonra her zip içine sohbet/proje özeti konacak.
 
-DİKKAT EDİLECEKLER
-- Sağlık içerikleri kesin teşhis/tedavi vermez; genel bilgi + doktora yönlendirme dili kullanılır.
-- Resmi tarih/sınav/ödeme gibi konularda kesin gün gerekiyorsa resmi kaynak kontrol edilir.
-- Güncel gökyüzü olaylarında NASA, timeanddate veya güvenilir astronomi kaynakları kontrol edilmeden kesin tarih yazılmaz.
-- Ziyaretçi boş gönderilmez: pratik aralık, yapılacak adım ve dikkat noktası verilir.
+Dokunulmayan teknikler:
+- Analytics kodu: G-FN8GLBN8VR
+- AdSense yayıncı kodu: ca-pub-9289852053561118
+- Search Console doğrulama meta etiketi korundu.
 
-GÜNCEL SAYILAR
-- HTML dosya sayısı: 313
-- Arama kaydı toplamı: 674
-- İçerik sayfası sayısı: 283
-
-Kategori dağılımı:
-- Arşiv: 1
-- Doğa & Uzay: 32
-- Günlük Hayat: 41
-- Kategori: 11
-- Okul & Eğitim: 28
-- Sağlık & Çocuk: 32
-- Sosyal Hayat: 31
-- Spor: 13
-- Tarih & Kişiler: 10
-- Tarihte Bugün: 379
-- Vefat Tarihleri: 40
-- Yemek & Mutfak: 44
-- Özel Günler: 12
+Kural:
+- Mevcut başlıklar tekrar eklenmeyecek.
+- Yeni veri eklemeden önce app.js ve mevcut HTML başlıkları kontrol edilecek.
+- Sağlık/çocuk içerikleri kesin teşhis/tedavi diliyle yazılmayacak; genel bilgi ve doktora yönlendirme dili kullanılacak.
+- Güncel gökyüzü, resmi tarih, sınav ve dini günlerde kaynak kontrolü yapılacak.
