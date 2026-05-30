@@ -637,3 +637,23 @@ img, iframe, video { max-width:100%; }
     margin-top:26px!important;
   }
 }
+
+/* V49: içerik sayfalarında dil ve ana sayfa menüsü mobilde de taşmadan görünsün */
+@media(max-width:800px){
+  .site-header{
+    flex-wrap:wrap!important;
+    align-items:flex-start!important;
+    gap:10px!important;
+  }
+  .top-nav{
+    display:flex!important;
+    flex-wrap:wrap!important;
+    width:100%!important;
+    gap:8px 12px!important;
+    font-size:13px!important;
+    line-height:1.25!important;
+  }
+  .top-nav a{
+    white-space:nowrap!important;
+  }
+}
