@@ -1,0 +1,39 @@
+EKLENEN İCATLAR İÇERİKLERİ
+Kategori: İcatlar Ne Zaman?
+Kategori sayfası: icatlar-ne-zaman.html
+
+Yeni üretilen içerikler:
+- Ampul ne zaman icat edildi? | ampul-ne-zaman-icat-edildi.html
+- Uçak ne zaman icat edildi? | ucak-ne-zaman-icat-edildi.html
+- Televizyon ne zaman icat edildi? | televizyon-ne-zaman-icat-edildi.html
+- Bilgisayar ne zaman icat edildi? | bilgisayar-ne-zaman-icat-edildi.html
+- İnternet ne zaman icat edildi? | internet-ne-zaman-icat-edildi.html
+- Radyo ne zaman icat edildi? | radyo-ne-zaman-icat-edildi.html
+- Otomobil ne zaman icat edildi? | otomobil-ne-zaman-icat-edildi.html
+- Fotoğraf makinesi ne zaman icat edildi? | fotograf-makinesi-ne-zaman-icat-edildi.html
+- Sinema ne zaman icat edildi? | sinema-ne-zaman-icat-edildi.html
+- Buzdolabı ne zaman icat edildi? | buzdolabi-ne-zaman-icat-edildi.html
+- Çamaşır makinesi ne zaman icat edildi? | camasir-makinesi-ne-zaman-icat-edildi.html
+- Bulaşık makinesi ne zaman icat edildi? | bulasik-makinesi-ne-zaman-icat-edildi.html
+- Mikroskop ne zaman icat edildi? | mikroskop-ne-zaman-icat-edildi.html
+- Teleskop ne zaman icat edildi? | teleskop-ne-zaman-icat-edildi.html
+- Pusula ne zaman icat edildi? | pusula-ne-zaman-icat-edildi.html
+- Buhar makinesi ne zaman icat edildi? | buhar-makinesi-ne-zaman-icat-edildi.html
+- Elektrik ne zaman bulundu? | elektrik-ne-zaman-bulundu.html
+- Pil ne zaman icat edildi? | pil-ne-zaman-icat-edildi.html
+- Asansör ne zaman icat edildi? | asansor-ne-zaman-icat-edildi.html
+- Tren ne zaman icat edildi? | tren-ne-zaman-icat-edildi.html
+- Bisiklet ne zaman icat edildi? | bisiklet-ne-zaman-icat-edildi.html
+- Dikiş makinesi ne zaman icat edildi? | dikis-makinesi-ne-zaman-icat-edildi.html
+- Klima ne zaman icat edildi? | klima-ne-zaman-icat-edildi.html
+- Telefon kamerası ne zaman çıktı? | telefon-kamerasi-ne-zaman-cikti.html
+- Akıllı telefon ne zaman çıktı? | akilli-telefon-ne-zaman-cikti.html
+- Tablet ne zaman çıktı? | tablet-ne-zaman-cikti.html
+- Robot süpürge ne zaman icat edildi? | robot-supurge-ne-zaman-icat-edildi.html
+- 3D yazıcı ne zaman icat edildi? | 3d-yazici-ne-zaman-icat-edildi.html
+- Telgraf ne zaman icat edildi? | telgraf-ne-zaman-icat-edildi.html
+- Daktilo ne zaman icat edildi? | daktilo-ne-zaman-icat-edildi.html
+
+Atlanan/yerine konu eklenen istekler:
+- Telefon ne zaman icat edildi? -> Mevcutta 'İlk telefon ne zaman icat edildi?' kaydı bulunduğu için çok benzer yeni kayıt açılmadı. Yerine: Telgraf ne zaman icat edildi?
+- Matbaa ne zaman icat edildi? -> Aynı başlık ve slug mevcut olduğu için tekrar üretilmedi. Yerine: Daktilo ne zaman icat edildi?

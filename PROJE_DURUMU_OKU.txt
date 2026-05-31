@@ -1,22 +1,44 @@
-NEZAMANDI.COM PROJE DURUMU - V47
+NEZAMANDI.COM PROJE DURUMU - V52
 
-Son sürüm: V47
-Önceki milat: V44, Codex kontrolü temizdi. V45 ana sayfa sadeleştirildi, V46 ikileme kontrolü yapıldı. V47'de 100 yeni içerik eklendi.
+Son sürüm: V52
+Önceki durum: V51'de tüm HTML sayfalarının meta keywords alanları konuya göre genişletilmişti. V52'de genel site standardı, teknik SEO, iç link, sitemap, Analytics/AdSense ve mobil/arama kontrolleri yapıldı.
 
 Son durum:
-- Arama kaydı: 1668
-- HTML sayfası: 1309
-- Analytics: G-FN8GLBN8VR
-- AdSense: ca-pub-9289852053561118
-- app.js sürüm parametresi: app.js?v=47
+- HTML sayfası: 1340
+- Eksik charset: 0
+- Eksik viewport: 0
+- Eksik title: 0
+- Eksik meta description: 0
+- Eksik canonical: 0
+- Hatalı canonical: 0
+- Eksik keywords: 0
+- Sadece 5N1K keywords kalan sayfa: 0
+- app.js sürüm parametresi: app.js?v=52
 
-V47 yapılanlar:
-- 100 yeni içerik eklendi.
-- İkilemelere dikkat edildi; exact title/url ve normalleştirilmiş başlık çakışması kontrol edildi.
-- app.js, sitemap.xml, tum-kayitlar.html ve kategori sayfaları güncellendi.
-- Analytics ve AdSense kodları korundu.
+V52 yapılanlar:
+- Tüm HTML sayfalarında temel meta alanları kontrol edildi; eksik/bozuk olan teknik alanlar görünmez biçimde tamamlandı.
+- Canonical URL'ler Nezamandi alan adı ve mevcut slug yapısına göre doğrulandı.
+- Tüm HTML referansları app.js?v=52 yapıldı.
+- Sitemap mevcut HTML dosyalarıyla karşılaştırıldı; eksik/fazla URL varsa sitemap standardize edildi.
+- robots.txt dosyasına dokunulmadı; sitemap adresi doğru.
+- Analytics, Search Console ve AdSense kodları korundu.
+- JSON-LD varsa parse kontrolü yapıldı; toplu schema eklenmedi.
+- Mobil menüde İcatlar sekmesi ve placeholder döngüsü statik kodla kontrol edildi.
 
-Dosyalar:
-- EKLENEN_100_ICERIK_V47.txt: Eklenen tüm içeriklerin listesi
-- KONTROL_RAPORU_V47.json: Teknik kontrol özeti
-- SOHBET_TAM_KAYIT_GORUNEN.txt: Görünen sohbet/proje kayıt notları
+Kontrol özeti:
+- Birden fazla H1 olan sayfa: 0
+- H1 eksik sayfa: 0
+- Analytics eksik HTML: 0
+- AdSense eksik HTML: 0
+- Search Console meta eksik HTML: 0
+- Yerel kırık link: 0
+- Sitemap'te olup dosyası olmayan URL: 0
+- Dosyası olup sitemap'te olmayan HTML: 0
+- app.js?v=52 olmayan HTML: 0
+- Bozuk JSON-LD: 0
+- Türkçe karakter bozukluğu tespiti: False
+- Exact title duplicate: 0
+- Exact URL duplicate: 0
+
+Rapor dosyası:
+- KONTROL_RAPORU_V52.json

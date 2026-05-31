@@ -1,0 +1,51 @@
+﻿{
+    "version":  "V49",
+    "html_file_count":  1340,
+    "app_js_syntax_ok":  true,
+    "placeholder_random_pool_present":  true,
+    "placeholder_interval_4000_present":  true,
+    "input_value_not_changed_by_placeholder_rotation":  true,
+    "quick_examples_updated":  true,
+    "icatlar_menu_count":  1340,
+    "icatlar_menu_missing_html_count":  0,
+    "icatlar_menu_missing_html":  [
+
+                                  ],
+    "icatlar_link_target_exists":  true,
+    "mobile_menu_wrap_css_present":  true,
+    "local_broken_links_count":  0,
+    "local_broken_links":  [
+
+                           ],
+    "app_js_url_targets_missing_files_count":  0,
+    "app_js_url_targets_missing_files":  [
+
+                                         ],
+    "app_js_v49_missing_html_count":  0,
+    "app_js_v49_missing_html":  [
+
+                                ],
+    "exact_title_duplicates_count":  0,
+    "exact_title_duplicates":  {
+
+                               },
+    "analytics_missing_html_count":  0,
+    "analytics_missing_html":  [
+
+                               ],
+    "adsense_missing_html_count":  0,
+    "adsense_missing_html":  [
+
+                             ],
+    "robots_txt_touched":  false,
+    "sitemap_xml_touched":  false,
+    "placeholder_runtime_test":  {
+                                     "initial_example":  "Örnek: Dolunay ne zaman?",
+                                     "after_interval_example":  "Örnek: Cemre ne zaman düşer?",
+                                     "changed_after_4000ms":  true,
+                                     "interval_ms":  4000,
+                                     "input_value_preserved_after_rotation":  true,
+                                     "quick_chip_count":  4
+                                 },
+    "browser_smoke_test_note":  "Headless Chromium başlatma sandbox nedeniyle çalışmadı; placeholder davranışı Node VM DOM taklidiyle doğrulandı."
+}

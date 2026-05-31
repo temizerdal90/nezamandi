@@ -1,0 +1,37 @@
+{
+  "version": "V48",
+  "created_category": "icatlar-ne-zaman.html",
+  "created_content_count": 30,
+  "skipped_due_to_existing_similar_or_exact": [
+    {
+      "title": "Telefon ne zaman icat edildi?",
+      "reason": "Mevcutta 'İlk telefon ne zaman icat edildi?' kaydı bulunduğu için çok benzer yeni kayıt açılmadı.",
+      "existing_url": "ilk-telefon-ne-zaman-icat-edildi.html",
+      "replacement": "Telgraf ne zaman icat edildi?"
+    },
+    {
+      "title": "Matbaa ne zaman icat edildi?",
+      "reason": "Aynı başlık ve slug mevcut olduğu için tekrar üretilmedi.",
+      "existing_url": "matbaa-ne-zaman-icat-edildi.html",
+      "replacement": "Daktilo ne zaman icat edildi?"
+    }
+  ],
+  "new_pages_openable_as_files": true,
+  "missing_new_pages": [],
+  "app_js_url_targets_missing_files_count": 0,
+  "app_js_url_targets_missing_files": [],
+  "local_broken_links_count": 0,
+  "local_broken_links": [],
+  "exact_title_duplicates_count": 0,
+  "exact_title_duplicates": {},
+  "exact_slug_url_duplicates_count": 0,
+  "exact_slug_url_duplicates": [],
+  "new_pages_in_sitemap": true,
+  "sitemap_missing_new_urls": [],
+  "robots_txt_touched": false,
+  "robots_txt_has_sitemap_reference": true,
+  "analytics_missing_html_count": 0,
+  "analytics_missing_html": [],
+  "adsense_missing_html_count": 0,
+  "adsense_missing_html": []
+}

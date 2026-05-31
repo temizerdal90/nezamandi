@@ -1,0 +1,75 @@
+﻿{
+    "version":  "V51",
+    "total_html_count":  1340,
+    "meta_keywords_html_count":  1340,
+    "meta_keywords_missing_html_count":  0,
+    "meta_keywords_missing_html":  [
+
+                                   ],
+    "only_5n1k_keywords_html_count":  0,
+    "only_5n1k_keywords_html":  [
+
+                                ],
+    "expanded_meta_keywords_count":  1340,
+    "expanded_app_js_keywords_tag_record_count":  1698,
+    "html_5n1k_keywords_count":  829,
+    "app_js_5n1k_keywords_record_count":  1193,
+    "wrong_5n1k_in_excluded_html_count":  0,
+    "wrong_5n1k_in_excluded_html":  [
+
+                                    ],
+    "wrong_5n1k_in_excluded_app_count":  0,
+    "wrong_5n1k_in_excluded_app":  [
+
+                                   ],
+    "visible_body_5n1k_count":  0,
+    "visible_body_5n1k_files":  [
+
+                                ],
+    "title_changed_file_count":  0,
+    "title_changed_files":  [
+
+                            ],
+    "h1_changed_file_count":  0,
+    "h1_changed_files":  [
+
+                         ],
+    "url_slug_changed_file_count":  0,
+    "url_slug_changed_files":  [
+
+                               ],
+    "local_broken_link_count":  0,
+    "local_broken_links":  [
+
+                           ],
+    "app_js_url_targets_missing_files_count":  0,
+    "app_js_url_targets_missing_files":  [
+
+                                         ],
+    "exact_title_duplicate_count":  0,
+    "exact_title_duplicates":  {
+
+                               },
+    "exact_url_duplicate_count":  0,
+    "exact_url_duplicates":  {
+
+                             },
+    "analytics_missing_html_count":  0,
+    "analytics_missing_html":  [
+
+                               ],
+    "adsense_missing_html_count":  0,
+    "adsense_missing_html":  [
+
+                             ],
+    "app_js_v51_missing_html_count":  0,
+    "app_js_v51_missing_html":  [
+
+                                ],
+    "turkish_character_corruption_detected":  false,
+    "turkish_character_corruption_files":  [
+
+                                           ],
+    "robots_txt_touched":  false,
+    "sitemap_xml_touched":  false
+}
