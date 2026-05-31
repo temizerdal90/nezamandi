@@ -1,38 +1,41 @@
-NEZAMANDI.COM PROJE DURUMU - V53
+NEZAMANDI.COM PROJE DURUMU - V54
 
-Son sürüm: V53
-V52 sonrası final içerik genişletme paketi eklendi.
+Son sürüm: V54
+V54 İcatlar 5N1K içerik düzenlemesi tamamlandı.
 
 Son durum:
 - HTML sayfası: 1440
-- app.js kayıt sayısı: 1798
-- Eklenen yeni HTML: 100
-- Eklenen icat içeriği: 50
-- Az kategorilere eklenen içerik: 50
-- app.js sürüm parametresi: app.js?v=53
+- İcat içerik sayfası: 80
+- Görünür 5N1K bölümü olan icat sayfası: 80
+- app.js sürüm parametresi: app.js?v=54
 
-V53 yapılanlar:
-- 50 yeni İcatlar Ne Zaman? içeriği eklendi.
-- 50 yeni içerik az kalan/öncelikli kategorilere dengeli dağıtıldı.
-- app.js, kategori sayfaları, icatlar-ne-zaman.html, tum-kayitlar.html ve sitemap.xml güncellendi.
+V54 yapılanlar:
+- Sadece İcatlar Ne Zaman? kategorisindeki içerik sayfalarına görünür 5N1K ile kısa özet bölümü eklendi.
+- 5N1K başlıkları Ne, Nerede, Ne zaman, Nasıl, Neden ve Kim şeklinde işlendi.
+- Günlük yaşamda nerede kullanılır? ve Geçmişten günümüze nasıl değişti? bölümleri korundu.
+- Diğer kategorilere görünür 5N1K bölümü eklenmedi.
+- Tüm HTML sayfalarında app.js?v=54 referansı güncellendi.
 - Analytics, Search Console doğrulama meta etiketi ve AdSense korundu.
 - robots.txt ve ads.txt dosyalarına dokunulmadı.
 
 Kontrol özeti:
+- 5N1K eksik icat sayfası: 0
+- İcat dışı görünür 5N1K: 0
+- Keywords sadece 5N1K kalan sayfa: 0
+- Eksik keywords: 0
+- Title değişen dosya: 0
+- H1 değişen dosya: 0
+- URL/slug değişen dosya: 0
 - Yerel kırık link: 0
-- app.js hedefi eksik dosya: 0
 - Exact title duplicate: 0
 - Exact URL duplicate: 0
-- Eksik title/description/canonical/keywords: 0/0/0/0
-- Sadece 5N1K keywords: 0
 - Analytics eksik HTML: 0
 - AdSense eksik HTML: 0
-- app.js?v=53 olmayan HTML: 0
+- app.js?v=54 olmayan HTML: 0
 - Sitemap dosyasız URL: 0
 - Sitemap eksik HTML: 0
 - Türkçe karakter bozukluğu: False
 - Bozuk JSON-LD: 0
 
-Rapor dosyaları:
-- EKLENEN_100_ICERIK_V53.txt
-- KONTROL_RAPORU_V53.json
+Rapor dosyası:
+- KONTROL_RAPORU_V54_ICATLAR_5N1K.json
