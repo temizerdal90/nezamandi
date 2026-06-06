@@ -110,3 +110,143 @@ if(input){
   input.addEventListener('focus',()=>mobileSearchActive(true));
   input.addEventListener('blur',()=>setTimeout(()=>mobileSearchActive(false),250));
 }
+
+const dateToolFixedDates = [
+  { names:["29 ekim","cumhuriyet bayrami","cumhuriyet"], day:29, month:10, label:"29 Ekim" },
+  { names:["23 nisan","ulusal egemenlik","cocuk bayrami","çocuk bayramı"], day:23, month:4, label:"23 Nisan" },
+  { names:["19 mayis","genclik ve spor","gençlik ve spor"], day:19, month:5, label:"19 Mayıs" },
+  { names:["30 agustos","zafer bayrami","zafer bayramı"], day:30, month:8, label:"30 Ağustos" },
+  { names:["10 kasim","ataturk","atatürk"], day:10, month:11, label:"10 Kasım" },
+  { names:["1 ocak","yilbasi","yılbaşı"], day:1, month:1, label:"1 Ocak" },
+  { names:["14 subat","sevgililer gunu","sevgililer günü"], day:14, month:2, label:"14 Şubat" },
+  { names:["8 mart","kadinlar gunu","kadınlar günü"], day:8, month:3, label:"8 Mart" },
+  { names:["24 kasim","ogretmenler gunu","öğretmenler günü"], day:24, month:11, label:"24 Kasım" },
+  { names:["5 ekim","dunya ogretmenler gunu","dünya öğretmenler günü"], day:5, month:10, label:"5 Ekim" }
+];
+const dateToolVariableTopics = [
+  "dolunay","ramazan","ramazan bayrami","ramazan bayramı","kurban bayrami","kurban bayramı",
+  "kandil","ay tutulmasi","ay tutulması","gunes tutulmasi","güneş tutulması","meteor yagmuru",
+  "meteor yağmuru","cemre","karneler","okullar","ara tatil","resmi tatil"
+];
+const dateToolAliases = {
+  ps4:"playstation 4",
+  "ps 4":"playstation 4",
+  "29 ekim":"29 ekim cumhuriyet",
+  "23 nisan":"23 nisan ulusal egemenlik cocuk bayrami",
+  karneler:"karneler karne verilir",
+  chatgpt:"chatgpt",
+  cemre:"cemre",
+  dolunay:"dolunay"
+};
+const dateToolForm = document.getElementById("dateToolForm");
+const dateToolInput = document.getElementById("dateToolInput");
+const dateToolResult = document.getElementById("dateToolResult");
+
+function dateToolText(item) {
+  return [
+    item.title,
+    item.description,
+    item.detail,
+    item.answer,
+    item.cat,
+    item.category,
+    item.url,
+    Array.isArray(item.keywords) ? item.keywords.join(" ") : item.keywords
+  ].filter(Boolean).join(" ");
+}
+function scoreDateToolMatch(item, q) {
+  const text = normTR(dateToolText(item));
+  const title = normTR(item.title);
+  const url = normTR(item.url);
+  const expanded = normTR(`${q} ${dateToolAliases[q] || ""}`);
+  const words = expanded.split(" ").filter(Boolean);
+  if (!expanded) return 0;
+  let score = 0;
+  if (title === q || title === expanded) score += 1200;
+  if (title.includes(q)) score += 700;
+  if (url.includes(q.replace(/\s+/g, "-"))) score += 620;
+  words.forEach(word => {
+    if (word.length < 2) return;
+    if (title.includes(word)) score += 80;
+    if (text.includes(word)) score += 26;
+    if (url.includes(word)) score += 18;
+  });
+  return score;
+}
+function findDateToolMatches(query) {
+  const q = normTR(query);
+  if (!q) return [];
+  return questions
+    .map(item => ({ ...item, _score: scoreDateToolMatch(item, q) }))
+    .filter(item => item._score > 0)
+    .sort((a,b) => b._score - a._score || a.title.length - b.title.length)
+    .slice(0, 6);
+}
+function findFixedDate(query) {
+  const q = normTR(query);
+  return dateToolFixedDates.find(dateItem => dateItem.names.some(name => q.includes(normTR(name))));
+}
+function daysUntilDate(dateItem) {
+  const now = new Date();
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  let target = new Date(today.getFullYear(), dateItem.month - 1, dateItem.day);
+  const passedThisYear = target < today;
+  if (passedThisYear) target = new Date(today.getFullYear() + 1, dateItem.month - 1, dateItem.day);
+  const days = Math.round((target - today) / 86400000);
+  return { days, passedThisYear };
+}
+function dateToolDative(label) {
+  const lastVowel = ((label || "").toLocaleLowerCase("tr-TR").match(/[aeıioöuü]/g) || []).pop();
+  return ["e","i","ö","ü"].includes(lastVowel) ? "e" : "a";
+}
+function getDateToolSummary(query, matches) {
+  const fixedDate = findFixedDate(query);
+  if (fixedDate) {
+    const count = daysUntilDate(fixedDate);
+    const suffix = dateToolDative(fixedDate.label);
+    if (count.days === 0) return `Bugün ${fixedDate.label}. İlgili kayıtları aşağıda görebilirsiniz.`;
+    if (count.passedThisYear) return `Bu yılki tarih geçti; bir sonraki ${fixedDate.label}'${suffix} yaklaşık ${count.days} gün kaldı.`;
+    return `${fixedDate.label}'${suffix} yaklaşık ${count.days} gün kaldı.`;
+  }
+  const q = normTR(query);
+  if (dateToolVariableTopics.some(topic => q.includes(normTR(topic)))) {
+    if (q.includes("dolunay")) return "Dolunay tarihleri aya göre değişir; ilgili kayıtları aşağıda görebilirsiniz.";
+    if (q.includes("cemre")) return "Cemre tarihleri yıl içinde belirli dönemlerle anılır; ayrıntı için ilgili kayıtları inceleyebilirsiniz.";
+    if (q.includes("karne") || q.includes("karneler")) return "Karne tarihleri eğitim yılı takvimine göre değişebilir; sitedeki ilgili kayıtları aşağıda görebilirsiniz.";
+    return "Bu konunun tarihi yıla göre değişebilir; kesin gün uydurmadan ilgili kayıtları listeliyorum.";
+  }
+  return matches.length ? "Sitedeki ilgili ne zaman kayıtları aşağıda listelendi." : "";
+}
+function renderDateTool(query) {
+  if (!dateToolResult) return [];
+  const clean = normTR(query);
+  dateToolResult.innerHTML = clean ? "" : "<p>Örnek: 29 Ekim, Dolunay, Cemre, PS4, ChatGPT</p>";
+  if (!clean) return [];
+  const matches = findDateToolMatches(query);
+  const summary = getDateToolSummary(query, matches);
+  const list = matches.map(item => {
+    const desc = item.answer || item.description || item.detail || item.cat || "İlgili ne zaman kaydı.";
+    return `<li><a href="${item.url}"><strong>${item.title}</strong><small>${desc}</small></a></li>`;
+  }).join("");
+  dateToolResult.innerHTML = `
+    ${summary ? `<p class="date-tool-summary">${summary}</p>` : ""}
+    <p class="date-tool-count">${matches.length ? `${matches.length} kayıt bulundu.` : "Kayıt bulunamadı."}</p>
+    ${matches.length ? `<ul class="date-tool-list">${list}</ul>` : `<p>Bu tarih veya konu için doğrudan kayıt bulunamadı. Benzer kayıtlar için <a href="tum-kayitlar.html">Tüm Kayıtlar</a> sayfasına bakabilirsiniz.</p>`}
+  `;
+  return matches;
+}
+if (dateToolInput) {
+  dateToolInput.addEventListener("input", () => renderDateTool(dateToolInput.value));
+  dateToolInput.addEventListener("keydown", e => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      renderDateTool(dateToolInput.value);
+    }
+  });
+}
+if (dateToolForm) {
+  dateToolForm.addEventListener("submit", e => {
+    e.preventDefault();
+    renderDateTool(dateToolInput ? dateToolInput.value : "");
+  });
+}
