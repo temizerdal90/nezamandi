@@ -1,0 +1,27 @@
+{
+  "name": "Ne Zaman? Ne Zamandı?",
+  "short_name": "Ne Zaman?",
+  "description": "Ne zaman, ne zamandı ve hangi tarihte sorularına sade cevaplar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffdf8",
+  "theme_color": "#c7651d",
+  "icons": [
+    {
+      "src": "/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "education",
+    "reference"
+  ],
+  "lang": "tr-TR"
+}

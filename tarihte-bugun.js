@@ -15,7 +15,7 @@ async function fetchOnThisDay(month, day){
 }
 function itemText(x){return (x.year?`<strong>${x.year}</strong> — `:"")+(x.text||"");}
 function listFromData(data){
-  const items=[...(data.selected||[]),...(data.events||[]),...(data.births||[]),...(data.deaths||[])].slice(0,18).map(itemText).filter(Boolean);
+  const items=[...(data.selected||[]),...(data.events||[]),...(data.births||[]),...(data.deaths||[])].slice(0,5).map(itemText).filter(Boolean);
   let html="";
   items.forEach(t=>{html+=`<div class="today-event">${t}</div>`;});
   return html || `<div class="today-event">Bu tarih için bilgi alınamadı.</div>`;
