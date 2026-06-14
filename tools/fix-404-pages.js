@@ -3,7 +3,10 @@ const path = require("path");
 const vm = require("vm");
 
 const root = path.resolve(__dirname, "..");
-const pastedTextPath = "C:/Users/temiz/.codex/attachments/aa5d5b99-6d17-4b7d-a8ba-b5a6033da679/pasted-text.txt";
+const pastedTextPaths = [
+  "C:/Users/temiz/.codex/attachments/aa5d5b99-6d17-4b7d-a8ba-b5a6033da679/pasted-text.txt",
+  "C:/Users/temiz/.codex/attachments/c1d18b43-2199-4373-b0d5-a5a18bdafbce/pasted-text.txt",
+];
 const site = "https://www.nezamandi.com/";
 
 const categoryPages = {
@@ -282,7 +285,10 @@ function getQuestions() {
   return { appPath, code, cut, questions: sandbox.questions || [] };
 }
 
-const pasted = fs.readFileSync(pastedTextPath, "utf8");
+const pasted = pastedTextPaths
+  .filter((file) => fs.existsSync(file))
+  .map((file) => fs.readFileSync(file, "utf8"))
+  .join("\n");
 const urls = [...pasted.matchAll(/https:\/\/www\.nezamandi\.com\/([^\s]+)/g)]
   .map((match) => match[1])
   .filter((url) => url.endsWith(".html"));
@@ -344,8 +350,17 @@ const allHtml = fs
   .filter((file) => file.endsWith(".html"))
   .filter((file) => file !== "index.html")
   .sort((a, b) => a.localeCompare(b, "tr"));
+const englishHtml = fs.existsSync(path.join(root, "en"))
+  ? fs
+      .readdirSync(path.join(root, "en"))
+      .filter((file) => file.endsWith(".html"))
+      .filter((file) => file !== "index.html")
+      .map((file) => `en/${file}`)
+      .sort((a, b) => a.localeCompare(b, "en"))
+  : [];
 const extraUrls = ["en/"];
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>${site}</loc></url>\n${extraUrls.map((url) => `  <url><loc>${site}${url}</loc></url>`).join("\n")}\n${allHtml.map((file) => `  <url><loc>${site}${file}</loc></url>`).join("\n")}\n</urlset>\n`;
+const sitemapUrls = [...extraUrls, ...englishHtml, ...allHtml];
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>${site}</loc></url>\n${sitemapUrls.map((url) => `  <url><loc>${site}${url}</loc></url>`).join("\n")}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, "sitemap.xml"), sitemap, "utf8");
 
 const tumPath = path.join(root, "tum-kayitlar.html");
@@ -365,5 +380,5 @@ console.log(JSON.stringify({
   targetUrls: targetSlugs.length,
   created,
   appEntriesAdded: additions.length,
-  sitemapUrls: allHtml.length + extraUrls.length + 1,
+  sitemapUrls: sitemapUrls.length + 1,
 }, null, 2));
