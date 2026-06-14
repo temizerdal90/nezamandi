@@ -342,8 +342,10 @@ if (additions.length || generatedEntries.some((item) => existingUrls.has(item.ur
 const allHtml = fs
   .readdirSync(root)
   .filter((file) => file.endsWith(".html"))
+  .filter((file) => file !== "index.html")
   .sort((a, b) => a.localeCompare(b, "tr"));
-const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>${site}</loc></url>\n${allHtml.map((file) => `  <url><loc>${site}${file}</loc></url>`).join("\n")}\n</urlset>\n`;
+const extraUrls = ["en/"];
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n  <url><loc>${site}</loc></url>\n${extraUrls.map((url) => `  <url><loc>${site}${url}</loc></url>`).join("\n")}\n${allHtml.map((file) => `  <url><loc>${site}${file}</loc></url>`).join("\n")}\n</urlset>\n`;
 fs.writeFileSync(path.join(root, "sitemap.xml"), sitemap, "utf8");
 
 const tumPath = path.join(root, "tum-kayitlar.html");
@@ -363,5 +365,5 @@ console.log(JSON.stringify({
   targetUrls: targetSlugs.length,
   created,
   appEntriesAdded: additions.length,
-  sitemapUrls: allHtml.length + 1,
+  sitemapUrls: allHtml.length + extraUrls.length + 1,
 }, null, 2));

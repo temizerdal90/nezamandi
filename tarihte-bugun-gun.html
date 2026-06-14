@@ -11,6 +11,21 @@
 <meta property="og:title" content="Tarihte Bugün Gün Sayfası | Nezamandi">
 <meta property="og:description" content="Seçilen gün için Tarihte Bugün olayları, doğumlar ve vefatlar.">
 <meta property="og:url" content="https://www.nezamandi.com/tarihte-bugun-gun.html">
+<script>
+(function(){
+  var params = new URLSearchParams(window.location.search);
+  var m = params.get("m");
+  var d = params.get("d");
+  if (!m || !d) return;
+  m = String(m).padStart(2, "0");
+  d = String(d).padStart(2, "0");
+  var canonicalUrl = "https://www.nezamandi.com/tarihte-bugun-gun.html?m=" + encodeURIComponent(m) + "&d=" + encodeURIComponent(d);
+  var canonical = document.querySelector('link[rel="canonical"]');
+  if (canonical) canonical.setAttribute("href", canonicalUrl);
+  var ogUrl = document.querySelector('meta[property="og:url"]');
+  if (ogUrl) ogUrl.setAttribute("content", canonicalUrl);
+})();
+</script>
 <meta property="og:type" content="website">
 <meta name="application-name" content="Ne Zaman? Ne Zamandı?">
 <meta name="apple-mobile-web-app-title" content="Ne Zaman?">
