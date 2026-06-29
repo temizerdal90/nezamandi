@@ -1,0 +1,26 @@
+no,title,category,note
+51,Fatura ne zaman kontrol edilir,Ev,Son ödeme tarihinden önce kontrol edilir
+52,Alışveriş listesi ne zaman yapılır,Ev,Markete gitmeden önce hazırlanır
+53,Buzdolabı ne zaman temizlenir,Ev,Düzenli aralıklarla ve dökülme olduğunda temizlenir
+54,Dondurucu ne zaman çözdürülür,Ev,Buzlanma arttığında çözdürülür
+55,Çamaşır ne zaman yıkanır,Ev,Renk ve kumaş türüne göre ayrılarak yıkanır
+56,Ütü ne zaman yapılır,Ev,Kıyafet tamamen kuruduktan sonra yapılır
+57,Ev havalandırması ne zaman yapılır,Ev,Gün içinde kısa süreli yapılabilir
+58,Klima bakımı ne zaman yapılır,Ev,Sezon başlamadan önce kontrol edilir
+59,Kombi bakımı ne zaman yapılır,Ev,Kış gelmeden önce planlanır
+60,Petek havası ne zaman alınır,Ev,Isınma düzensizse kontrol edilir
+61,Araba bakımı ne zaman yapılır,Araç,Kilometre veya bakım zamanına göre yapılır
+62,Lastik basıncı ne zaman kontrol edilir,Araç,Uzun yol öncesi ve düzenli aralıklarla bakılır
+63,Yağ seviyesi ne zaman kontrol edilir,Araç,Periyodik bakım öncesi ve yol öncesi kontrol edilir
+64,Araç muayenesi ne zaman yapılır,Araç,Ruhsattaki süreye göre takip edilir
+65,Silecek ne zaman değiştirilir,Araç,İz bırakıyorsa veya ses yapıyorsa değişir
+66,Telefon şarjı ne zaman yapılır,Teknoloji,Batarya seviyesi düşünce dengeli şarj edilir
+67,Telefon yedeği ne zaman alınır,Teknoloji,Önemli veri ekledikten sonra alınabilir
+68,Bilgisayar yedeği ne zaman alınır,Teknoloji,Düzenli aralıklarla alınmalıdır
+69,Şifre ne zaman değiştirilir,Teknoloji,Güvenlik ihtiyacı oluştuğunda yenilenir
+70,Modem ne zaman yeniden başlatılır,Teknoloji,Bağlantı sorunu olduğunda denenebilir
+71,Yazılım güncellemesi ne zaman yapılır,Teknoloji,Uygun zamanda ve yedek sonrası yapılır
+72,Fotolar ne zaman yedeklenir,Teknoloji,Önemli çekimlerden sonra yedeklenebilir
+73,Mail kutusu ne zaman temizlenir,Teknoloji,Düzenli aralıklarla düzenlenir
+74,Takvim ne zaman planlanır,Planlama,Hafta başında veya önceki akşam hazırlanır
+75,Hatırlatıcı ne zaman kurulur,Planlama,Unutulmaması gereken işlerde önceden kurulur
